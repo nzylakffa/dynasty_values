@@ -28,7 +28,7 @@ st.sidebar.markdown("8) You'll need to wait a few seconds for the tool to pull a
 chrome_version = "114.0.5735.90"
 
 # Use Selenium Manager to get the WebDriver path
-driver_path = ChromeDriverManager(chrome_version=chrome_version).install()
+driver_path = ChromeDriverManager(last_version=chrome_version).install()
 
 # Set up the WebDriver
 options = webdriver.ChromeOptions()
