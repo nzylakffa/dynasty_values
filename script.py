@@ -1,10 +1,23 @@
-# from selenium import webdriver
-# from selenium.webdriver.chrome.options import Options
-# from webdriver_manager.chrome import ChromeDriverManager
+# # from selenium import webdriver
+# # from selenium.webdriver.chrome.options import Options
+# # from webdriver_manager.chrome import ChromeDriverManager
+# import pandas as pd
+# import time
+# import streamlit as st
+# from bs4 import BeautifulSoup, SoupStrainer
+
 import pandas as pd
-import time
 import streamlit as st
+import datetime
+from datetime import date
+from datetime import timedelta
+import matplotlib as mpl
+import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup, SoupStrainer
+import requests
+import altair as alt
+import lxml
+
 
 st.write("Hi")
 
