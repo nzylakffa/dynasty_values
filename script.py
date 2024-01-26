@@ -37,4 +37,4 @@ table = rankings_div.find('table')
 df = pd.read_html(str(table))[0]
 
 # Display the DataFrame
-print(df)
+st.dataframe(df)
