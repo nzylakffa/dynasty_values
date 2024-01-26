@@ -1,25 +1,15 @@
-# # from selenium import webdriver
-# # from selenium.webdriver.chrome.options import Options
-# # from webdriver_manager.chrome import ChromeDriverManager
-# import pandas as pd
-# import time
-# import streamlit as st
-# from bs4 import BeautifulSoup, SoupStrainer
-
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
+import time
 import streamlit as st
-import datetime
-from datetime import date
-from datetime import timedelta
+from bs4 import BeautifulSoup, SoupStrainer
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from bs4 import BeautifulSoup, SoupStrainer
 import requests
 import altair as alt
 import lxml
-
-
-st.write("Hi")
 
 st.sidebar.markdown("# Read This!")
 st.sidebar.markdown("### You will see errors until you fill out the 4 items on this page and then select your team and a trade partner on the Trade Calculator tab!")
