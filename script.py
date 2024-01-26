@@ -24,35 +24,35 @@ st.sidebar.markdown("6) Turn on the toggle if it's a dynasty league")
 st.sidebar.markdown("7) Go to the Trade Calculator tab and select your display name along with your trade partner's display name")
 st.sidebar.markdown("8) You'll need to wait a few seconds for the tool to pull all the information")
 
-# # Set up Chrome options for headless mode
-# chrome_options = Options()
-# chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-# chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
+# Set up Chrome options for headless mode
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
 
-# # Use webdriver_manager to automatically download the correct version of ChromeDriver
-# driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
-# driver.get("https://keeptradecut.com/dynasty-rankings")
+# Use webdriver_manager to automatically download the correct version of ChromeDriver
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
+driver.get("https://keeptradecut.com/dynasty-rankings")
 
-# # Wait for a few seconds to let JavaScript execute and populate the rankings
-# time.sleep(5)
+# Wait for a few seconds to let JavaScript execute and populate the rankings
+time.sleep(5)
 
-# # Get the page source after JavaScript has executed
-# page_source = driver.page_source
+# Get the page source after JavaScript has executed
+page_source = driver.page_source
 
-# # Close the Selenium WebDriver
-# driver.quit()
+# Close the Selenium WebDriver
+driver.quit()
 
-# # Parse the HTML content of the page
-# soup = BeautifulSoup(page_source, 'html.parser')
+# Parse the HTML content of the page
+soup = BeautifulSoup(page_source, 'html.parser')
 
-# # Find the div with the specified class and id
-# rankings_div = soup.find('div', {'class': 'rankings-page-rankings', 'id': 'rankings-page-rankings'})
+# Find the div with the specified class and id
+rankings_div = soup.find('div', {'class': 'rankings-page-rankings', 'id': 'rankings-page-rankings'})
 
-# # Find the table within the div
-# table = rankings_div.find('table')
+# Find the table within the div
+table = rankings_div.find('table')
 
-# # Use pandas to read the HTML table into a DataFrame
-# df = pd.read_html(str(table))[0]
+# Use pandas to read the HTML table into a DataFrame
+df = pd.read_html(str(table))[0]
 
-# # Display the DataFrame
-# st.dataframe(df)
+# Display the DataFrame
+st.dataframe(df)
