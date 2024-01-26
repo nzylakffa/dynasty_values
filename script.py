@@ -24,13 +24,20 @@ st.sidebar.markdown("6) Turn on the toggle if it's a dynasty league")
 st.sidebar.markdown("7) Go to the Trade Calculator tab and select your display name along with your trade partner's display name")
 st.sidebar.markdown("8) You'll need to wait a few seconds for the tool to pull all the information")
 
-# Set up Chrome options for headless mode
-chrome_options = Options()
-chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
 
-# Use webdriver_manager to automatically download the correct version of ChromeDriver
-driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
+# Set the Chrome version explicitly
+chrome_version = "98.0.4758.102"
+
+# Use Selenium Manager to get the WebDriver path
+driver_path = ChromeDriverManager(chrome_version=chrome_version).install()
+
+# Set up the WebDriver
+options = webdriver.ChromeOptions()
+options.add_argument("--headless")
+driver = webdriver.Chrome(executable_path=driver_path, options=options)
+
+# Rest of your Selenium code
+
 driver.get("https://keeptradecut.com/dynasty-rankings")
 
 # Wait for a few seconds to let JavaScript execute and populate the rankings
