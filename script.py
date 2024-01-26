@@ -27,8 +27,15 @@ st.sidebar.markdown("8) You'll need to wait a few seconds for the tool to pull a
 # Set the Chrome version explicitly
 chrome_version = "114.0.5735.90"
 
-# Use Selenium Manager to get the WebDriver path
-driver_path = ChromeDriverManager(last_version=chrome_version).install()
+# Use Selenium Manager to get the WebDriver path without using arguments
+driver_path = ChromeDriverManager().install()
+
+# Set the downloaded chromedriver version
+with open(driver_path, "r") as f:
+    data = f.read()
+    data = data.replace("driver_version = '", f"driver_version = '{chrome_version}")
+with open(driver_path, "w") as f:
+    f.write(data)
 
 # Set up the WebDriver
 options = webdriver.ChromeOptions()
@@ -36,6 +43,7 @@ options.add_argument("--headless")
 driver = webdriver.Chrome(executable_path=driver_path, options=options)
 
 # Rest of your Selenium code
+
 
 driver.get("https://keeptradecut.com/dynasty-rankings")
 
