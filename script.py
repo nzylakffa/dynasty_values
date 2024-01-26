@@ -1,7 +1,7 @@
-from selenium import webdriver
+# from selenium import webdriver
 # from selenium.webdriver.chrome.options import Options
 # from webdriver_manager.chrome import ChromeDriverManager
-# from bs4 import BeautifulSoup, SoupStrainer
+from bs4 import BeautifulSoup, SoupStrainer
 import pandas as pd
 import time
 import streamlit as st
