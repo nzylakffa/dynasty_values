@@ -24,9 +24,8 @@ st.sidebar.markdown("6) Turn on the toggle if it's a dynasty league")
 st.sidebar.markdown("7) Go to the Trade Calculator tab and select your display name along with your trade partner's display name")
 st.sidebar.markdown("8) You'll need to wait a few seconds for the tool to pull all the information")
 
-
 # Set the Chrome version explicitly
-chrome_version = "98.0.4758.102"
+chrome_version = "114.0.5735.90"
 
 # Use Selenium Manager to get the WebDriver path
 driver_path = ChromeDriverManager(chrome_version=chrome_version).install()
