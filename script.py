@@ -1,7 +1,7 @@
 # from selenium import webdriver
 # from selenium.webdriver.chrome.options import Options
 # from webdriver_manager.chrome import ChromeDriverManager
-import bs4
+import beautifulsoup4 as bs4
 from bs4 import BeautifulSoup, SoupStrainer
 import pandas as pd
 import time
