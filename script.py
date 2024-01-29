@@ -152,9 +152,8 @@ def process_data():
     final_rankings = final_rankings[['Value', 'Industry Rank', 'FFA Rank', 'Player Name', 'Rookie', 'Position', 'Team']]
 
     # Sort by 1 QB
-    final_rankings.sort_values(by='Value', ascending=False, inplace=True)
-
-    return rinal_rankings
+    sorted_final_rankings = final_rankings.sort_values(by='Value', ascending=False, inplace=True)
+    return sorted_final_rankings
 
 # Main app function
 def main():
@@ -162,13 +161,12 @@ def main():
 
     # Load and process data
     sorted_final_rankings = process_data()
-
+    
 #######################
 ##### Best Values #####
 #######################
 
 with tab_best:
-    
 
     # Rename
     final_rankings = sorted_final_rankings
