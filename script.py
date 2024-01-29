@@ -77,6 +77,8 @@ def process_data():
     
     # Scrape each page and store the results in a DataFrame
     rankings_dfs = {position: scrape_rankings(f'https://keeptradecut.com/dynasty-rankings/{position}-rankings') for position in ['qb', 'rb', 'wr', 'te']}
+
+    st.dataframe(rankings_dfs)
     
     # ... (other parts of the code remain unchanged)
     
