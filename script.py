@@ -161,6 +161,8 @@ def main():
 
     # Load and process data
     sorted_final_rankings = process_data()
+
+st.write(sorted_final_rankings)
     
 #######################
 ##### Best Values #####
