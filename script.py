@@ -151,7 +151,7 @@ def process_data():
     # Keep these columns
     final_rankings = final_rankings[['Value', 'Industry Rank', 'FFA Rank', 'Player Name', 'Rookie', 'Position', 'Team']]
 
-    st.write(final_rankings)
+    st.dataframe(final_rankings)
 
     # Sort by 1 QB
     sorted_final_rankings = final_rankings.sort_values(by='Value', ascending=False)
