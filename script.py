@@ -12,23 +12,10 @@ from matplotlib.colors import ListedColormap
 import matplotlib
 import streamlit as st
 
-# st.markdown(
-#     """
-#     <style>
-#     .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
-#     .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137,
-#     .viewerBadge_text__1JaDK {
-#         display: none;
-#     }
-#     </style>
-#     """,
-#     unsafe_allow_html=True
-# )
-
 ###################
 ##### Sidebar #####
 ###################
-st.sidebar.image('ffa_red.png', use_column_width=True)
+# st.sidebar.image('ffa_red.png', use_column_width=True)
 st.sidebar.markdown("<h4 style='text-align: center;'>Click Fullscreen at the bottom for the best user experience</h4>", unsafe_allow_html=True)
 st.sidebar.markdown("<h1 style='text-align: center;'>What is this page?</h1>", unsafe_allow_html=True)
 st.sidebar.markdown("When you open this page, my script will scrape industry data about players ranking in dynasty leagues.")
@@ -38,10 +25,9 @@ st.sidebar.markdown("My script will also pull my own rankings on the backend, co
 st.sidebar.markdown("This doesn't mean you need to go out and trade for all the best values and sell the worst values. But it does mean that I value them a lot more or less than the overall market. So these are players you should heavily consider using when you think about trading!")
 st.sidebar.markdown("Also note that these are POSITIONAL RANKINGS. This means you can use this table as a guide no matter if you're in a SuperFlex league, a TE Premium league, or a regular 1 QB league.")
 
+
 tab_best, tab_worst = st.tabs(["Best Values", "Worst Values"])
 
-# Cached scraping function
-@st.cache
 def scrape_rankings(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -68,111 +54,96 @@ def scrape_rankings(url):
 
     return pd.DataFrame(player_data)
 
-# Cached data processing function
-@st.cache
-def process_data():
-    # Dictionary to store DataFrames for each position
-    rankings_dfs = {}
-    positions = ['qb', 'rb', 'wr', 'te']
-    
-    # Scrape each page and store the results in a DataFrame
-    rankings_dfs = {position: scrape_rankings(f'https://keeptradecut.com/dynasty-rankings/{position}-rankings') for position in ['qb', 'rb', 'wr', 'te']}
+# Dictionary to store DataFrames for each position
+rankings_dfs = {}
+positions = ['qb', 'rb', 'wr', 'te']
 
-    st.dataframe(rankings_dfs)
-    
-    # ... (other parts of the code remain unchanged)
-    
-    # Load the CSV data from the GitHub URL into a DataFrame
-    github_df = pd.read_csv('https://raw.githubusercontent.com/nzylakffa/sleepercalc/main/All%20Dynasty%20Rankings.csv')
-    
-    # Drop the specific columns named 'TEP', 'SF TEP', and 'SF'
-    columns_to_drop = ['TEP', 'SF TEP', 'SF']
-    github_df.drop(columns=columns_to_drop, errors='ignore', inplace=True)  # errors='ignore' will ignore any columns not found
-    
-    # Create a new 'Rank' column based on sorting by '1 QB' within each position
-    github_df['Rank'] = github_df.groupby('Position')['1 QB'].rank(method='first', ascending=False)
-    
-    # Function to apply fuzzy matching and find the best match for a given name
-    def fuzzy_merge(df1, df2, key1, key2, threshold=90, limit=1):
-        """
-        df1 is the left table to merge
-        df2 is the right table to merge
-        key1 is the key column of the left table
-        key2 is the key column of the right table
-        threshold is how close the matches should be to return a match, based on Levenshtein distance
-        limit is the number of matches to return, we'll keep it at 1 to return the best match
-        """
-        s = df2[key2].tolist()
-    
-        m = df1[key1].apply(lambda x: process.extract(x, s, limit=limit))
-        df1['matches'] = m
-        
-        m2 = df1['matches'].apply(lambda x: x[0][0] if x[0][1] >= threshold else None)
-        df1['matched_name'] = m2
-        
-        return df1
-    
-    # Perform the fuzzy matching and merge for each position DataFrame
-    final_rankings = pd.DataFrame()
-    
-    for position in ['qb', 'rb', 'wr', 'te']:
-        # Apply fuzzy matching
-        rankings_dfs[position] = fuzzy_merge(rankings_dfs[position], github_df, 'Name', 'Player', threshold=80)
-        
-        # Perform the merge using the matched name
-        merged_df = pd.merge(rankings_dfs[position], github_df, left_on='matched_name', right_on='Player', how='left')
-        
-        # Drop the columns we don't need after the merge
-        merged_df.drop(columns=['matches', 'matched_name', 'Player'], inplace=True)
-        
-        # Append to the final DataFrame
-        final_rankings = pd.concat([final_rankings, merged_df], ignore_index=True)
-    
-    # Sort the final DataFrame by '1 QB' from highest to lowest
-    final_rankings.sort_values(by='1 QB', ascending=False, inplace=True)
-    
-    # Reset index in the final DataFrame
-    final_rankings.reset_index(drop=True, inplace=True)
-    
-    # Drop the specific columns named 'TEP', 'SF TEP', and 'SF'
-    columns_to_drop = ['Team_x']
-    final_rankings.drop(columns=columns_to_drop, errors='ignore', inplace=True)  # errors='ignore' will ignore any columns not found
-    
-    # Rename:
-    final_rankings = final_rankings.rename(columns={'Team_y': 'Team',
-                                                    'Rank': 'FFA Rank',
-                                                    'Name': 'Player Name',
-                                                    '1 QB': 'Value'})
-    
-    # Drop rows where 'FFA Rank' is NA
-    final_rankings.dropna(subset=['FFA Rank'], inplace=True)
-    
-    # Convert 'FFA Rank' from float to int (after dropping NA to avoid type errors)
-    final_rankings['FFA Rank'] = final_rankings['FFA Rank'].astype(int)
-    
-    # Keep these columns
-    final_rankings = final_rankings[['Value', 'Industry Rank', 'FFA Rank', 'Player Name', 'Rookie', 'Position', 'Team']]
+# Scrape each page and store the results in a DataFrame
+rankings_dfs = {position: scrape_rankings(f'https://keeptradecut.com/dynasty-rankings/{position}-rankings') for position in ['qb', 'rb', 'wr', 'te']}
 
-    st.dataframe(final_rankings)
+# ... (other parts of the code remain unchanged)
 
-    # Sort by 1 QB
-    sorted_final_rankings = final_rankings.sort_values(by='Value', ascending=False)
-    return sorted_final_rankings
+# Load the CSV data from the GitHub URL into a DataFrame
+github_df = pd.read_csv('https://raw.githubusercontent.com/nzylakffa/sleepercalc/main/All%20Dynasty%20Rankings.csv')
 
-# Main app function
-def main():
-    st.title("Fantasy Football Player Rankings")
+# Drop the specific columns named 'TEP', 'SF TEP', and 'SF'
+columns_to_drop = ['TEP', 'SF TEP', 'SF']
+github_df.drop(columns=columns_to_drop, errors='ignore', inplace=True)  # errors='ignore' will ignore any columns not found
 
-    # Load and process data
-    sorted_final_rankings = process_data()
+# Create a new 'Rank' column based on sorting by '1 QB' within each position
+github_df['Rank'] = github_df.groupby('Position')['1 QB'].rank(method='first', ascending=False)
 
-st.write(sorted_final_rankings)
+# Function to apply fuzzy matching and find the best match for a given name
+def fuzzy_merge(df1, df2, key1, key2, threshold=90, limit=1):
+    """
+    df1 is the left table to merge
+    df2 is the right table to merge
+    key1 is the key column of the left table
+    key2 is the key column of the right table
+    threshold is how close the matches should be to return a match, based on Levenshtein distance
+    limit is the number of matches to return, we'll keep it at 1 to return the best match
+    """
+    s = df2[key2].tolist()
+
+    m = df1[key1].apply(lambda x: process.extract(x, s, limit=limit))
+    df1['matches'] = m
     
+    m2 = df1['matches'].apply(lambda x: x[0][0] if x[0][1] >= threshold else None)
+    df1['matched_name'] = m2
+    
+    return df1
+
+# Perform the fuzzy matching and merge for each position DataFrame
+final_rankings = pd.DataFrame()
+
+for position in ['qb', 'rb', 'wr', 'te']:
+    # Apply fuzzy matching
+    rankings_dfs[position] = fuzzy_merge(rankings_dfs[position], github_df, 'Name', 'Player', threshold=80)
+    
+    # Perform the merge using the matched name
+    merged_df = pd.merge(rankings_dfs[position], github_df, left_on='matched_name', right_on='Player', how='left')
+    
+    # Drop the columns we don't need after the merge
+    merged_df.drop(columns=['matches', 'matched_name', 'Player'], inplace=True)
+    
+    # Append to the final DataFrame
+    final_rankings = pd.concat([final_rankings, merged_df], ignore_index=True)
+
+# Sort the final DataFrame by '1 QB' from highest to lowest
+final_rankings.sort_values(by='1 QB', ascending=False, inplace=True)
+
+# Reset index in the final DataFrame
+final_rankings.reset_index(drop=True, inplace=True)
+
+# Drop the specific columns named 'TEP', 'SF TEP', and 'SF'
+columns_to_drop = ['Team_x']
+final_rankings.drop(columns=columns_to_drop, errors='ignore', inplace=True)  # errors='ignore' will ignore any columns not found
+
+# Rename:
+final_rankings = final_rankings.rename(columns={'Team_y': 'Team',
+                                                'Rank': 'FFA Rank',
+                                                'Name': 'Player Name',
+                                                '1 QB': 'Value'})
+
+# Drop rows where 'FFA Rank' is NA
+final_rankings.dropna(subset=['FFA Rank'], inplace=True)
+
+# Convert 'FFA Rank' from float to int (after dropping NA to avoid type errors)
+final_rankings['FFA Rank'] = final_rankings['FFA Rank'].astype(int)
+
+# Keep these columns
+final_rankings = final_rankings[['Value', 'Industry Rank', 'FFA Rank', 'Player Name', 'Rookie', 'Position', 'Team']]
+
+# Sort by 1 QB
+final_rankings.sort_values(by='Value', ascending=False, inplace=True)
+sorted_final_rankings = final_rankings
+
 #######################
 ##### Best Values #####
 #######################
 
 with tab_best:
+    
 
     # Rename
     final_rankings = sorted_final_rankings
@@ -691,6 +662,3 @@ with tab_worst:
     # Display the table
     plt.title('FFA vs Industry Worst Values', fontsize=16, fontweight='bold')
     st.pyplot(fig)
-
-if __name__ == "__main__":
-    main()
