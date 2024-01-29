@@ -152,7 +152,7 @@ def process_data():
     final_rankings = final_rankings[['Value', 'Industry Rank', 'FFA Rank', 'Player Name', 'Rookie', 'Position', 'Team']]
 
     # Sort by 1 QB
-    sorted_final_rankings = final_rankings.sort_values(by='Value', ascending=False, inplace=True)
+    sorted_final_rankings = final_rankings.sort_values(by='Value', ascending=False)
     return sorted_final_rankings
 
 # Main app function
