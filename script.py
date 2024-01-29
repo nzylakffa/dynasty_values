@@ -15,7 +15,7 @@ import streamlit as st
 ###################
 ##### Sidebar #####
 ###################
-# st.sidebar.image('ffa_red.png', use_column_width=True)
+st.sidebar.image('ffa_red.png', use_column_width=True)
 st.sidebar.markdown("<h1 style='text-align: center;'>What is this page?</h1>", unsafe_allow_html=True)
 st.sidebar.markdown("When you open this page, my script will scrape industry data about players ranking in dynasty leagues.")
 st.sidebar.markdown("I've chosen to use [KeepTradeCut](https://keeptradecut.com/dynasty-rankings) as a resource for this. You can access their website through the hyperlink.")
