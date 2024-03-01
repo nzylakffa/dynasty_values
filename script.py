@@ -26,10 +26,10 @@ st.sidebar.markdown("This doesn't mean you need to go out and trade for all the 
 st.sidebar.markdown("Also note that these are POSITIONAL RANKINGS. This means you can use this table as a guide no matter if you're in a SuperFlex league, a TE Premium league, or a regular 1 QB league.")
 
 # Checkbox to trigger scraping
-trigger_scrape = st.sidebar.checkbox('Click here to load data')
+trigger_scrape = st.checkbox('Click here to load data')
 
 if trigger_scrape:
-    with st.spinner('Loading data... Please wait'):
+    with st.spinner('Collecting data... Please wait'):
 
         tab_best, tab_worst = st.tabs(["Best Values", "Worst Values"])
         
