@@ -216,6 +216,9 @@ if trigger_scrape:
         
             # Sort by value
             table_df = top_values.sort_values(by = 'Value', ascending=False).reset_index(drop=True)
+
+            # Kick out anyone named Joe Milton
+            table_df = table_df[table_df['Player'] != "Joe Milton"]
         
             # Drop the value column
             table_df = table_df.drop('Value', axis=1)
