@@ -481,6 +481,9 @@ if trigger_scrape:
         
             # Drop the value column
             table_df = table_df.drop('Value', axis=1)
+
+            # Kick out anyone named Joe Milton
+            table_df = table_df[table_df['Player'] != "Joe Milton"]
         
             # Convert 'Rookie' column to integers: 1 for 'Rookie' (True), 0 for '' (False)
             table_df['Rookie'] = table_df['Rookie'].apply(lambda x: 1 if x == 'Rookie' else 0)
