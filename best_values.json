@@ -10,14 +10,14 @@
     "Team":"MIN"
   },
   {
-    "Value":73.0,
-    "Industry Rank":6,
-    "FFA Rank":4,
+    "Value":63.0,
+    "Industry Rank":12,
+    "FFA Rank":10,
     "Diff":2,
-    "Player":"Jeremiyah Love",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Notre Dame"
+    "Player":"Nico Collins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"HOU"
   },
   {
     "Value":59.0,
@@ -91,9 +91,9 @@
   },
   {
     "Value":37.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":29,
-    "Diff":3,
+    "Diff":4,
     "Player":"KC Concepcion",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -111,13 +111,23 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":18,
+    "Industry Rank":17,
     "FFA Rank":13,
-    "Diff":5,
+    "Diff":4,
     "Player":"Cam Skattebo",
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYG"
+  },
+  {
+    "Value":33.0,
+    "Industry Rank":35,
+    "FFA Rank":33,
+    "Diff":2,
+    "Player":"Michael Wilson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"ARI"
   },
   {
     "Value":32.0,
@@ -140,20 +150,10 @@
     "Team":"GB"
   },
   {
-    "Value":27.0,
-    "Industry Rank":38,
-    "FFA Rank":35,
-    "Diff":3,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
-  },
-  {
     "Value":23.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":39,
-    "Diff":8,
+    "Diff":7,
     "Player":"Quentin Johnston",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":30,
+    "Industry Rank":29,
     "FFA Rank":23,
-    "Diff":7,
+    "Diff":6,
     "Player":"Bhayshul Tuten",
     "Rookie":"",
     "Pos":"RB",
@@ -181,9 +181,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":42,
-    "Diff":3,
+    "Diff":2,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -271,6 +271,16 @@
   },
   {
     "Value":8.0,
+    "Industry Rank":49,
+    "FFA Rank":44,
+    "Diff":5,
+    "Player":"Jonathon Brooks",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"CAR"
+  },
+  {
+    "Value":8.0,
     "Industry Rank":18,
     "FFA Rank":16,
     "Diff":2,
@@ -291,9 +301,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":29,
+    "Industry Rank":27,
     "FFA Rank":14,
-    "Diff":15,
+    "Diff":13,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -341,13 +351,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":27,
-    "FFA Rank":25,
-    "Diff":2,
-    "Player":"Michael Penix Jr.",
+    "Industry Rank":28,
+    "FFA Rank":24,
+    "Diff":4,
+    "Player":"J.J. McCarthy",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"ATL"
+    "Team":"MIN"
   },
   {
     "Value":5.0,
@@ -361,19 +371,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":28,
-    "FFA Rank":24,
-    "Diff":4,
-    "Player":"J.J. McCarthy",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"MIN"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":26,
-    "Diff":2,
+    "Diff":3,
     "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
@@ -381,9 +381,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":33,
+    "Industry Rank":37,
     "FFA Rank":31,
-    "Diff":2,
+    "Diff":6,
     "Player":"Max Klare",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -431,9 +431,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":44,
+    "Industry Rank":43,
     "FFA Rank":35,
-    "Diff":9,
+    "Diff":8,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
@@ -471,9 +471,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":37,
+    "Industry Rank":36,
     "FFA Rank":27,
-    "Diff":10,
+    "Diff":9,
     "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",
