@@ -10,16 +10,6 @@
     "Team":"MIN"
   },
   {
-    "Value":63.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"Nico Collins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"HOU"
-  },
-  {
     "Value":54.0,
     "Industry Rank":21,
     "FFA Rank":15,
@@ -58,16 +48,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"BAL"
-  },
-  {
-    "Value":42.0,
-    "Industry Rank":26,
-    "FFA Rank":24,
-    "Diff":2,
-    "Player":"Jordyn Tyson",
-    "Rookie":"Rookie",
-    "Pos":"WR",
-    "Team":"Arizona State"
   },
   {
     "Value":41.0,
@@ -120,6 +100,16 @@
     "Team":"NYG"
   },
   {
+    "Value":33.0,
+    "Industry Rank":35,
+    "FFA Rank":33,
+    "Diff":2,
+    "Player":"Michael Wilson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"ARI"
+  },
+  {
     "Value":32.0,
     "Industry Rank":33,
     "FFA Rank":14,
@@ -161,9 +151,9 @@
   },
   {
     "Value":23.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":39,
-    "Diff":8,
+    "Diff":7,
     "Player":"Quentin Johnston",
     "Rookie":"",
     "Pos":"WR",
@@ -201,9 +191,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":42,
-    "Diff":4,
+    "Diff":5,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -241,9 +231,19 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":46,
+    "Industry Rank":50,
+    "FFA Rank":33,
+    "Diff":17,
+    "Player":"Nicholas Singleton",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Penn State"
+  },
+  {
+    "Value":11.0,
+    "Industry Rank":47,
     "FFA Rank":32,
-    "Diff":14,
+    "Diff":15,
     "Player":"Kaleb Johnson",
     "Rookie":"",
     "Pos":"RB",
@@ -271,9 +271,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":43,
-    "Diff":6,
+    "Diff":5,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -281,9 +281,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":48,
+    "Industry Rank":49,
     "FFA Rank":42,
-    "Diff":6,
+    "Diff":7,
     "Player":"Tony Pollard",
     "Rookie":"",
     "Pos":"RB",
@@ -301,9 +301,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":21,
+    "Industry Rank":22,
     "FFA Rank":19,
-    "Diff":2,
+    "Diff":3,
     "Player":"Jared Goff",
     "Rookie":"",
     "Pos":"QB",
@@ -331,13 +331,23 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":19,
-    "Diff":4,
+    "Diff":3,
     "Player":"Dallas Goedert",
     "Rookie":"",
     "Pos":"TE",
     "Team":"PHI"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":23,
+    "FFA Rank":21,
+    "Diff":2,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
   },
   {
     "Value":6.0,
@@ -368,6 +378,16 @@
     "Rookie":"Rookie",
     "Pos":"TE",
     "Team":"Vanderbilt"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":28,
+    "FFA Rank":26,
+    "Diff":2,
+    "Player":"Cade Otton",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"TB"
   },
   {
     "Value":5.0,
@@ -402,12 +422,12 @@
   {
     "Value":5.0,
     "Industry Rank":29,
-    "FFA Rank":26,
-    "Diff":3,
-    "Player":"Cade Otton",
+    "FFA Rank":27,
+    "Diff":2,
+    "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"TB"
+    "Team":"NE"
   },
   {
     "Value":5.0,
@@ -491,9 +511,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":38,
-    "Diff":11,
+    "Diff":10,
     "Player":"Greg Dulcich",
     "Rookie":"",
     "Pos":"TE",

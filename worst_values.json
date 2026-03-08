@@ -10,16 +10,6 @@
     "Team":"NYG"
   },
   {
-    "Value":58.0,
-    "Industry Rank":11,
-    "FFA Rank":13,
-    "Diff":-2,
-    "Player":"Emeka Egbuka",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"TB"
-  },
-  {
     "Value":52.0,
     "Industry Rank":15,
     "FFA Rank":17,
@@ -70,6 +60,16 @@
     "Team":"ARI"
   },
   {
+    "Value":30.0,
+    "Industry Rank":15,
+    "FFA Rank":17,
+    "Diff":-2,
+    "Player":"Saquon Barkley",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"PHI"
+  },
+  {
     "Value":29.0,
     "Industry Rank":16,
     "FFA Rank":18,
@@ -111,9 +111,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":15,
+    "Industry Rank":17,
     "FFA Rank":22,
-    "Diff":-7,
+    "Diff":-5,
     "Player":"Kyren Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -131,9 +131,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":43,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Travis Hunter",
     "Rookie":"",
     "Pos":"WR",
@@ -261,16 +261,6 @@
   },
   {
     "Value":10.0,
-    "Industry Rank":10,
-    "FFA Rank":13,
-    "Diff":-3,
-    "Player":"Trevor Lawrence",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"JAX"
-  },
-  {
-    "Value":10.0,
     "Industry Rank":30,
     "FFA Rank":37,
     "Diff":-7,
@@ -281,13 +271,23 @@
   },
   {
     "Value":10.0,
-    "Industry Rank":28,
-    "FFA Rank":36,
-    "Diff":-8,
-    "Player":"David Montgomery",
+    "Industry Rank":10,
+    "FFA Rank":13,
+    "Diff":-3,
+    "Player":"Trevor Lawrence",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"JAX"
+  },
+  {
+    "Value":10.0,
+    "Industry Rank":34,
+    "FFA Rank":38,
+    "Diff":-4,
+    "Player":"Rico Dowdle",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"DET"
+    "Team":"FA"
   },
   {
     "Value":10.0,
@@ -301,19 +301,19 @@
   },
   {
     "Value":10.0,
-    "Industry Rank":35,
-    "FFA Rank":38,
-    "Diff":-3,
-    "Player":"Rico Dowdle",
+    "Industry Rank":28,
+    "FFA Rank":36,
+    "Diff":-8,
+    "Player":"David Montgomery",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"FA"
+    "Team":"DET"
   },
   {
     "Value":9.0,
-    "Industry Rank":34,
+    "Industry Rank":35,
     "FFA Rank":41,
-    "Diff":-7,
+    "Diff":-6,
     "Player":"Chuba Hubbard",
     "Rookie":"",
     "Pos":"RB",
@@ -341,16 +341,6 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":14,
-    "FFA Rank":17,
-    "Diff":-3,
-    "Player":"Jordan Love",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"GB"
-  },
-  {
-    "Value":8.0,
     "Industry Rank":40,
     "FFA Rank":45,
     "Diff":-5,
@@ -358,6 +348,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"WAS"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":14,
+    "FFA Rank":17,
+    "Diff":-3,
+    "Player":"Jordan Love",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"GB"
   },
   {
     "Value":7.0,
@@ -391,9 +391,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":55,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"Devin Neal",
     "Rookie":"",
     "Pos":"RB",
@@ -501,6 +501,16 @@
   },
   {
     "Value":4.0,
+    "Industry Rank":32,
+    "FFA Rank":36,
+    "Diff":-4,
+    "Player":"Dalton Schultz",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"HOU"
+  },
+  {
+    "Value":4.0,
     "Industry Rank":33,
     "FFA Rank":37,
     "Diff":-4,
@@ -551,13 +561,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":31,
-    "FFA Rank":36,
-    "Diff":-5,
-    "Player":"Dalton Schultz",
+    "Industry Rank":30,
+    "FFA Rank":32,
+    "Diff":-2,
+    "Player":"Michael Mayer",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"HOU"
+    "Team":"LVR"
   },
   {
     "Value":3.0,
@@ -611,9 +621,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":50,
+    "Industry Rank":49,
     "FFA Rank":54,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Mike Gesicki",
     "Rookie":"",
     "Pos":"TE",
@@ -671,9 +681,9 @@
   },
   {
     "Value":1.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
     "FFA Rank":80,
-    "Diff":-50,
+    "Diff":-49,
     "Player":"Jake Tonges",
     "Rookie":"",
     "Pos":"TE",
