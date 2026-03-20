@@ -130,20 +130,10 @@
     "Team":"SF"
   },
   {
-    "Value":28.0,
-    "Industry Rank":5,
-    "FFA Rank":3,
-    "Diff":2,
-    "Player":"Jayden Daniels",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"WAS"
-  },
-  {
     "Value":26.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":37,
-    "Diff":7,
+    "Diff":8,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -160,16 +150,6 @@
     "Team":"DEN"
   },
   {
-    "Value":22.0,
-    "Industry Rank":45,
-    "FFA Rank":42,
-    "Diff":3,
-    "Player":"Davante Adams",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"LAR"
-  },
-  {
     "Value":21.0,
     "Industry Rank":10,
     "FFA Rank":7,
@@ -180,24 +160,14 @@
     "Team":"PHI"
   },
   {
-    "Value":19.0,
-    "Industry Rank":49,
-    "FFA Rank":45,
-    "Diff":4,
-    "Player":"Quentin Johnston",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"LAC"
-  },
-  {
     "Value":18.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
+    "Industry Rank":49,
+    "FFA Rank":47,
     "Diff":2,
-    "Player":"Josh Downs",
+    "Player":"Jayden Reed",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"IND"
+    "Team":"GB"
   },
   {
     "Value":17.0,
@@ -211,9 +181,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":43,
+    "Industry Rank":42,
     "FFA Rank":26,
-    "Diff":17,
+    "Diff":16,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -251,9 +221,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":40,
+    "Industry Rank":41,
     "FFA Rank":33,
-    "Diff":7,
+    "Diff":8,
     "Player":"Woody Marks",
     "Rookie":"",
     "Pos":"RB",
@@ -261,9 +231,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":14,
-    "Diff":9,
+    "Diff":10,
     "Player":"Eli Stowers",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -351,9 +321,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":22,
+    "Industry Rank":21,
     "FFA Rank":17,
-    "Diff":5,
+    "Diff":4,
     "Player":"Chigoziem Okonkwo",
     "Rookie":"",
     "Pos":"TE",
@@ -371,9 +341,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":26,
+    "Industry Rank":25,
     "FFA Rank":23,
-    "Diff":3,
+    "Diff":2,
     "Player":"Daniel Jones",
     "Rookie":"",
     "Pos":"QB",
@@ -411,9 +381,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":30,
-    "Diff":17,
+    "Diff":16,
     "Player":"Kirk Cousins",
     "Rookie":"",
     "Pos":"QB",
@@ -471,9 +441,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":43,
+    "Industry Rank":44,
     "FFA Rank":41,
-    "Diff":2,
+    "Diff":3,
     "Player":"Noah Gray",
     "Rookie":"",
     "Pos":"TE",
