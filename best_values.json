@@ -1,5 +1,15 @@
 [
   {
+    "Value":89.0,
+    "Industry Rank":6,
+    "FFA Rank":4,
+    "Diff":2,
+    "Player":"Justin Jefferson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"MIN"
+  },
+  {
     "Value":63.0,
     "Industry Rank":13,
     "FFA Rank":11,
@@ -71,9 +81,9 @@
   },
   {
     "Value":37.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":28,
-    "Diff":7,
+    "Diff":8,
     "Player":"KC Concepcion",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -121,9 +131,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":40,
+    "Industry Rank":38,
     "FFA Rank":35,
-    "Diff":5,
+    "Diff":3,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -160,16 +170,6 @@
     "Team":"PHI"
   },
   {
-    "Value":18.0,
-    "Industry Rank":49,
-    "FFA Rank":47,
-    "Diff":2,
-    "Player":"Jayden Reed",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"GB"
-  },
-  {
     "Value":17.0,
     "Industry Rank":35,
     "FFA Rank":25,
@@ -198,16 +198,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"DEN"
-  },
-  {
-    "Value":12.0,
-    "Industry Rank":13,
-    "FFA Rank":11,
-    "Diff":2,
-    "Player":"Dalton Kincaid",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"BUF"
   },
   {
     "Value":12.0,
@@ -271,9 +261,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":21,
+    "Industry Rank":22,
     "FFA Rank":18,
-    "Diff":3,
+    "Diff":4,
     "Player":"Tyler Shough",
     "Rookie":"",
     "Pos":"QB",
@@ -351,9 +341,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":31,
+    "Industry Rank":32,
     "FFA Rank":29,
-    "Diff":2,
+    "Diff":3,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -372,12 +362,12 @@
   {
     "Value":4.0,
     "Industry Rank":50,
-    "FFA Rank":47,
-    "Diff":3,
-    "Player":"Cade Stover",
+    "FFA Rank":44,
+    "Diff":6,
+    "Player":"Jonnu Smith",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"HOU"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -432,12 +422,12 @@
   {
     "Value":4.0,
     "Industry Rank":49,
-    "FFA Rank":44,
-    "Diff":5,
-    "Player":"Jonnu Smith",
+    "FFA Rank":47,
+    "Diff":2,
+    "Player":"Cade Stover",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"PIT"
+    "Team":"HOU"
   },
   {
     "Value":4.0,
