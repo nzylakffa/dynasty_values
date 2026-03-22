@@ -21,9 +21,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":21,
+    "Industry Rank":20,
     "FFA Rank":15,
-    "Diff":6,
+    "Diff":5,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -51,9 +51,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":27,
+    "Industry Rank":26,
     "FFA Rank":22,
-    "Diff":5,
+    "Diff":4,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -81,9 +81,9 @@
   },
   {
     "Value":37.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":28,
-    "Diff":8,
+    "Diff":9,
     "Player":"KC Concepcion",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -91,9 +91,9 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":32,
-    "Diff":7,
+    "Diff":6,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
@@ -131,9 +131,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":38,
+    "Industry Rank":40,
     "FFA Rank":35,
-    "Diff":3,
+    "Diff":5,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -141,9 +141,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":45,
+    "Industry Rank":43,
     "FFA Rank":37,
-    "Diff":8,
+    "Diff":6,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -160,14 +160,44 @@
     "Team":"DEN"
   },
   {
-    "Value":21.0,
-    "Industry Rank":10,
-    "FFA Rank":7,
+    "Value":24.0,
+    "Industry Rank":49,
+    "FFA Rank":39,
+    "Diff":10,
+    "Player":"Omar Cooper Jr.",
+    "Rookie":"Rookie",
+    "Pos":"WR",
+    "Team":"Indiana"
+  },
+  {
+    "Value":22.0,
+    "Industry Rank":45,
+    "FFA Rank":42,
     "Diff":3,
+    "Player":"Davante Adams",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAR"
+  },
+  {
+    "Value":21.0,
+    "Industry Rank":12,
+    "FFA Rank":7,
+    "Diff":5,
     "Player":"Jalen Hurts",
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
+  },
+  {
+    "Value":18.0,
+    "Industry Rank":50,
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Josh Downs",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"IND"
   },
   {
     "Value":17.0,
@@ -181,23 +211,13 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":42,
+    "Industry Rank":43,
     "FFA Rank":26,
-    "Diff":16,
+    "Diff":17,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
     "Team":"Washington"
-  },
-  {
-    "Value":14.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"Bo Nix",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"DEN"
   },
   {
     "Value":12.0,
@@ -251,16 +271,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":48,
-    "FFA Rank":46,
-    "Diff":2,
-    "Player":"Tony Pollard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TEN"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":22,
     "FFA Rank":18,
     "Diff":4,
@@ -270,10 +280,20 @@
     "Team":"NO"
   },
   {
+    "Value":7.0,
+    "Industry Rank":48,
+    "FFA Rank":46,
+    "Diff":2,
+    "Player":"Tony Pollard",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TEN"
+  },
+  {
     "Value":6.0,
-    "Industry Rank":30,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":12,
+    "Diff":11,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -341,9 +361,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":29,
-    "Diff":3,
+    "Diff":4,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -391,13 +411,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":35,
-    "FFA Rank":27,
-    "Diff":8,
-    "Player":"Anthony Richardson",
+    "Industry Rank":37,
+    "FFA Rank":33,
+    "Diff":4,
+    "Player":"Justin Fields",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"IND"
+    "Team":"NYJ"
   },
   {
     "Value":4.0,
@@ -411,13 +431,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":37,
-    "FFA Rank":33,
-    "Diff":4,
-    "Player":"Justin Fields",
+    "Industry Rank":35,
+    "FFA Rank":27,
+    "Diff":8,
+    "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"NYJ"
+    "Team":"IND"
   },
   {
     "Value":4.0,
@@ -431,9 +451,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":44,
+    "Industry Rank":43,
     "FFA Rank":41,
-    "Diff":3,
+    "Diff":2,
     "Player":"Noah Gray",
     "Rookie":"",
     "Pos":"TE",
@@ -461,9 +481,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
+    "Industry Rank":40,
     "FFA Rank":35,
-    "Diff":6,
+    "Diff":5,
     "Player":"Luke Musgrave",
     "Rookie":"",
     "Pos":"TE",
