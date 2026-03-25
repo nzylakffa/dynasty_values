@@ -21,9 +21,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":28,
+    "Industry Rank":27,
     "FFA Rank":17,
-    "Diff":11,
+    "Diff":10,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -31,9 +31,9 @@
   },
   {
     "Value":48.0,
-    "Industry Rank":11,
+    "Industry Rank":12,
     "FFA Rank":9,
-    "Diff":2,
+    "Diff":3,
     "Player":"Quinshon Judkins",
     "Rookie":"",
     "Pos":"RB",
@@ -70,24 +70,54 @@
     "Team":"TB"
   },
   {
+    "Value":40.0,
+    "Industry Rank":28,
+    "FFA Rank":26,
+    "Diff":2,
+    "Player":"A.J. Brown",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PHI"
+  },
+  {
     "Value":37.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":28,
-    "Diff":6,
+    "Diff":5,
     "Player":"KC Concepcion",
     "Rookie":"Rookie",
     "Pos":"WR",
     "Team":"Texas A&M"
   },
   {
+    "Value":34.0,
+    "Industry Rank":50,
+    "FFA Rank":31,
+    "Diff":19,
+    "Player":"Denzel Boston",
+    "Rookie":"Rookie",
+    "Pos":"WR",
+    "Team":"Washington"
+  },
+  {
     "Value":33.0,
-    "Industry Rank":39,
+    "Industry Rank":37,
     "FFA Rank":32,
-    "Diff":7,
+    "Diff":5,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
     "Team":"GB"
+  },
+  {
+    "Value":31.0,
+    "Industry Rank":20,
+    "FFA Rank":14,
+    "Diff":6,
+    "Player":"Javonte Williams",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"DAL"
   },
   {
     "Value":31.0,
@@ -100,20 +130,10 @@
     "Team":"NYG"
   },
   {
-    "Value":31.0,
-    "Industry Rank":19,
-    "FFA Rank":14,
-    "Diff":5,
-    "Player":"Javonte Williams",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"DAL"
-  },
-  {
     "Value":30.0,
-    "Industry Rank":20,
+    "Industry Rank":19,
     "FFA Rank":16,
-    "Diff":4,
+    "Diff":3,
     "Player":"Josh Jacobs",
     "Rookie":"",
     "Pos":"RB",
@@ -131,6 +151,16 @@
   },
   {
     "Value":26.0,
+    "Industry Rank":39,
+    "FFA Rank":36,
+    "Diff":3,
+    "Player":"DK Metcalf",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PIT"
+  },
+  {
+    "Value":26.0,
     "Industry Rank":42,
     "FFA Rank":37,
     "Diff":5,
@@ -138,16 +168,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"HOU"
-  },
-  {
-    "Value":26.0,
-    "Industry Rank":38,
-    "FFA Rank":36,
-    "Diff":2,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
   },
   {
     "Value":25.0,
@@ -161,13 +181,23 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":39,
-    "Diff":9,
+    "Diff":8,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
     "Team":"Indiana"
+  },
+  {
+    "Value":22.0,
+    "Industry Rank":45,
+    "FFA Rank":42,
+    "Diff":3,
+    "Player":"Davante Adams",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAR"
   },
   {
     "Value":21.0,
@@ -178,16 +208,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
-  },
-  {
-    "Value":18.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
-    "Diff":2,
-    "Player":"Josh Downs",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"IND"
   },
   {
     "Value":17.0,
@@ -258,6 +278,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TEN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":50,
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Keaton Mitchell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"LAC"
   },
   {
     "Value":7.0,
