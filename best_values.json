@@ -21,9 +21,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":27,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":10,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -31,9 +31,9 @@
   },
   {
     "Value":48.0,
-    "Industry Rank":12,
+    "Industry Rank":11,
     "FFA Rank":9,
-    "Diff":3,
+    "Diff":2,
     "Player":"Quinshon Judkins",
     "Rookie":"",
     "Pos":"RB",
@@ -41,9 +41,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":22,
-    "Diff":3,
+    "Diff":4,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -70,54 +70,24 @@
     "Team":"TB"
   },
   {
-    "Value":40.0,
-    "Industry Rank":28,
-    "FFA Rank":26,
-    "Diff":2,
-    "Player":"A.J. Brown",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PHI"
-  },
-  {
     "Value":37.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":28,
-    "Diff":5,
+    "Diff":6,
     "Player":"KC Concepcion",
     "Rookie":"Rookie",
     "Pos":"WR",
     "Team":"Texas A&M"
   },
   {
-    "Value":34.0,
-    "Industry Rank":50,
-    "FFA Rank":31,
-    "Diff":19,
-    "Player":"Denzel Boston",
-    "Rookie":"Rookie",
-    "Pos":"WR",
-    "Team":"Washington"
-  },
-  {
     "Value":33.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":32,
-    "Diff":5,
+    "Diff":6,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
     "Team":"GB"
-  },
-  {
-    "Value":31.0,
-    "Industry Rank":20,
-    "FFA Rank":14,
-    "Diff":6,
-    "Player":"Javonte Williams",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"DAL"
   },
   {
     "Value":31.0,
@@ -130,10 +100,20 @@
     "Team":"NYG"
   },
   {
-    "Value":30.0,
+    "Value":31.0,
     "Industry Rank":19,
+    "FFA Rank":14,
+    "Diff":5,
+    "Player":"Javonte Williams",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"DAL"
+  },
+  {
+    "Value":30.0,
+    "Industry Rank":20,
     "FFA Rank":16,
-    "Diff":3,
+    "Diff":4,
     "Player":"Josh Jacobs",
     "Rookie":"",
     "Pos":"RB",
@@ -151,16 +131,6 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":39,
-    "FFA Rank":36,
-    "Diff":3,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
-  },
-  {
-    "Value":26.0,
     "Industry Rank":42,
     "FFA Rank":37,
     "Diff":5,
@@ -168,6 +138,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"HOU"
+  },
+  {
+    "Value":26.0,
+    "Industry Rank":39,
+    "FFA Rank":36,
+    "Diff":3,
+    "Player":"DK Metcalf",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PIT"
   },
   {
     "Value":25.0,
@@ -221,9 +201,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":42,
+    "Industry Rank":41,
     "FFA Rank":26,
-    "Diff":16,
+    "Diff":15,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -311,9 +291,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":10,
+    "Diff":11,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -331,9 +311,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":21,
-    "Diff":4,
+    "Diff":5,
     "Player":"Gunnar Helm",
     "Rookie":"",
     "Pos":"TE",
@@ -361,6 +341,16 @@
   },
   {
     "Value":5.0,
+    "Industry Rank":32,
+    "FFA Rank":29,
+    "Diff":3,
+    "Player":"Hunter Henry",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NE"
+  },
+  {
+    "Value":5.0,
     "Industry Rank":31,
     "FFA Rank":24,
     "Diff":7,
@@ -378,16 +368,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":32,
-    "FFA Rank":29,
-    "Diff":3,
-    "Player":"Hunter Henry",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NE"
   },
   {
     "Value":4.0,
@@ -421,9 +401,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
+    "Industry Rank":40,
     "FFA Rank":34,
-    "Diff":7,
+    "Diff":6,
     "Player":"Luke Musgrave",
     "Rookie":"",
     "Pos":"TE",
