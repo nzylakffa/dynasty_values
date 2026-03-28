@@ -21,9 +21,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":28,
+    "Industry Rank":27,
     "FFA Rank":17,
-    "Diff":11,
+    "Diff":10,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":26,
+    "Industry Rank":25,
     "FFA Rank":22,
-    "Diff":4,
+    "Diff":3,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -61,13 +61,23 @@
   },
   {
     "Value":42.0,
-    "Industry Rank":13,
+    "Industry Rank":14,
     "FFA Rank":11,
-    "Diff":2,
+    "Diff":3,
     "Player":"Bucky Irving",
     "Rookie":"",
     "Pos":"RB",
     "Team":"TB"
+  },
+  {
+    "Value":40.0,
+    "Industry Rank":28,
+    "FFA Rank":26,
+    "Diff":2,
+    "Player":"A.J. Brown",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PHI"
   },
   {
     "Value":37.0,
@@ -78,16 +88,6 @@
     "Rookie":"Rookie",
     "Pos":"WR",
     "Team":"Texas A&M"
-  },
-  {
-    "Value":34.0,
-    "Industry Rank":50,
-    "FFA Rank":31,
-    "Diff":19,
-    "Player":"Denzel Boston",
-    "Rookie":"Rookie",
-    "Pos":"WR",
-    "Team":"Washington"
   },
   {
     "Value":33.0,
@@ -141,16 +141,6 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":40,
-    "FFA Rank":36,
-    "Diff":4,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
-  },
-  {
-    "Value":26.0,
     "Industry Rank":42,
     "FFA Rank":37,
     "Diff":5,
@@ -160,10 +150,20 @@
     "Team":"HOU"
   },
   {
-    "Value":25.0,
-    "Industry Rank":24,
-    "FFA Rank":20,
+    "Value":26.0,
+    "Industry Rank":40,
+    "FFA Rank":36,
     "Diff":4,
+    "Player":"DK Metcalf",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PIT"
+  },
+  {
+    "Value":25.0,
+    "Industry Rank":23,
+    "FFA Rank":20,
+    "Diff":3,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -171,9 +171,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":39,
-    "Diff":7,
+    "Diff":8,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -188,6 +188,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":50,
+    "FFA Rank":45,
+    "Diff":5,
+    "Player":"Quentin Johnston",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAC"
   },
   {
     "Value":17.0,
@@ -218,16 +228,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"DEN"
-  },
-  {
-    "Value":12.0,
-    "Industry Rank":13,
-    "FFA Rank":11,
-    "Diff":2,
-    "Player":"Dalton Kincaid",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"BUF"
   },
   {
     "Value":12.0,

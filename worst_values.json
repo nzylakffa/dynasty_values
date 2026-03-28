@@ -10,20 +10,10 @@
     "Team":"NYG"
   },
   {
-    "Value":50.0,
-    "Industry Rank":16,
-    "FFA Rank":18,
-    "Diff":-2,
-    "Player":"Ladd McConkey",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"LAC"
-  },
-  {
     "Value":49.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":19,
-    "Diff":-2,
+    "Diff":-3,
     "Player":"Luther Burden",
     "Rookie":"",
     "Pos":"WR",
@@ -50,10 +40,20 @@
     "Team":"CIN"
   },
   {
-    "Value":39.0,
+    "Value":41.0,
     "Industry Rank":23,
+    "FFA Rank":25,
+    "Diff":-2,
+    "Player":"DeVonta Smith",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PHI"
+  },
+  {
+    "Value":39.0,
+    "Industry Rank":24,
     "FFA Rank":27,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Jaylen Waddle",
     "Rookie":"",
     "Pos":"WR",
@@ -81,9 +81,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":30,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Rashee Rice",
     "Rookie":"",
     "Pos":"WR",
@@ -121,9 +121,9 @@
   },
   {
     "Value":28.0,
-    "Industry Rank":14,
+    "Industry Rank":13,
     "FFA Rank":19,
-    "Diff":-5,
+    "Diff":-6,
     "Player":"Christian McCaffrey",
     "Rookie":"",
     "Pos":"RB",
@@ -231,9 +231,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":59,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -251,9 +251,9 @@
   },
   {
     "Value":13.0,
-    "Industry Rank":48,
+    "Industry Rank":46,
     "FFA Rank":62,
-    "Diff":-14,
+    "Diff":-16,
     "Player":"Jakobi Meyers",
     "Rookie":"",
     "Pos":"WR",
@@ -361,6 +361,16 @@
   },
   {
     "Value":7.0,
+    "Industry Rank":45,
+    "FFA Rank":47,
+    "Diff":-2,
+    "Player":"Rachaad White",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"WAS"
+  },
+  {
+    "Value":7.0,
     "Industry Rank":34,
     "FFA Rank":49,
     "Diff":-15,
@@ -388,16 +398,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"MIN"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":19,
-    "FFA Rank":22,
-    "Diff":-3,
-    "Player":"Sam Darnold",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"SEA"
   },
   {
     "Value":6.0,
@@ -431,9 +431,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":45,
+    "Industry Rank":46,
     "FFA Rank":57,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Trey Benson",
     "Rookie":"",
     "Pos":"RB",
@@ -448,6 +448,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"CLE"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":18,
+    "FFA Rank":22,
+    "Diff":-4,
+    "Player":"Sam Darnold",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"SEA"
   },
   {
     "Value":6.0,
@@ -651,9 +661,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":57,
-    "Diff":-12,
+    "Diff":-13,
     "Player":"Spencer Rattler",
     "Rookie":"",
     "Pos":"QB",
