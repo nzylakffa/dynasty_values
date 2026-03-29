@@ -11,9 +11,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":21,
+    "Industry Rank":22,
     "FFA Rank":15,
-    "Diff":6,
+    "Diff":7,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -21,9 +21,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":27,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":10,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":22,
-    "Diff":3,
+    "Diff":4,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -68,16 +68,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TB"
-  },
-  {
-    "Value":40.0,
-    "Industry Rank":28,
-    "FFA Rank":26,
-    "Diff":2,
-    "Player":"A.J. Brown",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PHI"
   },
   {
     "Value":37.0,
@@ -131,9 +121,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":35,
-    "Diff":4,
+    "Diff":5,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -151,9 +141,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":36,
-    "Diff":4,
+    "Diff":3,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -161,9 +151,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":20,
-    "Diff":3,
+    "Diff":4,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -171,9 +161,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":39,
-    "Diff":8,
+    "Diff":9,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -190,14 +180,14 @@
     "Team":"PHI"
   },
   {
-    "Value":19.0,
+    "Value":18.0,
     "Industry Rank":50,
-    "FFA Rank":45,
-    "Diff":5,
-    "Player":"Quentin Johnston",
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"LAC"
+    "Team":"IND"
   },
   {
     "Value":17.0,
@@ -241,9 +231,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":33,
-    "Diff":6,
+    "Diff":7,
     "Player":"Woody Marks",
     "Rookie":"",
     "Pos":"RB",
@@ -271,16 +261,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
-    "Diff":2,
-    "Player":"Keaton Mitchell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"LAC"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":18,
     "FFA Rank":15,
     "Diff":3,
@@ -288,6 +268,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"LAR"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":50,
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Keaton Mitchell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"LAC"
   },
   {
     "Value":7.0,
@@ -301,9 +291,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":29,
+    "Industry Rank":30,
     "FFA Rank":18,
-    "Diff":11,
+    "Diff":12,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -321,9 +311,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":26,
+    "Industry Rank":25,
     "FFA Rank":21,
-    "Diff":5,
+    "Diff":4,
     "Player":"Gunnar Helm",
     "Rookie":"",
     "Pos":"TE",
