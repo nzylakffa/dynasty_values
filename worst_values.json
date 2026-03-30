@@ -30,20 +30,10 @@
     "Team":"Ohio State"
   },
   {
-    "Value":44.0,
-    "Industry Rank":21,
-    "FFA Rank":24,
-    "Diff":-3,
-    "Player":"Tee Higgins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"CIN"
-  },
-  {
     "Value":41.0,
-    "Industry Rank":23,
+    "Industry Rank":21,
     "FFA Rank":25,
-    "Diff":-2,
+    "Diff":-4,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -81,9 +71,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":30,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Rashee Rice",
     "Rookie":"",
     "Pos":"WR",
@@ -201,9 +191,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":50,
-    "Diff":-14,
+    "Diff":-15,
     "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +201,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":49,
+    "Industry Rank":47,
     "FFA Rank":52,
-    "Diff":-3,
+    "Diff":-5,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -231,9 +221,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":59,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -351,9 +341,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":76,
-    "Diff":-41,
+    "Diff":-40,
     "Player":"Romeo Doubs",
     "Rookie":"",
     "Pos":"WR",
@@ -390,14 +380,14 @@
     "Team":"NYG"
   },
   {
-    "Value":7.0,
-    "Industry Rank":45,
-    "FFA Rank":47,
-    "Diff":-2,
-    "Player":"Rachaad White",
+    "Value":6.0,
+    "Industry Rank":19,
+    "FFA Rank":22,
+    "Diff":-3,
+    "Player":"Sam Darnold",
     "Rookie":"",
-    "Pos":"RB",
-    "Team":"WAS"
+    "Pos":"QB",
+    "Team":"SEA"
   },
   {
     "Value":6.0,
@@ -421,9 +411,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":46,
+    "Industry Rank":44,
     "FFA Rank":57,
-    "Diff":-11,
+    "Diff":-13,
     "Player":"Trey Benson",
     "Rookie":"",
     "Pos":"RB",
@@ -431,9 +421,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":61,
-    "Diff":-17,
+    "Diff":-16,
     "Player":"Dylan Sampson",
     "Rookie":"",
     "Pos":"RB",
@@ -448,16 +438,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"WAS"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":18,
-    "FFA Rank":22,
-    "Diff":-4,
-    "Player":"Sam Darnold",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"SEA"
   },
   {
     "Value":6.0,
@@ -501,9 +481,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":27,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Dallas Goedert",
     "Rookie":"",
     "Pos":"TE",
@@ -661,9 +641,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":57,
-    "Diff":-13,
+    "Diff":-12,
     "Player":"Spencer Rattler",
     "Rookie":"",
     "Pos":"QB",
