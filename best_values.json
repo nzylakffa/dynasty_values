@@ -10,10 +10,20 @@
     "Team":"MIN"
   },
   {
+    "Value":63.0,
+    "Industry Rank":13,
+    "FFA Rank":11,
+    "Diff":2,
+    "Player":"Nico Collins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"HOU"
+  },
+  {
     "Value":54.0,
-    "Industry Rank":22,
+    "Industry Rank":21,
     "FFA Rank":15,
-    "Diff":7,
+    "Diff":6,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -80,6 +90,16 @@
     "Team":"Texas A&M"
   },
   {
+    "Value":34.0,
+    "Industry Rank":50,
+    "FFA Rank":31,
+    "Diff":19,
+    "Player":"Denzel Boston",
+    "Rookie":"Rookie",
+    "Pos":"WR",
+    "Team":"Washington"
+  },
+  {
     "Value":33.0,
     "Industry Rank":38,
     "FFA Rank":32,
@@ -131,16 +151,6 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":42,
-    "FFA Rank":37,
-    "Diff":5,
-    "Player":"Jayden Higgins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"HOU"
-  },
-  {
-    "Value":26.0,
     "Industry Rank":39,
     "FFA Rank":36,
     "Diff":3,
@@ -148,6 +158,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"PIT"
+  },
+  {
+    "Value":26.0,
+    "Industry Rank":42,
+    "FFA Rank":37,
+    "Diff":5,
+    "Player":"Jayden Higgins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"HOU"
   },
   {
     "Value":25.0,
@@ -161,9 +181,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":49,
+    "Industry Rank":46,
     "FFA Rank":39,
-    "Diff":10,
+    "Diff":7,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -178,16 +198,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
-  },
-  {
-    "Value":18.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
-    "Diff":2,
-    "Player":"Josh Downs",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"IND"
   },
   {
     "Value":17.0,
@@ -251,9 +261,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":14,
-    "Diff":9,
+    "Diff":10,
     "Player":"Eli Stowers",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -271,16 +281,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":18,
-    "FFA Rank":15,
-    "Diff":3,
-    "Player":"Terrance Ferguson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"LAR"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":50,
     "FFA Rank":48,
     "Diff":2,
@@ -288,6 +288,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"LAC"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":18,
+    "FFA Rank":15,
+    "Diff":3,
+    "Player":"Terrance Ferguson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"LAR"
   },
   {
     "Value":7.0,
@@ -381,19 +391,19 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":47,
-    "FFA Rank":29,
-    "Diff":18,
-    "Player":"Kirk Cousins",
+    "Industry Rank":44,
+    "FFA Rank":32,
+    "Diff":12,
+    "Player":"Aaron Rodgers",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"ATL"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
-    "Industry Rank":46,
+    "Industry Rank":45,
     "FFA Rank":37,
-    "Diff":9,
+    "Diff":8,
     "Player":"Greg Dulcich",
     "Rookie":"",
     "Pos":"TE",
@@ -431,13 +441,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":43,
-    "FFA Rank":32,
-    "Diff":11,
-    "Player":"Aaron Rodgers",
-    "Rookie":"",
+    "Industry Rank":41,
+    "FFA Rank":38,
+    "Diff":3,
+    "Player":"Garrett Nussmeier",
+    "Rookie":"Rookie",
     "Pos":"QB",
-    "Team":"PIT"
+    "Team":"LSU"
   },
   {
     "Value":4.0,
@@ -471,12 +481,12 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":38,
-    "Diff":3,
-    "Player":"Garrett Nussmeier",
-    "Rookie":"Rookie",
+    "Industry Rank":47,
+    "FFA Rank":29,
+    "Diff":18,
+    "Player":"Kirk Cousins",
+    "Rookie":"",
     "Pos":"QB",
-    "Team":"LSU"
+    "Team":"ATL"
   }
 ]

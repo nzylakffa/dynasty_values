@@ -10,10 +10,30 @@
     "Team":"NYG"
   },
   {
-    "Value":49.0,
+    "Value":57.0,
+    "Industry Rank":12,
+    "FFA Rank":14,
+    "Diff":-2,
+    "Player":"Garrett Wilson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"NYJ"
+  },
+  {
+    "Value":50.0,
     "Industry Rank":16,
+    "FFA Rank":18,
+    "Diff":-2,
+    "Player":"Ladd McConkey",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAC"
+  },
+  {
+    "Value":49.0,
+    "Industry Rank":17,
     "FFA Rank":19,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Luther Burden",
     "Rookie":"",
     "Pos":"WR",
@@ -31,9 +51,9 @@
   },
   {
     "Value":41.0,
-    "Industry Rank":21,
+    "Industry Rank":22,
     "FFA Rank":25,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -201,9 +221,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":52,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -221,9 +241,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":59,
-    "Diff":-11,
+    "Diff":-12,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -241,9 +261,9 @@
   },
   {
     "Value":13.0,
-    "Industry Rank":46,
+    "Industry Rank":49,
     "FFA Rank":62,
-    "Diff":-16,
+    "Diff":-13,
     "Player":"Jakobi Meyers",
     "Rookie":"",
     "Pos":"WR",
@@ -351,16 +371,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":43,
-    "FFA Rank":51,
-    "Diff":-8,
-    "Player":"Jordan Mason",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"MIN"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":34,
     "FFA Rank":49,
     "Diff":-15,
@@ -378,6 +388,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYG"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":45,
+    "FFA Rank":51,
+    "Diff":-6,
+    "Player":"Jordan Mason",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"MIN"
   },
   {
     "Value":6.0,
@@ -411,6 +431,16 @@
   },
   {
     "Value":6.0,
+    "Industry Rank":38,
+    "FFA Rank":56,
+    "Diff":-18,
+    "Player":"Kenneth Gainwell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TB"
+  },
+  {
+    "Value":6.0,
     "Industry Rank":44,
     "FFA Rank":57,
     "Diff":-13,
@@ -421,9 +451,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":45,
+    "Industry Rank":43,
     "FFA Rank":61,
-    "Diff":-16,
+    "Diff":-18,
     "Player":"Dylan Sampson",
     "Rookie":"",
     "Pos":"RB",
@@ -438,16 +468,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"WAS"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":38,
-    "FFA Rank":56,
-    "Diff":-18,
-    "Player":"Kenneth Gainwell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TB"
   },
   {
     "Value":5.0,
@@ -481,9 +501,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":24,
+    "Industry Rank":23,
     "FFA Rank":27,
-    "Diff":-3,
+    "Diff":-4,
     "Player":"Dallas Goedert",
     "Rookie":"",
     "Pos":"TE",
@@ -611,13 +631,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":50,
-    "FFA Rank":55,
-    "Diff":-5,
-    "Player":"Jonnu Smith",
+    "Industry Rank":49,
+    "FFA Rank":57,
+    "Diff":-8,
+    "Player":"Cade Stover",
     "Rookie":"",
     "Pos":"TE",
-    "Team":""
+    "Team":"HOU"
   },
   {
     "Value":3.0,
@@ -681,13 +701,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":49,
-    "FFA Rank":57,
-    "Diff":-8,
-    "Player":"Cade Stover",
+    "Industry Rank":50,
+    "FFA Rank":55,
+    "Diff":-5,
+    "Player":"Jonnu Smith",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"HOU"
+    "Team":""
   },
   {
     "Value":2.0,
@@ -741,16 +761,6 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":45,
-    "FFA Rank":68,
-    "Diff":-23,
-    "Player":"Daniel Bellinger",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"TEN"
-  },
-  {
-    "Value":2.0,
     "Industry Rank":47,
     "FFA Rank":70,
     "Diff":-23,
@@ -758,5 +768,15 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"NO"
+  },
+  {
+    "Value":2.0,
+    "Industry Rank":46,
+    "FFA Rank":68,
+    "Diff":-22,
+    "Player":"Daniel Bellinger",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"TEN"
   }
 ]
