@@ -10,16 +10,6 @@
     "Team":"MIN"
   },
   {
-    "Value":63.0,
-    "Industry Rank":13,
-    "FFA Rank":11,
-    "Diff":2,
-    "Player":"Nico Collins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"HOU"
-  },
-  {
     "Value":54.0,
     "Industry Rank":23,
     "FFA Rank":15,
@@ -31,9 +21,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":26,
+    "Industry Rank":27,
     "FFA Rank":17,
-    "Diff":9,
+    "Diff":10,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -101,9 +91,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":50,
+    "Industry Rank":49,
     "FFA Rank":31,
-    "Diff":19,
+    "Diff":18,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -111,9 +101,9 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":32,
-    "Diff":7,
+    "Diff":8,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
@@ -161,16 +151,6 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":38,
-    "FFA Rank":36,
-    "Diff":2,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
-  },
-  {
-    "Value":26.0,
     "Industry Rank":42,
     "FFA Rank":37,
     "Diff":5,
@@ -178,6 +158,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"HOU"
+  },
+  {
+    "Value":26.0,
+    "Industry Rank":38,
+    "FFA Rank":36,
+    "Diff":2,
+    "Player":"DK Metcalf",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PIT"
   },
   {
     "Value":25.0,
@@ -251,16 +241,6 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":13,
-    "FFA Rank":11,
-    "Diff":2,
-    "Player":"Dalton Kincaid",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"BUF"
-  },
-  {
-    "Value":12.0,
     "Industry Rank":35,
     "FFA Rank":30,
     "Diff":5,
@@ -281,9 +261,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":14,
-    "Diff":9,
+    "Diff":10,
     "Player":"Eli Stowers",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -298,6 +278,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TEN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":50,
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Keaton Mitchell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"LAC"
   },
   {
     "Value":7.0,
@@ -321,13 +311,23 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":10,
+    "Diff":11,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
     "Team":"NO"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":19,
+    "FFA Rank":17,
+    "Diff":2,
+    "Player":"Chigoziem Okonkwo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
   },
   {
     "Value":6.0,
@@ -338,16 +338,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"TEN"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":20,
-    "FFA Rank":17,
-    "Diff":3,
-    "Player":"Chigoziem Okonkwo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"WAS"
   },
   {
     "Value":6.0,
@@ -371,13 +361,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":35,
-    "FFA Rank":26,
-    "Diff":9,
-    "Player":"Pat Freiermuth",
+    "Industry Rank":32,
+    "FFA Rank":29,
+    "Diff":3,
+    "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"PIT"
+    "Team":"NE"
   },
   {
     "Value":5.0,
@@ -391,23 +381,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":32,
-    "FFA Rank":29,
-    "Diff":3,
-    "Player":"Hunter Henry",
+    "Industry Rank":35,
+    "FFA Rank":26,
+    "Diff":9,
+    "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"NE"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":38,
-    "Diff":3,
-    "Player":"Garrett Nussmeier",
-    "Rookie":"Rookie",
-    "Pos":"QB",
-    "Team":"LSU"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -498,6 +478,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"NYJ"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":41,
+    "FFA Rank":38,
+    "Diff":3,
+    "Player":"Garrett Nussmeier",
+    "Rookie":"Rookie",
+    "Pos":"QB",
+    "Team":"LSU"
   },
   {
     "Value":4.0,
