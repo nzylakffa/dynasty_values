@@ -10,6 +10,16 @@
     "Team":"MIN"
   },
   {
+    "Value":63.0,
+    "Industry Rank":13,
+    "FFA Rank":11,
+    "Diff":2,
+    "Player":"Nico Collins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"HOU"
+  },
+  {
     "Value":54.0,
     "Industry Rank":23,
     "FFA Rank":15,
@@ -281,16 +291,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
-    "Diff":2,
-    "Player":"Keaton Mitchell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"LAC"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":18,
     "FFA Rank":15,
     "Diff":3,
@@ -321,16 +321,6 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":19,
-    "FFA Rank":17,
-    "Diff":2,
-    "Player":"Chigoziem Okonkwo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"WAS"
-  },
-  {
-    "Value":6.0,
     "Industry Rank":25,
     "FFA Rank":21,
     "Diff":4,
@@ -338,6 +328,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"TEN"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":19,
+    "FFA Rank":17,
+    "Diff":2,
+    "Player":"Chigoziem Okonkwo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
   },
   {
     "Value":6.0,
@@ -371,6 +371,16 @@
   },
   {
     "Value":5.0,
+    "Industry Rank":35,
+    "FFA Rank":26,
+    "Diff":9,
+    "Player":"Pat Freiermuth",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"PIT"
+  },
+  {
+    "Value":5.0,
     "Industry Rank":31,
     "FFA Rank":24,
     "Diff":7,
@@ -380,14 +390,14 @@
     "Team":"MIN"
   },
   {
-    "Value":5.0,
-    "Industry Rank":35,
-    "FFA Rank":26,
-    "Diff":9,
-    "Player":"Pat Freiermuth",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"PIT"
+    "Value":4.0,
+    "Industry Rank":41,
+    "FFA Rank":38,
+    "Diff":3,
+    "Player":"Garrett Nussmeier",
+    "Rookie":"Rookie",
+    "Pos":"QB",
+    "Team":"LSU"
   },
   {
     "Value":4.0,
@@ -478,16 +488,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"NYJ"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":38,
-    "Diff":3,
-    "Player":"Garrett Nussmeier",
-    "Rookie":"Rookie",
-    "Pos":"QB",
-    "Team":"LSU"
   },
   {
     "Value":4.0,
