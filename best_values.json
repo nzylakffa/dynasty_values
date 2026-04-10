@@ -161,9 +161,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":43,
+    "Industry Rank":42,
     "FFA Rank":37,
-    "Diff":6,
+    "Diff":5,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":36,
-    "Diff":4,
+    "Diff":3,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -250,16 +250,6 @@
     "Team":"Washington"
   },
   {
-    "Value":14.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"Bo Nix",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"DEN"
-  },
-  {
     "Value":12.0,
     "Industry Rank":36,
     "FFA Rank":30,
@@ -281,9 +271,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":14,
-    "Diff":9,
+    "Diff":8,
     "Player":"Eli Stowers",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -331,16 +321,6 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":19,
-    "FFA Rank":17,
-    "Diff":2,
-    "Player":"Chigoziem Okonkwo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"WAS"
-  },
-  {
-    "Value":6.0,
     "Industry Rank":25,
     "FFA Rank":21,
     "Diff":4,
@@ -348,6 +328,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"TEN"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":19,
+    "FFA Rank":17,
+    "Diff":2,
+    "Player":"Chigoziem Okonkwo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
   },
   {
     "Value":6.0,
@@ -361,9 +351,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":20,
+    "Industry Rank":21,
     "FFA Rank":16,
-    "Diff":4,
+    "Diff":5,
     "Player":"Mark Andrews",
     "Rookie":"",
     "Pos":"TE",
@@ -381,16 +371,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":33,
-    "FFA Rank":29,
-    "Diff":4,
-    "Player":"Hunter Henry",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NE"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":35,
     "FFA Rank":26,
     "Diff":9,
@@ -398,6 +378,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":33,
+    "FFA Rank":29,
+    "Diff":4,
+    "Player":"Hunter Henry",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NE"
   },
   {
     "Value":4.0,
@@ -441,9 +431,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":45,
+    "Industry Rank":46,
     "FFA Rank":29,
-    "Diff":16,
+    "Diff":17,
     "Player":"Kirk Cousins",
     "Rookie":"",
     "Pos":"QB",
