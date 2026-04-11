@@ -11,9 +11,9 @@
   },
   {
     "Value":63.0,
-    "Industry Rank":14,
+    "Industry Rank":13,
     "FFA Rank":11,
-    "Diff":3,
+    "Diff":2,
     "Player":"Nico Collins",
     "Rookie":"",
     "Pos":"WR",
@@ -31,9 +31,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":27,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":10,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -80,16 +80,6 @@
     "Team":"TB"
   },
   {
-    "Value":40.0,
-    "Industry Rank":28,
-    "FFA Rank":26,
-    "Diff":2,
-    "Player":"A.J. Brown",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PHI"
-  },
-  {
     "Value":37.0,
     "Industry Rank":33,
     "FFA Rank":28,
@@ -111,9 +101,9 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":38,
+    "Industry Rank":36,
     "FFA Rank":32,
-    "Diff":6,
+    "Diff":4,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
@@ -131,9 +121,9 @@
   },
   {
     "Value":31.0,
-    "Industry Rank":20,
+    "Industry Rank":19,
     "FFA Rank":14,
-    "Diff":6,
+    "Diff":5,
     "Player":"Javonte Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -141,9 +131,9 @@
   },
   {
     "Value":30.0,
-    "Industry Rank":19,
+    "Industry Rank":20,
     "FFA Rank":16,
-    "Diff":3,
+    "Diff":4,
     "Player":"Josh Jacobs",
     "Rookie":"",
     "Pos":"RB",
@@ -168,16 +158,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"HOU"
-  },
-  {
-    "Value":26.0,
-    "Industry Rank":39,
-    "FFA Rank":36,
-    "Diff":3,
-    "Player":"DK Metcalf",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
   },
   {
     "Value":25.0,
@@ -211,23 +191,23 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":10,
+    "Industry Rank":12,
     "FFA Rank":7,
-    "Diff":3,
+    "Diff":5,
     "Player":"Jalen Hurts",
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
   },
   {
-    "Value":19.0,
+    "Value":18.0,
     "Industry Rank":50,
-    "FFA Rank":45,
-    "Diff":5,
-    "Player":"Quentin Johnston",
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"LAC"
+    "Team":"IND"
   },
   {
     "Value":17.0,
@@ -361,9 +341,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":31,
+    "Industry Rank":30,
     "FFA Rank":24,
-    "Diff":7,
+    "Diff":6,
     "Player":"J.J. McCarthy",
     "Rookie":"",
     "Pos":"QB",

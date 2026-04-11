@@ -1,9 +1,9 @@
 [
   {
     "Value":73.0,
-    "Industry Rank":4,
+    "Industry Rank":5,
     "FFA Rank":8,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Malik Nabers",
     "Rookie":"",
     "Pos":"WR",
@@ -201,9 +201,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":44,
-    "Diff":-7,
+    "Diff":-6,
     "Player":"Parker Washington",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +211,9 @@
   },
   {
     "Value":19.0,
-    "Industry Rank":36,
+    "Industry Rank":39,
     "FFA Rank":46,
-    "Diff":-10,
+    "Diff":-7,
     "Player":"Travis Hunter",
     "Rookie":"",
     "Pos":"WR",
@@ -311,6 +311,16 @@
   },
   {
     "Value":10.0,
+    "Industry Rank":11,
+    "FFA Rank":13,
+    "Diff":-2,
+    "Player":"Trevor Lawrence",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"JAX"
+  },
+  {
+    "Value":10.0,
     "Industry Rank":30,
     "FFA Rank":36,
     "Diff":-6,
@@ -381,6 +391,16 @@
   },
   {
     "Value":7.0,
+    "Industry Rank":46,
+    "FFA Rank":51,
+    "Diff":-5,
+    "Player":"Jordan Mason",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"MIN"
+  },
+  {
+    "Value":7.0,
     "Industry Rank":49,
     "FFA Rank":52,
     "Diff":-3,
@@ -388,16 +408,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYG"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":45,
-    "FFA Rank":51,
-    "Diff":-6,
-    "Player":"Jordan Mason",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"MIN"
   },
   {
     "Value":7.0,
@@ -471,9 +481,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":42,
+    "Industry Rank":43,
     "FFA Rank":61,
-    "Diff":-19,
+    "Diff":-18,
     "Player":"Dylan Sampson",
     "Rookie":"",
     "Pos":"RB",
@@ -501,13 +511,23 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":43,
+    "Industry Rank":42,
     "FFA Rank":67,
-    "Diff":-24,
+    "Diff":-25,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYJ"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":28,
+    "FFA Rank":30,
+    "Diff":-2,
+    "Player":"Theo Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NYG"
   },
   {
     "Value":5.0,
@@ -581,9 +601,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
     "FFA Rank":34,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Mac Jones",
     "Rookie":"",
     "Pos":"QB",
