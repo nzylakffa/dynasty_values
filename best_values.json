@@ -151,9 +151,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":41,
+    "Industry Rank":43,
     "FFA Rank":37,
-    "Diff":4,
+    "Diff":6,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -191,9 +191,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":12,
+    "Industry Rank":10,
     "FFA Rank":7,
-    "Diff":5,
+    "Diff":3,
     "Player":"Jalen Hurts",
     "Rookie":"",
     "Pos":"QB",
@@ -221,13 +221,23 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":37,
+    "Industry Rank":36,
     "FFA Rank":26,
-    "Diff":11,
+    "Diff":10,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
     "Team":"Washington"
+  },
+  {
+    "Value":14.0,
+    "Industry Rank":12,
+    "FFA Rank":10,
+    "Diff":2,
+    "Player":"Bo Nix",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"DEN"
   },
   {
     "Value":12.0,
@@ -251,9 +261,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":33,
-    "Diff":3,
+    "Diff":4,
     "Player":"Woody Marks",
     "Rookie":"",
     "Pos":"RB",
@@ -271,9 +281,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":41,
-    "Diff":8,
+    "Diff":7,
     "Player":"Tyjae Spears",
     "Rookie":"",
     "Pos":"RB",
@@ -290,20 +300,10 @@
     "Team":"LAR"
   },
   {
-    "Value":7.0,
-    "Industry Rank":20,
-    "FFA Rank":18,
-    "Diff":2,
-    "Player":"Tyler Shough",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"NO"
-  },
-  {
     "Value":6.0,
-    "Industry Rank":24,
+    "Industry Rank":25,
     "FFA Rank":20,
-    "Diff":4,
+    "Diff":5,
     "Player":"Kyler Murray",
     "Rookie":"",
     "Pos":"QB",
@@ -461,9 +461,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":26,
-    "Diff":9,
+    "Diff":10,
     "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",

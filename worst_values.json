@@ -191,9 +191,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":43,
+    "Industry Rank":41,
     "FFA Rank":48,
-    "Diff":-5,
+    "Diff":-7,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -231,23 +231,13 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":52,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
     "Team":"KC"
-  },
-  {
-    "Value":15.0,
-    "Industry Rank":50,
-    "FFA Rank":55,
-    "Diff":-5,
-    "Player":"Chris Rodriguez",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"Louisville"
   },
   {
     "Value":15.0,
@@ -260,10 +250,20 @@
     "Team":"CHI"
   },
   {
+    "Value":15.0,
+    "Industry Rank":50,
+    "FFA Rank":55,
+    "Diff":-5,
+    "Player":"Chris Rodriguez",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"Louisville"
+  },
+  {
     "Value":14.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":57,
-    "Diff":-9,
+    "Diff":-10,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -281,16 +281,6 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":28,
-    "FFA Rank":31,
-    "Diff":-3,
-    "Player":"David Montgomery",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"HOU"
-  },
-  {
-    "Value":11.0,
     "Industry Rank":7,
     "FFA Rank":11,
     "Diff":-4,
@@ -300,10 +290,20 @@
     "Team":"KC"
   },
   {
-    "Value":10.0,
-    "Industry Rank":10,
-    "FFA Rank":13,
+    "Value":11.0,
+    "Industry Rank":28,
+    "FFA Rank":31,
     "Diff":-3,
+    "Player":"David Montgomery",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"HOU"
+  },
+  {
+    "Value":10.0,
+    "Industry Rank":11,
+    "FFA Rank":13,
+    "Diff":-2,
     "Player":"Trevor Lawrence",
     "Rookie":"",
     "Pos":"QB",
@@ -341,9 +341,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":32,
+    "Industry Rank":31,
     "FFA Rank":38,
-    "Diff":-6,
+    "Diff":-7,
     "Player":"Rico Dowdle",
     "Rookie":"",
     "Pos":"RB",
@@ -381,13 +381,13 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":48,
-    "FFA Rank":52,
-    "Diff":-4,
-    "Player":"Tyrone Tracy",
+    "Industry Rank":45,
+    "FFA Rank":51,
+    "Diff":-6,
+    "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"NYG"
+    "Team":"MIN"
   },
   {
     "Value":7.0,
@@ -401,13 +401,13 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":45,
-    "FFA Rank":51,
-    "Diff":-6,
-    "Player":"Jordan Mason",
+    "Industry Rank":49,
+    "FFA Rank":52,
+    "Diff":-3,
+    "Player":"Tyrone Tracy",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"MIN"
+    "Team":"NYG"
   },
   {
     "Value":6.0,
@@ -421,9 +421,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":61,
-    "Diff":-14,
+    "Diff":-15,
     "Player":"Dylan Sampson",
     "Rookie":"",
     "Pos":"RB",
@@ -441,9 +441,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":19,
+    "Industry Rank":20,
     "FFA Rank":22,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Sam Darnold",
     "Rookie":"",
     "Pos":"QB",
