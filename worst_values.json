@@ -21,9 +21,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":18,
+    "Industry Rank":17,
     "FFA Rank":22,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":41.0,
-    "Industry Rank":21,
+    "Industry Rank":20,
     "FFA Rank":25,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -221,9 +221,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":39,
+    "Industry Rank":41,
     "FFA Rank":50,
-    "Diff":-11,
+    "Diff":-9,
     "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
@@ -271,9 +271,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":59,
-    "Diff":-15,
+    "Diff":-14,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -311,9 +311,9 @@
   },
   {
     "Value":10.0,
-    "Industry Rank":27,
+    "Industry Rank":26,
     "FFA Rank":34,
-    "Diff":-7,
+    "Diff":-8,
     "Player":"D'Andre Swift",
     "Rookie":"",
     "Pos":"RB",
@@ -358,6 +358,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"CAR"
+  },
+  {
+    "Value":9.0,
+    "Industry Rank":38,
+    "FFA Rank":40,
+    "Diff":-2,
+    "Player":"Nicholas Singleton",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Penn State"
   },
   {
     "Value":8.0,
@@ -451,6 +461,16 @@
   },
   {
     "Value":6.0,
+    "Industry Rank":20,
+    "FFA Rank":22,
+    "Diff":-2,
+    "Player":"Sam Darnold",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"SEA"
+  },
+  {
+    "Value":6.0,
     "Industry Rank":43,
     "FFA Rank":56,
     "Diff":-13,
@@ -501,9 +521,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":20,
+    "Industry Rank":21,
     "FFA Rank":23,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Baker Mayfield",
     "Rookie":"",
     "Pos":"QB",
@@ -601,6 +621,26 @@
   },
   {
     "Value":3.0,
+    "Industry Rank":47,
+    "FFA Rank":57,
+    "Diff":-10,
+    "Player":"Spencer Rattler",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"NO"
+  },
+  {
+    "Value":3.0,
+    "Industry Rank":34,
+    "FFA Rank":43,
+    "Diff":-9,
+    "Player":"Jacoby Brissett",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"ARI"
+  },
+  {
+    "Value":3.0,
     "Industry Rank":37,
     "FFA Rank":41,
     "Diff":-4,
@@ -611,16 +651,6 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":46,
-    "FFA Rank":57,
-    "Diff":-11,
-    "Player":"Spencer Rattler",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"NO"
-  },
-  {
-    "Value":3.0,
     "Industry Rank":31,
     "FFA Rank":58,
     "Diff":-27,
@@ -628,16 +658,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"CLE"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":33,
-    "FFA Rank":43,
-    "Diff":-10,
-    "Player":"Jacoby Brissett",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"ARI"
   },
   {
     "Value":3.0,
