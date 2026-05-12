@@ -40,16 +40,6 @@
     "Team":"DET"
   },
   {
-    "Value":49.0,
-    "Industry Rank":21,
-    "FFA Rank":19,
-    "Diff":2,
-    "Player":"Luther Burden",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"CHI"
-  },
-  {
     "Value":47.0,
     "Industry Rank":23,
     "FFA Rank":20,
@@ -131,16 +121,6 @@
   },
   {
     "Value":31.0,
-    "Industry Rank":19,
-    "FFA Rank":15,
-    "Diff":4,
-    "Player":"Cam Skattebo",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NYG"
-  },
-  {
-    "Value":31.0,
     "Industry Rank":21,
     "FFA Rank":14,
     "Diff":7,
@@ -148,6 +128,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"DAL"
+  },
+  {
+    "Value":31.0,
+    "Industry Rank":19,
+    "FFA Rank":15,
+    "Diff":4,
+    "Player":"Cam Skattebo",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"NYG"
   },
   {
     "Value":30.0,
@@ -161,9 +151,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":35,
-    "Diff":4,
+    "Diff":5,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +161,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":37,
-    "Diff":10,
+    "Diff":9,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -181,9 +171,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":27,
+    "Industry Rank":26,
     "FFA Rank":20,
-    "Diff":7,
+    "Diff":6,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -201,9 +191,9 @@
   },
   {
     "Value":22.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":42,
-    "Diff":4,
+    "Diff":5,
     "Player":"Davante Adams",
     "Rookie":"",
     "Pos":"WR",
@@ -311,33 +301,13 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":28,
-    "FFA Rank":18,
-    "Diff":10,
-    "Player":"Juwan Johnson",
+    "Industry Rank":24,
+    "FFA Rank":20,
+    "Diff":4,
+    "Player":"Kyler Murray",
     "Rookie":"",
-    "Pos":"TE",
-    "Team":"NO"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":20,
-    "FFA Rank":17,
-    "Diff":3,
-    "Player":"Chigoziem Okonkwo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"WAS"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":19,
-    "FFA Rank":16,
-    "Diff":3,
-    "Player":"Mark Andrews",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"BAL"
+    "Pos":"QB",
+    "Team":"MIN"
   },
   {
     "Value":6.0,
@@ -351,6 +321,26 @@
   },
   {
     "Value":6.0,
+    "Industry Rank":19,
+    "FFA Rank":16,
+    "Diff":3,
+    "Player":"Mark Andrews",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"BAL"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":20,
+    "FFA Rank":17,
+    "Diff":3,
+    "Player":"Chigoziem Okonkwo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
+  },
+  {
+    "Value":6.0,
     "Industry Rank":26,
     "FFA Rank":20,
     "Diff":6,
@@ -361,13 +351,13 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":24,
-    "FFA Rank":20,
-    "Diff":4,
-    "Player":"Kyler Murray",
+    "Industry Rank":28,
+    "FFA Rank":18,
+    "Diff":10,
+    "Player":"Juwan Johnson",
     "Rookie":"",
-    "Pos":"QB",
-    "Team":"MIN"
+    "Pos":"TE",
+    "Team":"NO"
   },
   {
     "Value":5.0,
@@ -398,6 +388,26 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":41,
+    "FFA Rank":29,
+    "Diff":12,
+    "Player":"Kirk Cousins",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"ATL"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":46,
+    "FFA Rank":39,
+    "Diff":7,
+    "Player":"Noah Gray",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"KC"
   },
   {
     "Value":4.0,
@@ -451,16 +461,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":43,
-    "FFA Rank":32,
-    "Diff":11,
-    "Player":"Aaron Rodgers",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"PIT"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":36,
     "FFA Rank":26,
     "Diff":10,
@@ -471,16 +471,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":29,
-    "Diff":12,
-    "Player":"Kirk Cousins",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"ATL"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":38,
     "FFA Rank":33,
     "Diff":5,
@@ -488,6 +478,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"NYJ"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":42,
+    "FFA Rank":32,
+    "Diff":10,
+    "Player":"Aaron Rodgers",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -511,13 +511,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":46,
-    "FFA Rank":39,
-    "Diff":7,
-    "Player":"Noah Gray",
+    "Industry Rank":50,
+    "FFA Rank":40,
+    "Diff":10,
+    "Player":"Mike Gesicki",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"KC"
+    "Team":"CIN"
   },
   {
     "Value":3.0,
