@@ -31,9 +31,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":29,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":12,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":47.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":20,
-    "Diff":3,
+    "Diff":2,
     "Player":"Makai Lemon",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -51,9 +51,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":21,
-    "Diff":7,
+    "Diff":8,
     "Player":"Zay Flowers",
     "Rookie":"",
     "Pos":"WR",
@@ -101,23 +101,13 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":32,
-    "Diff":6,
+    "Diff":5,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
     "Team":"GB"
-  },
-  {
-    "Value":32.0,
-    "Industry Rank":36,
-    "FFA Rank":34,
-    "Diff":2,
-    "Player":"Michael Wilson",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"ARI"
   },
   {
     "Value":31.0,
@@ -151,9 +141,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":40,
+    "Industry Rank":41,
     "FFA Rank":35,
-    "Diff":5,
+    "Diff":6,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -170,10 +160,20 @@
     "Team":"HOU"
   },
   {
+    "Value":26.0,
+    "Industry Rank":38,
+    "FFA Rank":36,
+    "Diff":2,
+    "Player":"DK Metcalf",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"PIT"
+  },
+  {
     "Value":25.0,
-    "Industry Rank":26,
+    "Industry Rank":27,
     "FFA Rank":20,
-    "Diff":6,
+    "Diff":7,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -201,9 +201,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":11,
+    "Industry Rank":10,
     "FFA Rank":7,
-    "Diff":4,
+    "Diff":3,
     "Player":"Jalen Hurts",
     "Rookie":"",
     "Pos":"QB",
@@ -212,12 +212,12 @@
   {
     "Value":19.0,
     "Industry Rank":50,
-    "FFA Rank":46,
-    "Diff":4,
-    "Player":"Travis Hunter",
+    "FFA Rank":45,
+    "Diff":5,
+    "Player":"Quentin Johnston",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"JAX"
+    "Team":"LAC"
   },
   {
     "Value":16.0,
@@ -241,16 +241,6 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":39,
-    "FFA Rank":30,
-    "Diff":9,
-    "Player":"Rhamondre Stevenson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NE"
-  },
-  {
-    "Value":12.0,
     "Industry Rank":15,
     "FFA Rank":11,
     "Diff":4,
@@ -258,6 +248,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"BUF"
+  },
+  {
+    "Value":12.0,
+    "Industry Rank":38,
+    "FFA Rank":30,
+    "Diff":8,
+    "Player":"Rhamondre Stevenson",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"NE"
   },
   {
     "Value":11.0,
@@ -271,9 +271,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":42,
+    "Industry Rank":43,
     "FFA Rank":37,
-    "Diff":5,
+    "Diff":6,
     "Player":"Tyler Allgeier",
     "Rookie":"",
     "Pos":"RB",
@@ -281,9 +281,19 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":47,
+    "Industry Rank":50,
+    "FFA Rank":43,
+    "Diff":7,
+    "Player":"Emmett Johnson",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Nebraska"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":45,
     "FFA Rank":41,
-    "Diff":6,
+    "Diff":4,
     "Player":"Tyjae Spears",
     "Rookie":"",
     "Pos":"RB",
@@ -291,9 +301,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":21,
+    "Industry Rank":20,
     "FFA Rank":15,
-    "Diff":6,
+    "Diff":5,
     "Player":"Terrance Ferguson",
     "Rookie":"",
     "Pos":"TE",
@@ -331,9 +341,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":20,
+    "Industry Rank":21,
     "FFA Rank":17,
-    "Diff":3,
+    "Diff":4,
     "Player":"Chigoziem Okonkwo",
     "Rookie":"",
     "Pos":"TE",
@@ -351,9 +361,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":10,
+    "Diff":11,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -361,9 +371,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":29,
-    "Diff":3,
+    "Diff":4,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -391,13 +401,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":29,
-    "Diff":12,
-    "Player":"Kirk Cousins",
+    "Industry Rank":42,
+    "FFA Rank":32,
+    "Diff":10,
+    "Player":"Aaron Rodgers",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"ATL"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -461,9 +471,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":26,
-    "Diff":10,
+    "Diff":9,
     "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",
@@ -481,13 +491,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":42,
-    "FFA Rank":32,
+    "Industry Rank":39,
+    "FFA Rank":29,
     "Diff":10,
-    "Player":"Aaron Rodgers",
+    "Player":"Kirk Cousins",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"PIT"
+    "Team":"ATL"
   },
   {
     "Value":4.0,
