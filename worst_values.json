@@ -131,9 +131,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":21,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Kyren Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -191,6 +191,16 @@
   },
   {
     "Value":18.0,
+    "Industry Rank":37,
+    "FFA Rank":48,
+    "Diff":-11,
+    "Player":"Josh Downs",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"IND"
+  },
+  {
+    "Value":18.0,
     "Industry Rank":43,
     "FFA Rank":47,
     "Diff":-4,
@@ -198,26 +208,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"GB"
-  },
-  {
-    "Value":18.0,
-    "Industry Rank":38,
-    "FFA Rank":48,
-    "Diff":-10,
-    "Player":"Josh Downs",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"IND"
-  },
-  {
-    "Value":17.0,
-    "Industry Rank":40,
-    "FFA Rank":50,
-    "Diff":-10,
-    "Player":"Wan'Dale Robinson",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"TEN"
   },
   {
     "Value":17.0,
@@ -240,10 +230,20 @@
     "Team":"CIN"
   },
   {
+    "Value":17.0,
+    "Industry Rank":40,
+    "FFA Rank":50,
+    "Diff":-10,
+    "Player":"Wan'Dale Robinson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"TEN"
+  },
+  {
     "Value":16.0,
-    "Industry Rank":48,
+    "Industry Rank":49,
     "FFA Rank":52,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -268,16 +268,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"Louisville"
-  },
-  {
-    "Value":14.0,
-    "Industry Rank":50,
-    "FFA Rank":57,
-    "Diff":-7,
-    "Player":"Michael Pittman",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PIT"
   },
   {
     "Value":14.0,
@@ -521,9 +511,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":27,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Dallas Goedert",
     "Rookie":"",
     "Pos":"TE",
@@ -581,9 +571,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":32,
+    "Industry Rank":31,
     "FFA Rank":36,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Dalton Schultz",
     "Rookie":"",
     "Pos":"TE",
@@ -608,6 +598,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"KC"
+  },
+  {
+    "Value":3.0,
+    "Industry Rank":48,
+    "FFA Rank":57,
+    "Diff":-9,
+    "Player":"Cade Stover",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"HOU"
   },
   {
     "Value":3.0,
@@ -650,14 +650,14 @@
     "Team":"ARI"
   },
   {
-    "Value":3.0,
-    "Industry Rank":48,
-    "FFA Rank":57,
-    "Diff":-9,
-    "Player":"Cade Stover",
+    "Value":2.0,
+    "Industry Rank":39,
+    "FFA Rank":63,
+    "Diff":-24,
+    "Player":"Deshaun Watson",
     "Rookie":"",
-    "Pos":"TE",
-    "Team":"HOU"
+    "Pos":"QB",
+    "Team":""
   },
   {
     "Value":2.0,
@@ -671,13 +671,13 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":39,
-    "FFA Rank":63,
-    "Diff":-24,
-    "Player":"Deshaun Watson",
+    "Industry Rank":50,
+    "FFA Rank":77,
+    "Diff":-27,
+    "Player":"Dillon Gabriel",
     "Rookie":"",
     "Pos":"QB",
-    "Team":""
+    "Team":"CLE"
   },
   {
     "Value":2.0,

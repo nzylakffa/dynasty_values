@@ -131,9 +131,9 @@
   },
   {
     "Value":32.0,
-    "Industry Rank":37,
+    "Industry Rank":39,
     "FFA Rank":34,
-    "Diff":3,
+    "Diff":5,
     "Player":"Michael Wilson",
     "Rookie":"",
     "Pos":"WR",
@@ -191,9 +191,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":36,
-    "Diff":3,
+    "Diff":2,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -231,13 +231,23 @@
   },
   {
     "Value":19.0,
-    "Industry Rank":49,
+    "Industry Rank":50,
     "FFA Rank":45,
-    "Diff":4,
+    "Diff":5,
     "Player":"Quentin Johnston",
     "Rookie":"",
     "Pos":"WR",
     "Team":"LAC"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":48,
+    "FFA Rank":46,
+    "Diff":2,
+    "Player":"Travis Hunter",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"JAX"
   },
   {
     "Value":16.0,
@@ -341,9 +351,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":18,
+    "Industry Rank":19,
     "FFA Rank":16,
-    "Diff":2,
+    "Diff":3,
     "Player":"Mark Andrews",
     "Rookie":"",
     "Pos":"TE",
@@ -358,6 +368,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"WAS"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":23,
+    "FFA Rank":21,
+    "Diff":2,
+    "Player":"Gunnar Helm",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"TEN"
   },
   {
     "Value":6.0,
@@ -388,6 +408,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"NE"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":32,
+    "FFA Rank":30,
+    "Diff":2,
+    "Player":"Theo Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NYG"
   },
   {
     "Value":5.0,
@@ -441,9 +471,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":35,
-    "Diff":5,
+    "Diff":4,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
@@ -538,15 +568,5 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIA"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":50,
-    "FFA Rank":39,
-    "Diff":11,
-    "Player":"Will Levis",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":""
   }
 ]
