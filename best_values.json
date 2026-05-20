@@ -1,15 +1,5 @@
 [
   {
-    "Value":89.0,
-    "Industry Rank":6,
-    "FFA Rank":4,
-    "Diff":2,
-    "Player":"Justin Jefferson",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"MIN"
-  },
-  {
     "Value":63.0,
     "Industry Rank":14,
     "FFA Rank":11,
@@ -51,9 +41,9 @@
   },
   {
     "Value":47.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":20,
-    "Diff":3,
+    "Diff":2,
     "Player":"Makai Lemon",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -68,16 +58,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"BAL"
-  },
-  {
-    "Value":43.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"TreVeyon Henderson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NE"
   },
   {
     "Value":42.0,
@@ -181,9 +161,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":36,
-    "Diff":3,
+    "Diff":4,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -251,16 +231,6 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":39,
-    "FFA Rank":30,
-    "Diff":9,
-    "Player":"Rhamondre Stevenson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NE"
-  },
-  {
-    "Value":12.0,
     "Industry Rank":15,
     "FFA Rank":11,
     "Diff":4,
@@ -268,6 +238,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"BUF"
+  },
+  {
+    "Value":12.0,
+    "Industry Rank":39,
+    "FFA Rank":30,
+    "Diff":9,
+    "Player":"Rhamondre Stevenson",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"NE"
   },
   {
     "Value":11.0,
@@ -291,9 +271,19 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":49,
+    "Industry Rank":50,
+    "FFA Rank":43,
+    "Diff":7,
+    "Player":"Emmett Johnson",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Nebraska"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":48,
     "FFA Rank":41,
-    "Diff":8,
+    "Diff":7,
     "Player":"Tyjae Spears",
     "Rookie":"",
     "Pos":"RB",
@@ -301,9 +291,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":21,
+    "Industry Rank":22,
     "FFA Rank":15,
-    "Diff":6,
+    "Diff":7,
     "Player":"Terrance Ferguson",
     "Rookie":"",
     "Pos":"TE",
@@ -371,9 +361,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":33,
+    "Industry Rank":32,
     "FFA Rank":29,
-    "Diff":4,
+    "Diff":3,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -442,22 +432,22 @@
   {
     "Value":4.0,
     "Industry Rank":40,
-    "FFA Rank":34,
-    "Diff":6,
-    "Player":"Luke Musgrave",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"GB"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":41,
     "FFA Rank":35,
-    "Diff":6,
+    "Diff":5,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
     "Team":"DEN"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":41,
+    "FFA Rank":34,
+    "Diff":7,
+    "Player":"Luke Musgrave",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"GB"
   },
   {
     "Value":4.0,
@@ -481,16 +471,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":38,
-    "FFA Rank":33,
-    "Diff":5,
-    "Player":"Justin Fields",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"NYJ"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":40,
     "FFA Rank":29,
     "Diff":11,
@@ -498,6 +478,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ATL"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":39,
+    "FFA Rank":33,
+    "Diff":6,
+    "Player":"Justin Fields",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"NYJ"
   },
   {
     "Value":4.0,
@@ -528,5 +518,15 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PIT"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":45,
+    "FFA Rank":43,
+    "Diff":2,
+    "Player":"Ben Sinnott",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
   }
 ]
