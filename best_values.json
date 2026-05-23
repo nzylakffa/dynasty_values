@@ -231,9 +231,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":15,
+    "Industry Rank":14,
     "FFA Rank":11,
-    "Diff":4,
+    "Diff":3,
     "Player":"Dalton Kincaid",
     "Rookie":"",
     "Pos":"TE",
@@ -342,22 +342,32 @@
   {
     "Value":6.0,
     "Industry Rank":27,
+    "FFA Rank":18,
+    "Diff":9,
+    "Player":"Juwan Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NO"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":28,
     "FFA Rank":20,
-    "Diff":7,
+    "Diff":8,
     "Player":"Mason Taylor",
     "Rookie":"",
     "Pos":"TE",
     "Team":"NYJ"
   },
   {
-    "Value":6.0,
-    "Industry Rank":28,
-    "FFA Rank":18,
-    "Diff":10,
-    "Player":"Juwan Johnson",
+    "Value":5.0,
+    "Industry Rank":30,
+    "FFA Rank":28,
+    "Diff":2,
+    "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"NO"
+    "Team":"TB"
   },
   {
     "Value":5.0,
@@ -381,23 +391,23 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":34,
-    "FFA Rank":26,
-    "Diff":8,
-    "Player":"Pat Freiermuth",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"PIT"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":32,
-    "Diff":17,
+    "Diff":16,
     "Player":"Justin Joly",
     "Rookie":"Rookie",
     "Pos":"TE",
     "Team":"NC State"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":33,
+    "FFA Rank":26,
+    "Diff":7,
+    "Player":"Pat Freiermuth",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -461,9 +471,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":26,
-    "Diff":9,
+    "Diff":10,
     "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",
