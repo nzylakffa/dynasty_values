@@ -1,15 +1,5 @@
 [
   {
-    "Value":65.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"George Pickens",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"DAL"
-  },
-  {
     "Value":63.0,
     "Industry Rank":14,
     "FFA Rank":11,
@@ -191,9 +181,9 @@
   },
   {
     "Value":22.0,
-    "Industry Rank":49,
+    "Industry Rank":50,
     "FFA Rank":42,
-    "Diff":7,
+    "Diff":8,
     "Player":"Davante Adams",
     "Rookie":"",
     "Pos":"WR",
@@ -321,9 +311,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":19,
+    "Industry Rank":18,
     "FFA Rank":16,
-    "Diff":3,
+    "Diff":2,
     "Player":"Mark Andrews",
     "Rookie":"",
     "Pos":"TE",
@@ -342,38 +332,28 @@
   {
     "Value":6.0,
     "Industry Rank":27,
-    "FFA Rank":18,
-    "Diff":9,
-    "Player":"Juwan Johnson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NO"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":28,
     "FFA Rank":20,
-    "Diff":8,
+    "Diff":7,
     "Player":"Mason Taylor",
     "Rookie":"",
     "Pos":"TE",
     "Team":"NYJ"
   },
   {
-    "Value":5.0,
-    "Industry Rank":30,
-    "FFA Rank":28,
-    "Diff":2,
-    "Player":"Cade Otton",
+    "Value":6.0,
+    "Industry Rank":28,
+    "FFA Rank":18,
+    "Diff":10,
+    "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"TB"
+    "Team":"NO"
   },
   {
     "Value":5.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":29,
-    "Diff":3,
+    "Diff":4,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -391,9 +371,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":32,
-    "Diff":16,
+    "Diff":15,
     "Player":"Justin Joly",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -401,9 +381,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":33,
+    "Industry Rank":32,
     "FFA Rank":26,
-    "Diff":7,
+    "Diff":6,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
@@ -422,12 +402,12 @@
   {
     "Value":4.0,
     "Industry Rank":43,
-    "FFA Rank":37,
-    "Diff":6,
-    "Player":"Greg Dulcich",
+    "FFA Rank":34,
+    "Diff":9,
+    "Player":"Luke Musgrave",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"MIA"
+    "Team":"GB"
   },
   {
     "Value":4.0,
@@ -452,8 +432,18 @@
   {
     "Value":4.0,
     "Industry Rank":41,
+    "FFA Rank":37,
+    "Diff":4,
+    "Player":"Greg Dulcich",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"MIA"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":42,
     "FFA Rank":38,
-    "Diff":3,
+    "Diff":4,
     "Player":"Darnell Washington",
     "Rookie":"",
     "Pos":"TE",
@@ -461,19 +451,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":42,
-    "FFA Rank":34,
-    "Diff":8,
-    "Player":"Luke Musgrave",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"GB"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":26,
-    "Diff":10,
+    "Diff":9,
     "Player":"Anthony Richardson",
     "Rookie":"",
     "Pos":"QB",
