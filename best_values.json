@@ -1,5 +1,15 @@
 [
   {
+    "Value":65.0,
+    "Industry Rank":12,
+    "FFA Rank":10,
+    "Diff":2,
+    "Player":"George Pickens",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"DAL"
+  },
+  {
     "Value":63.0,
     "Industry Rank":14,
     "FFA Rank":11,
@@ -21,9 +31,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":24,
+    "Industry Rank":25,
     "FFA Rank":15,
-    "Diff":9,
+    "Diff":10,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -71,9 +81,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":31,
-    "Diff":14,
+    "Diff":13,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -81,9 +91,9 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":32,
-    "Diff":4,
+    "Diff":3,
     "Player":"Christian Watson",
     "Rookie":"",
     "Pos":"WR",
@@ -121,9 +131,9 @@
   },
   {
     "Value":30.0,
-    "Industry Rank":24,
+    "Industry Rank":25,
     "FFA Rank":16,
-    "Diff":8,
+    "Diff":9,
     "Player":"Josh Jacobs",
     "Rookie":"",
     "Pos":"RB",
@@ -170,16 +180,6 @@
     "Team":"DEN"
   },
   {
-    "Value":22.0,
-    "Industry Rank":50,
-    "FFA Rank":42,
-    "Diff":8,
-    "Player":"Davante Adams",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"LAR"
-  },
-  {
     "Value":21.0,
     "Industry Rank":11,
     "FFA Rank":7,
@@ -190,10 +190,20 @@
     "Team":"PHI"
   },
   {
+    "Value":19.0,
+    "Industry Rank":50,
+    "FFA Rank":45,
+    "Diff":5,
+    "Player":"Quentin Johnston",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAC"
+  },
+  {
     "Value":16.0,
-    "Industry Rank":35,
+    "Industry Rank":34,
     "FFA Rank":26,
-    "Diff":9,
+    "Diff":8,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -211,9 +221,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":14,
+    "Industry Rank":13,
     "FFA Rank":11,
-    "Diff":3,
+    "Diff":2,
     "Player":"Dalton Kincaid",
     "Rookie":"",
     "Pos":"TE",
@@ -221,9 +231,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":30,
-    "Diff":8,
+    "Diff":7,
     "Player":"Rhamondre Stevenson",
     "Rookie":"",
     "Pos":"RB",
@@ -248,16 +258,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"ARI"
-  },
-  {
-    "Value":8.0,
-    "Industry Rank":50,
-    "FFA Rank":43,
-    "Diff":7,
-    "Player":"Emmett Johnson",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Nebraska"
   },
   {
     "Value":8.0,
@@ -351,16 +351,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":33,
-    "FFA Rank":30,
-    "Diff":3,
-    "Player":"Theo Johnson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NYG"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":32,
     "FFA Rank":29,
     "Diff":3,
@@ -368,6 +358,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"NE"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":47,
+    "FFA Rank":32,
+    "Diff":15,
+    "Player":"Justin Joly",
+    "Rookie":"Rookie",
+    "Pos":"TE",
+    "Team":"NC State"
   },
   {
     "Value":5.0,
@@ -381,13 +381,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":47,
-    "FFA Rank":32,
-    "Diff":15,
-    "Player":"Justin Joly",
-    "Rookie":"Rookie",
+    "Industry Rank":34,
+    "FFA Rank":30,
+    "Diff":4,
+    "Player":"Theo Johnson",
+    "Rookie":"",
     "Pos":"TE",
-    "Team":"NC State"
+    "Team":"NYG"
   },
   {
     "Value":4.0,
@@ -401,9 +401,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":48,
+    "Industry Rank":49,
     "FFA Rank":40,
-    "Diff":8,
+    "Diff":9,
     "Player":"Mike Gesicki",
     "Rookie":"",
     "Pos":"TE",
@@ -431,9 +431,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":35,
-    "Diff":5,
+    "Diff":4,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
@@ -518,5 +518,15 @@
     "Rookie":"Rookie",
     "Pos":"QB",
     "Team":"LSU"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":45,
+    "FFA Rank":43,
+    "Diff":2,
+    "Player":"Ben Sinnott",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"WAS"
   }
 ]
