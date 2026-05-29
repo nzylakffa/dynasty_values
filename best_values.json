@@ -31,9 +31,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":25,
+    "Industry Rank":24,
     "FFA Rank":15,
-    "Diff":10,
+    "Diff":9,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -81,9 +81,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":31,
-    "Diff":13,
+    "Diff":14,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -201,9 +201,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":34,
+    "Industry Rank":35,
     "FFA Rank":26,
-    "Diff":8,
+    "Diff":9,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -231,9 +231,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":37,
+    "Industry Rank":39,
     "FFA Rank":30,
-    "Diff":7,
+    "Diff":9,
     "Player":"Rhamondre Stevenson",
     "Rookie":"",
     "Pos":"RB",
@@ -251,13 +251,23 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":37,
-    "Diff":8,
+    "Diff":7,
     "Player":"Tyler Allgeier",
     "Rookie":"",
     "Pos":"RB",
     "Team":"ARI"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":50,
+    "FFA Rank":43,
+    "Diff":7,
+    "Player":"Emmett Johnson",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Nebraska"
   },
   {
     "Value":8.0,
@@ -321,9 +331,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":10,
+    "Diff":11,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -401,9 +411,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":49,
+    "Industry Rank":50,
     "FFA Rank":40,
-    "Diff":9,
+    "Diff":10,
     "Player":"Mike Gesicki",
     "Rookie":"",
     "Pos":"TE",
@@ -412,12 +422,12 @@
   {
     "Value":4.0,
     "Industry Rank":43,
-    "FFA Rank":37,
-    "Diff":6,
-    "Player":"Greg Dulcich",
+    "FFA Rank":38,
+    "Diff":5,
+    "Player":"Darnell Washington",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"MIA"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -431,9 +441,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":35,
-    "Diff":4,
+    "Diff":5,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
@@ -452,12 +462,12 @@
   {
     "Value":4.0,
     "Industry Rank":42,
-    "FFA Rank":38,
-    "Diff":4,
-    "Player":"Darnell Washington",
+    "FFA Rank":37,
+    "Diff":5,
+    "Player":"Greg Dulcich",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"PIT"
+    "Team":"MIA"
   },
   {
     "Value":4.0,
@@ -481,9 +491,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
+    "Industry Rank":40,
     "FFA Rank":29,
-    "Diff":12,
+    "Diff":11,
     "Player":"Kirk Cousins",
     "Rookie":"",
     "Pos":"QB",

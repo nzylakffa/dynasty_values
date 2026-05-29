@@ -50,16 +50,6 @@
     "Team":"PHI"
   },
   {
-    "Value":40.0,
-    "Industry Rank":24,
-    "FFA Rank":26,
-    "Diff":-2,
-    "Player":"A.J. Brown",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"PHI"
-  },
-  {
     "Value":38.0,
     "Industry Rank":10,
     "FFA Rank":13,
@@ -180,6 +170,16 @@
     "Team":"JAX"
   },
   {
+    "Value":19.0,
+    "Industry Rank":22,
+    "FFA Rank":24,
+    "Diff":-2,
+    "Player":"Derrick Henry",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"BAL"
+  },
+  {
     "Value":18.0,
     "Industry Rank":38,
     "FFA Rank":48,
@@ -191,9 +191,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":47,
-    "Diff":-2,
+    "Diff":-3,
     "Player":"Jayden Reed",
     "Rookie":"",
     "Pos":"WR",
@@ -238,16 +238,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"KC"
-  },
-  {
-    "Value":15.0,
-    "Industry Rank":50,
-    "FFA Rank":55,
-    "Diff":-5,
-    "Player":"Chris Rodriguez",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"Louisville"
   },
   {
     "Value":15.0,
@@ -331,16 +321,6 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":38,
-    "FFA Rank":40,
-    "Diff":-2,
-    "Player":"Nicholas Singleton",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Penn State"
-  },
-  {
-    "Value":9.0,
     "Industry Rank":32,
     "FFA Rank":38,
     "Diff":-6,
@@ -360,6 +340,16 @@
     "Team":"CAR"
   },
   {
+    "Value":9.0,
+    "Industry Rank":37,
+    "FFA Rank":40,
+    "Diff":-3,
+    "Player":"Nicholas Singleton",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Penn State"
+  },
+  {
     "Value":8.0,
     "Industry Rank":10,
     "FFA Rank":14,
@@ -371,13 +361,13 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":48,
-    "FFA Rank":51,
-    "Diff":-3,
-    "Player":"Jordan Mason",
+    "Industry Rank":45,
+    "FFA Rank":47,
+    "Diff":-2,
+    "Player":"Rachaad White",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"MIN"
+    "Team":"WAS"
   },
   {
     "Value":7.0,
@@ -391,16 +381,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":42,
-    "FFA Rank":46,
-    "Diff":-4,
-    "Player":"Tony Pollard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TEN"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":47,
     "FFA Rank":52,
     "Diff":-5,
@@ -411,13 +391,23 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":44,
-    "FFA Rank":47,
+    "Industry Rank":48,
+    "FFA Rank":51,
     "Diff":-3,
-    "Player":"Rachaad White",
+    "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"WAS"
+    "Team":"MIN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":42,
+    "FFA Rank":46,
+    "Diff":-4,
+    "Player":"Tony Pollard",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TEN"
   },
   {
     "Value":6.0,
@@ -431,9 +421,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":62,
-    "Diff":-23,
+    "Diff":-24,
     "Player":"Jacory Croskey-Merritt",
     "Rookie":"",
     "Pos":"RB",
@@ -651,9 +641,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":50,
+    "Industry Rank":49,
     "FFA Rank":57,
-    "Diff":-7,
+    "Diff":-8,
     "Player":"Cade Stover",
     "Rookie":"",
     "Pos":"TE",
@@ -671,9 +661,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":40,
+    "Industry Rank":41,
     "FFA Rank":75,
-    "Diff":-35,
+    "Diff":-34,
     "Player":"Will Howard",
     "Rookie":"",
     "Pos":"QB",
