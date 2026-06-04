@@ -70,6 +70,16 @@
     "Team":"PHI"
   },
   {
+    "Value":38.0,
+    "Industry Rank":11,
+    "FFA Rank":13,
+    "Diff":-2,
+    "Player":"Kenneth Walker III",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"KC"
+  },
+  {
     "Value":35.0,
     "Industry Rank":23,
     "FFA Rank":29,
@@ -180,6 +190,16 @@
     "Team":"JAX"
   },
   {
+    "Value":19.0,
+    "Industry Rank":22,
+    "FFA Rank":24,
+    "Diff":-2,
+    "Player":"Derrick Henry",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"BAL"
+  },
+  {
     "Value":18.0,
     "Industry Rank":38,
     "FFA Rank":48,
@@ -261,9 +281,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":57,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -401,9 +421,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":52,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Tyrone Tracy",
     "Rookie":"",
     "Pos":"RB",
@@ -471,9 +491,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":67,
-    "Diff":-19,
+    "Diff":-20,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -578,16 +598,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ATL"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":34,
-    "FFA Rank":36,
-    "Diff":-2,
-    "Player":"Dalton Schultz",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"HOU"
   },
   {
     "Value":4.0,
@@ -701,9 +711,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":31,
+    "Industry Rank":30,
     "FFA Rank":80,
-    "Diff":-49,
+    "Diff":-50,
     "Player":"Jake Tonges",
     "Rookie":"",
     "Pos":"TE",
