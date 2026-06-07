@@ -31,9 +31,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":25,
+    "Industry Rank":26,
     "FFA Rank":15,
-    "Diff":10,
+    "Diff":11,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":53.0,
-    "Industry Rank":20,
+    "Industry Rank":18,
     "FFA Rank":16,
-    "Diff":4,
+    "Diff":2,
     "Player":"Rome Odunze",
     "Rookie":"",
     "Pos":"WR",
@@ -61,9 +61,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":26,
+    "Industry Rank":25,
     "FFA Rank":21,
-    "Diff":5,
+    "Diff":4,
     "Player":"Zay Flowers",
     "Rookie":"",
     "Pos":"WR",
@@ -111,9 +111,9 @@
   },
   {
     "Value":32.0,
-    "Industry Rank":38,
+    "Industry Rank":39,
     "FFA Rank":34,
-    "Diff":4,
+    "Diff":5,
     "Player":"Michael Wilson",
     "Rookie":"",
     "Pos":"WR",
@@ -190,6 +190,16 @@
     "Team":"DEN"
   },
   {
+    "Value":22.0,
+    "Industry Rank":50,
+    "FFA Rank":42,
+    "Diff":8,
+    "Player":"Davante Adams",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAR"
+  },
+  {
     "Value":21.0,
     "Industry Rank":11,
     "FFA Rank":7,
@@ -201,16 +211,6 @@
   },
   {
     "Value":19.0,
-    "Industry Rank":49,
-    "FFA Rank":46,
-    "Diff":3,
-    "Player":"Travis Hunter",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"JAX"
-  },
-  {
-    "Value":19.0,
     "Industry Rank":47,
     "FFA Rank":45,
     "Diff":2,
@@ -218,6 +218,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"LAC"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":48,
+    "FFA Rank":46,
+    "Diff":2,
+    "Player":"Travis Hunter",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"JAX"
   },
   {
     "Value":16.0,
@@ -261,9 +271,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":42,
+    "Industry Rank":43,
     "FFA Rank":33,
-    "Diff":9,
+    "Diff":10,
     "Player":"Woody Marks",
     "Rookie":"",
     "Pos":"RB",
@@ -271,9 +281,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":43,
+    "Industry Rank":42,
     "FFA Rank":37,
-    "Diff":6,
+    "Diff":5,
     "Player":"Tyler Allgeier",
     "Rookie":"",
     "Pos":"RB",
@@ -291,9 +301,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":22,
+    "Industry Rank":21,
     "FFA Rank":15,
-    "Diff":7,
+    "Diff":6,
     "Player":"Terrance Ferguson",
     "Rookie":"",
     "Pos":"TE",
@@ -302,12 +312,12 @@
   {
     "Value":6.0,
     "Industry Rank":27,
-    "FFA Rank":20,
-    "Diff":7,
-    "Player":"Mason Taylor",
+    "FFA Rank":18,
+    "Diff":9,
+    "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"NYJ"
+    "Team":"NO"
   },
   {
     "Value":6.0,
@@ -342,12 +352,12 @@
   {
     "Value":6.0,
     "Industry Rank":28,
-    "FFA Rank":18,
-    "Diff":10,
-    "Player":"Juwan Johnson",
+    "FFA Rank":20,
+    "Diff":8,
+    "Player":"Mason Taylor",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"NO"
+    "Team":"NYJ"
   },
   {
     "Value":6.0,
@@ -361,16 +371,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":26,
-    "FFA Rank":24,
-    "Diff":2,
-    "Player":"David Njoku",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"FA"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":33,
     "FFA Rank":26,
     "Diff":7,
@@ -378,16 +378,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":31,
-    "FFA Rank":29,
-    "Diff":2,
-    "Player":"Hunter Henry",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NE"
   },
   {
     "Value":5.0,
@@ -411,9 +401,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":34,
+    "Industry Rank":35,
     "FFA Rank":30,
-    "Diff":4,
+    "Diff":5,
     "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -461,6 +451,16 @@
   },
   {
     "Value":4.0,
+    "Industry Rank":39,
+    "FFA Rank":37,
+    "Diff":2,
+    "Player":"Greg Dulcich",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"MIA"
+  },
+  {
+    "Value":4.0,
     "Industry Rank":40,
     "FFA Rank":35,
     "Diff":5,
@@ -471,16 +471,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
-    "FFA Rank":37,
-    "Diff":4,
-    "Player":"Greg Dulcich",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"MIA"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":42,
     "FFA Rank":38,
     "Diff":4,
@@ -488,16 +478,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":45,
-    "FFA Rank":43,
-    "Diff":2,
-    "Player":"Ben Sinnott",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"WAS"
   },
   {
     "Value":4.0,
