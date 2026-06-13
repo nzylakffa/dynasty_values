@@ -21,9 +21,9 @@
   },
   {
     "Value":58.0,
-    "Industry Rank":16,
+    "Industry Rank":15,
     "FFA Rank":13,
-    "Diff":3,
+    "Diff":2,
     "Player":"Chris Olave",
     "Rookie":"",
     "Pos":"WR",
@@ -41,9 +41,9 @@
   },
   {
     "Value":53.0,
-    "Industry Rank":19,
+    "Industry Rank":20,
     "FFA Rank":16,
-    "Diff":3,
+    "Diff":4,
     "Player":"Rome Odunze",
     "Rookie":"",
     "Pos":"WR",
@@ -70,16 +70,6 @@
     "Team":"BAL"
   },
   {
-    "Value":43.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"TreVeyon Henderson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NE"
-  },
-  {
     "Value":42.0,
     "Industry Rank":19,
     "FFA Rank":11,
@@ -101,9 +91,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":43,
+    "Industry Rank":45,
     "FFA Rank":31,
-    "Diff":12,
+    "Diff":14,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -161,9 +151,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":45,
+    "Industry Rank":43,
     "FFA Rank":37,
-    "Diff":8,
+    "Diff":6,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -191,9 +181,9 @@
   },
   {
     "Value":22.0,
-    "Industry Rank":50,
+    "Industry Rank":49,
     "FFA Rank":42,
-    "Diff":8,
+    "Diff":7,
     "Player":"Davante Adams",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +201,9 @@
   },
   {
     "Value":19.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":46,
-    "Diff":3,
+    "Diff":2,
     "Player":"Travis Hunter",
     "Rookie":"",
     "Pos":"WR",
@@ -261,9 +251,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":44,
+    "Industry Rank":45,
     "FFA Rank":33,
-    "Diff":11,
+    "Diff":12,
     "Player":"Woody Marks",
     "Rookie":"",
     "Pos":"RB",
@@ -271,9 +261,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":43,
+    "Industry Rank":44,
     "FFA Rank":37,
-    "Diff":6,
+    "Diff":7,
     "Player":"Tyler Allgeier",
     "Rookie":"",
     "Pos":"RB",
@@ -321,9 +311,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
     "FFA Rank":22,
-    "Diff":8,
+    "Diff":9,
     "Player":"Max Klare",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -358,16 +348,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":31,
-    "FFA Rank":29,
-    "Diff":2,
-    "Player":"Hunter Henry",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NE"
   },
   {
     "Value":5.0,
@@ -511,9 +491,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":49,
+    "Industry Rank":50,
     "FFA Rank":38,
-    "Diff":11,
+    "Diff":12,
     "Player":"Garrett Nussmeier",
     "Rookie":"Rookie",
     "Pos":"QB",
