@@ -141,9 +141,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":21,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Kyren Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -171,12 +171,22 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":43,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
+    "Team":"GB"
+  },
+  {
+    "Value":21.0,
+    "Industry Rank":5,
+    "FFA Rank":7,
+    "Diff":-2,
+    "Player":"Tucker Kraft",
+    "Rookie":"",
+    "Pos":"TE",
     "Team":"GB"
   },
   {
@@ -188,6 +198,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"JAX"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":22,
+    "FFA Rank":24,
+    "Diff":-2,
+    "Player":"Derrick Henry",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"BAL"
   },
   {
     "Value":19.0,
@@ -221,9 +241,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":16,
+    "Industry Rank":17,
     "FFA Rank":25,
-    "Diff":-9,
+    "Diff":-8,
     "Player":"Jadarian Price",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -421,9 +441,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":51,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -441,9 +461,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":42,
+    "Industry Rank":43,
     "FFA Rank":47,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Rachaad White",
     "Rookie":"",
     "Pos":"RB",
@@ -461,9 +481,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":45,
+    "Industry Rank":44,
     "FFA Rank":61,
-    "Diff":-16,
+    "Diff":-17,
     "Player":"Dylan Sampson",
     "Rookie":"",
     "Pos":"RB",
@@ -491,9 +511,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":67,
-    "Diff":-19,
+    "Diff":-20,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -591,9 +611,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":26,
+    "Industry Rank":25,
     "FFA Rank":30,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Daniel Jones",
     "Rookie":"",
     "Pos":"QB",
@@ -661,9 +681,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":62,
-    "Diff":-22,
+    "Diff":-23,
     "Player":"Carson Beck",
     "Rookie":"Rookie",
     "Pos":"QB",
