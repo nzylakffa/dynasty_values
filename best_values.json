@@ -91,9 +91,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":44,
+    "Industry Rank":43,
     "FFA Rank":31,
-    "Diff":13,
+    "Diff":12,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -161,9 +161,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":43,
+    "Industry Rank":44,
     "FFA Rank":36,
-    "Diff":7,
+    "Diff":8,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -221,16 +221,6 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":31,
-    "FFA Rank":29,
-    "Diff":2,
-    "Player":"Zach Charbonnet",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"SEA"
-  },
-  {
-    "Value":14.0,
     "Industry Rank":12,
     "FFA Rank":10,
     "Diff":2,
@@ -241,9 +231,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":30,
-    "Diff":9,
+    "Diff":8,
     "Player":"Rhamondre Stevenson",
     "Rookie":"",
     "Pos":"RB",
@@ -381,9 +371,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":26,
-    "Diff":8,
+    "Diff":7,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
@@ -421,13 +411,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":48,
-    "FFA Rank":39,
-    "Diff":9,
-    "Player":"Noah Gray",
+    "Industry Rank":50,
+    "FFA Rank":40,
+    "Diff":10,
+    "Player":"Mike Gesicki",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"KC"
+    "Team":"CIN"
   },
   {
     "Value":4.0,
@@ -441,9 +431,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
+    "Industry Rank":40,
     "FFA Rank":38,
-    "Diff":3,
+    "Diff":2,
     "Player":"Darnell Washington",
     "Rookie":"",
     "Pos":"TE",
@@ -461,13 +451,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":43,
-    "FFA Rank":35,
-    "Diff":8,
-    "Player":"Evan Engram",
+    "Industry Rank":48,
+    "FFA Rank":39,
+    "Diff":9,
+    "Player":"Noah Gray",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"DEN"
+    "Team":"KC"
   },
   {
     "Value":4.0,
@@ -518,5 +508,15 @@
     "Rookie":"Rookie",
     "Pos":"QB",
     "Team":"LSU"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":43,
+    "FFA Rank":35,
+    "Diff":8,
+    "Player":"Evan Engram",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"DEN"
   }
 ]

@@ -141,9 +141,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":16,
+    "Industry Rank":17,
     "FFA Rank":21,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Kyren Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -161,9 +161,9 @@
   },
   {
     "Value":23.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":40,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"D.J. Moore",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":38,
+    "Industry Rank":36,
     "FFA Rank":43,
-    "Diff":-5,
+    "Diff":-7,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -221,9 +221,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":48,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -241,9 +241,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":25,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"Jadarian Price",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -361,6 +361,16 @@
   },
   {
     "Value":10.0,
+    "Industry Rank":32,
+    "FFA Rank":36,
+    "Diff":-4,
+    "Player":"Chuba Hubbard",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"CAR"
+  },
+  {
+    "Value":10.0,
     "Industry Rank":33,
     "FFA Rank":35,
     "Diff":-2,
@@ -368,16 +378,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"PIT"
-  },
-  {
-    "Value":10.0,
-    "Industry Rank":30,
-    "FFA Rank":36,
-    "Diff":-6,
-    "Player":"Chuba Hubbard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CAR"
   },
   {
     "Value":9.0,
@@ -391,23 +391,13 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":32,
+    "Industry Rank":31,
     "FFA Rank":39,
-    "Diff":-7,
+    "Diff":-8,
     "Player":"Jonathon Brooks",
     "Rookie":"",
     "Pos":"RB",
     "Team":"CAR"
-  },
-  {
-    "Value":9.0,
-    "Industry Rank":38,
-    "FFA Rank":40,
-    "Diff":-2,
-    "Player":"Nicholas Singleton",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Penn State"
   },
   {
     "Value":8.0,
@@ -621,9 +611,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":36,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Dalton Schultz",
     "Rookie":"",
     "Pos":"TE",
@@ -648,16 +638,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"CLE"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":45,
-    "FFA Rank":61,
-    "Diff":-16,
-    "Player":"Drew Allar",
-    "Rookie":"Rookie",
-    "Pos":"QB",
-    "Team":"Penn State"
   },
   {
     "Value":3.0,
@@ -691,13 +671,23 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":43,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Jacoby Brissett",
     "Rookie":"",
     "Pos":"QB",
     "Team":"ARI"
+  },
+  {
+    "Value":3.0,
+    "Industry Rank":45,
+    "FFA Rank":61,
+    "Diff":-16,
+    "Player":"Drew Allar",
+    "Rookie":"Rookie",
+    "Pos":"QB",
+    "Team":"Penn State"
   },
   {
     "Value":3.0,
@@ -711,16 +701,6 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":38,
-    "FFA Rank":63,
-    "Diff":-25,
-    "Player":"Deshaun Watson",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":""
-  },
-  {
-    "Value":2.0,
     "Industry Rank":41,
     "FFA Rank":75,
     "Diff":-34,
@@ -728,6 +708,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PIT"
+  },
+  {
+    "Value":2.0,
+    "Industry Rank":38,
+    "FFA Rank":63,
+    "Diff":-25,
+    "Player":"Deshaun Watson",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":""
   },
   {
     "Value":2.0,
@@ -751,16 +741,6 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":46,
-    "FFA Rank":64,
-    "Diff":-18,
-    "Player":"Dawson Knox",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"BUF"
-  },
-  {
-    "Value":2.0,
     "Industry Rank":47,
     "FFA Rank":82,
     "Diff":-35,
@@ -771,12 +751,12 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":49,
-    "FFA Rank":68,
-    "Diff":-19,
-    "Player":"Daniel Bellinger",
+    "Industry Rank":46,
+    "FFA Rank":64,
+    "Diff":-18,
+    "Player":"Dawson Knox",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"TEN"
+    "Team":"BUF"
   }
 ]
