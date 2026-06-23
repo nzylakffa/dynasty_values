@@ -161,9 +161,9 @@
   },
   {
     "Value":23.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":40,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"D.J. Moore",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +211,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":37,
+    "Industry Rank":36,
     "FFA Rank":48,
-    "Diff":-11,
+    "Diff":-12,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -301,9 +301,9 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":29,
+    "Industry Rank":28,
     "FFA Rank":32,
-    "Diff":-3,
+    "Diff":-4,
     "Player":"Blake Corum",
     "Rookie":"",
     "Pos":"RB",
@@ -351,6 +351,16 @@
   },
   {
     "Value":10.0,
+    "Industry Rank":32,
+    "FFA Rank":36,
+    "Diff":-4,
+    "Player":"Chuba Hubbard",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"CAR"
+  },
+  {
+    "Value":10.0,
     "Industry Rank":33,
     "FFA Rank":35,
     "Diff":-2,
@@ -358,16 +368,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"PIT"
-  },
-  {
-    "Value":10.0,
-    "Industry Rank":31,
-    "FFA Rank":36,
-    "Diff":-5,
-    "Player":"Chuba Hubbard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CAR"
   },
   {
     "Value":9.0,
@@ -381,9 +381,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":32,
+    "Industry Rank":31,
     "FFA Rank":39,
-    "Diff":-7,
+    "Diff":-8,
     "Player":"Jonathon Brooks",
     "Rookie":"",
     "Pos":"RB",
@@ -411,16 +411,6 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":46,
-    "FFA Rank":52,
-    "Diff":-6,
-    "Player":"Tyrone Tracy",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NYG"
-  },
-  {
-    "Value":7.0,
     "Industry Rank":47,
     "FFA Rank":51,
     "Diff":-4,
@@ -431,13 +421,13 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":42,
-    "FFA Rank":47,
-    "Diff":-5,
-    "Player":"Rachaad White",
+    "Industry Rank":48,
+    "FFA Rank":52,
+    "Diff":-4,
+    "Player":"Tyrone Tracy",
     "Rookie":"",
     "Pos":"RB",
-    "Team":"WAS"
+    "Team":"NYG"
   },
   {
     "Value":7.0,
@@ -448,6 +438,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TEN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":42,
+    "FFA Rank":47,
+    "Diff":-5,
+    "Player":"Rachaad White",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"WAS"
   },
   {
     "Value":6.0,
@@ -471,16 +471,6 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":39,
-    "FFA Rank":56,
-    "Diff":-17,
-    "Player":"Kenneth Gainwell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TB"
-  },
-  {
-    "Value":6.0,
     "Industry Rank":37,
     "FFA Rank":62,
     "Diff":-25,
@@ -490,10 +480,30 @@
     "Team":"WAS"
   },
   {
+    "Value":6.0,
+    "Industry Rank":40,
+    "FFA Rank":56,
+    "Diff":-16,
+    "Player":"Kenneth Gainwell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TB"
+  },
+  {
     "Value":5.0,
-    "Industry Rank":48,
+    "Industry Rank":25,
+    "FFA Rank":31,
+    "Diff":-6,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":46,
     "FFA Rank":67,
-    "Diff":-19,
+    "Diff":-21,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -528,16 +538,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIN"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":26,
-    "FFA Rank":31,
-    "Diff":-5,
-    "Player":"Elijah Arroyo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -601,9 +601,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":36,
-    "Diff":-2,
+    "Diff":-3,
     "Player":"Dalton Schultz",
     "Rookie":"",
     "Pos":"TE",
