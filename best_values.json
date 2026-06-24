@@ -151,9 +151,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":46,
+    "Industry Rank":45,
     "FFA Rank":37,
-    "Diff":9,
+    "Diff":8,
     "Player":"Jayden Higgins",
     "Rookie":"",
     "Pos":"WR",
@@ -272,12 +272,12 @@
   {
     "Value":8.0,
     "Industry Rank":50,
-    "FFA Rank":44,
-    "Diff":6,
-    "Player":"Kaytron Allen",
-    "Rookie":"Rookie",
+    "FFA Rank":41,
+    "Diff":9,
+    "Player":"Tyjae Spears",
+    "Rookie":"",
     "Pos":"RB",
-    "Team":"Penn State"
+    "Team":"TEN"
   },
   {
     "Value":7.0,
@@ -361,9 +361,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":31,
+    "Industry Rank":32,
     "FFA Rank":29,
-    "Diff":2,
+    "Diff":3,
     "Player":"Hunter Henry",
     "Rookie":"",
     "Pos":"TE",
@@ -381,9 +381,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":26,
-    "Diff":8,
+    "Diff":7,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
@@ -441,23 +441,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":40,
+    "Industry Rank":41,
     "FFA Rank":38,
-    "Diff":2,
+    "Diff":3,
     "Player":"Darnell Washington",
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":35,
-    "FFA Rank":33,
-    "Diff":2,
-    "Player":"Michael Mayer",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"LVR"
   },
   {
     "Value":4.0,

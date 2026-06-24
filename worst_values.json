@@ -71,9 +71,9 @@
   },
   {
     "Value":38.0,
-    "Industry Rank":10,
+    "Industry Rank":11,
     "FFA Rank":13,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Kenneth Walker III",
     "Rookie":"",
     "Pos":"RB",
@@ -161,9 +161,9 @@
   },
   {
     "Value":23.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":40,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"D.J. Moore",
     "Rookie":"",
     "Pos":"WR",
@@ -181,9 +181,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":43,
-    "Diff":-5,
+    "Diff":-6,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -191,9 +191,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":44,
-    "Diff":-9,
+    "Diff":-8,
     "Player":"Parker Washington",
     "Rookie":"",
     "Pos":"WR",
@@ -211,23 +211,13 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":48,
-    "Diff":-12,
+    "Diff":-13,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
     "Team":"IND"
-  },
-  {
-    "Value":18.0,
-    "Industry Rank":45,
-    "FFA Rank":47,
-    "Diff":-2,
-    "Player":"Jayden Reed",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"GB"
   },
   {
     "Value":17.0,
@@ -601,16 +591,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":33,
-    "FFA Rank":36,
-    "Diff":-3,
-    "Player":"Dalton Schultz",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"HOU"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":37,
     "FFA Rank":42,
     "Diff":-5,
@@ -711,9 +691,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":32,
+    "Industry Rank":31,
     "FFA Rank":80,
-    "Diff":-48,
+    "Diff":-49,
     "Player":"Jake Tonges",
     "Rookie":"",
     "Pos":"TE",
