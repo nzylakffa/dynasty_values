@@ -51,9 +51,9 @@
   },
   {
     "Value":41.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":25,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -61,9 +61,9 @@
   },
   {
     "Value":40.0,
-    "Industry Rank":22,
+    "Industry Rank":23,
     "FFA Rank":26,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"A.J. Brown",
     "Rookie":"",
     "Pos":"WR",
@@ -71,9 +71,9 @@
   },
   {
     "Value":38.0,
-    "Industry Rank":11,
+    "Industry Rank":10,
     "FFA Rank":13,
-    "Diff":-2,
+    "Diff":-3,
     "Player":"Kenneth Walker III",
     "Rookie":"",
     "Pos":"RB",
@@ -81,9 +81,9 @@
   },
   {
     "Value":35.0,
-    "Industry Rank":23,
+    "Industry Rank":22,
     "FFA Rank":29,
-    "Diff":-6,
+    "Diff":-7,
     "Player":"Marvin Harrison Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -161,9 +161,9 @@
   },
   {
     "Value":23.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":40,
-    "Diff":-2,
+    "Diff":-3,
     "Player":"D.J. Moore",
     "Rookie":"",
     "Pos":"WR",
@@ -181,9 +181,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":43,
-    "Diff":-6,
+    "Diff":-5,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -221,6 +221,16 @@
   },
   {
     "Value":17.0,
+    "Industry Rank":41,
+    "FFA Rank":50,
+    "Diff":-9,
+    "Player":"Wan'Dale Robinson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"TEN"
+  },
+  {
+    "Value":17.0,
     "Industry Rank":17,
     "FFA Rank":25,
     "Diff":-8,
@@ -240,14 +250,14 @@
     "Team":"CIN"
   },
   {
-    "Value":17.0,
-    "Industry Rank":41,
-    "FFA Rank":50,
-    "Diff":-9,
-    "Player":"Wan'Dale Robinson",
+    "Value":16.0,
+    "Industry Rank":50,
+    "FFA Rank":52,
+    "Diff":-2,
+    "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"TEN"
+    "Team":"KC"
   },
   {
     "Value":15.0,
@@ -402,22 +412,22 @@
   {
     "Value":7.0,
     "Industry Rank":47,
-    "FFA Rank":51,
-    "Diff":-4,
-    "Player":"Jordan Mason",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"MIN"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":48,
     "FFA Rank":52,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Tyrone Tracy",
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYG"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":48,
+    "FFA Rank":51,
+    "Diff":-3,
+    "Player":"Jordan Mason",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"MIN"
   },
   {
     "Value":7.0,
@@ -588,6 +598,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"IND"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":34,
+    "FFA Rank":36,
+    "Diff":-2,
+    "Player":"Dalton Schultz",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"HOU"
   },
   {
     "Value":4.0,
