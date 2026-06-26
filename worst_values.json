@@ -51,9 +51,9 @@
   },
   {
     "Value":41.0,
-    "Industry Rank":16,
+    "Industry Rank":17,
     "FFA Rank":25,
-    "Diff":-9,
+    "Diff":-8,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -71,9 +71,9 @@
   },
   {
     "Value":38.0,
-    "Industry Rank":10,
+    "Industry Rank":11,
     "FFA Rank":13,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Kenneth Walker III",
     "Rookie":"",
     "Pos":"RB",
@@ -221,16 +221,6 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":41,
-    "FFA Rank":50,
-    "Diff":-9,
-    "Player":"Wan'Dale Robinson",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"TEN"
-  },
-  {
-    "Value":17.0,
     "Industry Rank":17,
     "FFA Rank":25,
     "Diff":-8,
@@ -250,14 +240,14 @@
     "Team":"CIN"
   },
   {
-    "Value":16.0,
-    "Industry Rank":50,
-    "FFA Rank":52,
-    "Diff":-2,
-    "Player":"Xavier Worthy",
+    "Value":17.0,
+    "Industry Rank":41,
+    "FFA Rank":50,
+    "Diff":-9,
+    "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"KC"
+    "Team":"TEN"
   },
   {
     "Value":15.0,
@@ -302,22 +292,22 @@
   {
     "Value":11.0,
     "Industry Rank":28,
-    "FFA Rank":32,
-    "Diff":-4,
-    "Player":"Blake Corum",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"LAR"
-  },
-  {
-    "Value":11.0,
-    "Industry Rank":27,
     "FFA Rank":31,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"David Montgomery",
     "Rookie":"",
     "Pos":"RB",
     "Team":"HOU"
+  },
+  {
+    "Value":11.0,
+    "Industry Rank":29,
+    "FFA Rank":32,
+    "Diff":-3,
+    "Player":"Blake Corum",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"LAR"
   },
   {
     "Value":11.0,
@@ -401,9 +391,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":49,
-    "Diff":-13,
+    "Diff":-12,
     "Player":"J.K. Dobbins",
     "Rookie":"",
     "Pos":"RB",
@@ -471,9 +461,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":37,
+    "Industry Rank":36,
     "FFA Rank":62,
-    "Diff":-25,
+    "Diff":-26,
     "Player":"Jacory Croskey-Merritt",
     "Rookie":"",
     "Pos":"RB",
@@ -601,16 +591,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":34,
-    "FFA Rank":36,
-    "Diff":-2,
-    "Player":"Dalton Schultz",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"HOU"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":37,
     "FFA Rank":42,
     "Diff":-5,
@@ -691,9 +671,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":41,
+    "Industry Rank":42,
     "FFA Rank":75,
-    "Diff":-34,
+    "Diff":-33,
     "Player":"Will Howard",
     "Rookie":"",
     "Pos":"QB",

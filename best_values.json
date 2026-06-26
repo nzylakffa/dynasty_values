@@ -21,9 +21,9 @@
   },
   {
     "Value":58.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":13,
-    "Diff":4,
+    "Diff":3,
     "Player":"Chris Olave",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":29,
+    "Industry Rank":27,
     "FFA Rank":20,
-    "Diff":9,
+    "Diff":7,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -198,6 +198,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":50,
+    "FFA Rank":46,
+    "Diff":4,
+    "Player":"Travis Hunter",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"JAX"
   },
   {
     "Value":16.0,
@@ -262,12 +272,12 @@
   {
     "Value":8.0,
     "Industry Rank":50,
-    "FFA Rank":41,
-    "Diff":9,
-    "Player":"Tyjae Spears",
-    "Rookie":"",
+    "FFA Rank":44,
+    "Diff":6,
+    "Player":"Kaytron Allen",
+    "Rookie":"Rookie",
     "Pos":"RB",
-    "Team":"TEN"
+    "Team":"Penn State"
   },
   {
     "Value":7.0,
@@ -302,22 +312,22 @@
   {
     "Value":6.0,
     "Industry Rank":28,
-    "FFA Rank":18,
-    "Diff":10,
-    "Player":"Juwan Johnson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NO"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":29,
     "FFA Rank":22,
-    "Diff":7,
+    "Diff":6,
     "Player":"Max Klare",
     "Rookie":"Rookie",
     "Pos":"TE",
     "Team":"Ohio State"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":30,
+    "FFA Rank":18,
+    "Diff":12,
+    "Player":"Juwan Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NO"
   },
   {
     "Value":6.0,
@@ -361,16 +371,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":30,
-    "FFA Rank":28,
-    "Diff":2,
-    "Player":"Cade Otton",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"TB"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":31,
     "FFA Rank":24,
     "Diff":7,
@@ -381,23 +381,23 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":36,
-    "FFA Rank":30,
-    "Diff":6,
-    "Player":"Theo Johnson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NYG"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":35,
+    "Industry Rank":33,
     "FFA Rank":26,
-    "Diff":9,
+    "Diff":7,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":35,
+    "FFA Rank":30,
+    "Diff":5,
+    "Player":"Theo Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NYG"
   },
   {
     "Value":4.0,
@@ -412,12 +412,12 @@
   {
     "Value":4.0,
     "Industry Rank":42,
-    "FFA Rank":34,
-    "Diff":8,
-    "Player":"Luke Musgrave",
+    "FFA Rank":35,
+    "Diff":7,
+    "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"GB"
+    "Team":"DEN"
   },
   {
     "Value":4.0,
@@ -441,9 +441,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":41,
+    "Industry Rank":40,
     "FFA Rank":38,
-    "Diff":3,
+    "Diff":2,
     "Player":"Darnell Washington",
     "Rookie":"",
     "Pos":"TE",
@@ -491,9 +491,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":42,
+    "Industry Rank":41,
     "FFA Rank":32,
-    "Diff":10,
+    "Diff":9,
     "Player":"Aaron Rodgers",
     "Rookie":"",
     "Pos":"QB",
@@ -512,11 +512,11 @@
   {
     "Value":4.0,
     "Industry Rank":43,
-    "FFA Rank":35,
-    "Diff":8,
-    "Player":"Evan Engram",
+    "FFA Rank":34,
+    "Diff":9,
+    "Player":"Luke Musgrave",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"DEN"
+    "Team":"GB"
   }
 ]
