@@ -31,9 +31,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":18,
+    "Industry Rank":19,
     "FFA Rank":22,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -191,9 +191,9 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":44,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"Parker Washington",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +211,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":35,
+    "Industry Rank":36,
     "FFA Rank":48,
-    "Diff":-13,
+    "Diff":-12,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -241,9 +241,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":41,
+    "Industry Rank":42,
     "FFA Rank":50,
-    "Diff":-9,
+    "Diff":-8,
     "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
@@ -271,9 +271,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":57,
-    "Diff":-9,
+    "Diff":-10,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -281,9 +281,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":42,
+    "Industry Rank":41,
     "FFA Rank":59,
-    "Diff":-17,
+    "Diff":-18,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -291,23 +291,23 @@
   },
   {
     "Value":11.0,
-    "Industry Rank":28,
-    "FFA Rank":31,
-    "Diff":-3,
-    "Player":"David Montgomery",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"HOU"
-  },
-  {
-    "Value":11.0,
-    "Industry Rank":29,
+    "Industry Rank":30,
     "FFA Rank":32,
-    "Diff":-3,
+    "Diff":-2,
     "Player":"Blake Corum",
     "Rookie":"",
     "Pos":"RB",
     "Team":"LAR"
+  },
+  {
+    "Value":11.0,
+    "Industry Rank":27,
+    "FFA Rank":31,
+    "Diff":-4,
+    "Player":"David Montgomery",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"HOU"
   },
   {
     "Value":11.0,
@@ -391,13 +391,33 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":37,
+    "Industry Rank":36,
     "FFA Rank":49,
-    "Diff":-12,
+    "Diff":-13,
     "Player":"J.K. Dobbins",
     "Rookie":"",
     "Pos":"RB",
     "Team":"DEN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":47,
+    "FFA Rank":51,
+    "Diff":-4,
+    "Player":"Jordan Mason",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"MIN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":48,
+    "FFA Rank":52,
+    "Diff":-4,
+    "Player":"Tyrone Tracy",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"NYG"
   },
   {
     "Value":7.0,
@@ -408,26 +428,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TEN"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":47,
-    "FFA Rank":52,
-    "Diff":-5,
-    "Player":"Tyrone Tracy",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NYG"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":48,
-    "FFA Rank":51,
-    "Diff":-3,
-    "Player":"Jordan Mason",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"MIN"
   },
   {
     "Value":7.0,
@@ -451,9 +451,19 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":36,
+    "Industry Rank":45,
+    "FFA Rank":61,
+    "Diff":-16,
+    "Player":"Dylan Sampson",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"CLE"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":37,
     "FFA Rank":62,
-    "Diff":-26,
+    "Diff":-25,
     "Player":"Jacory Croskey-Merritt",
     "Rookie":"",
     "Pos":"RB",
@@ -468,16 +478,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"TB"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":43,
-    "FFA Rank":61,
-    "Diff":-18,
-    "Player":"Dylan Sampson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CLE"
   },
   {
     "Value":5.0,
@@ -611,13 +611,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":49,
-    "FFA Rank":57,
-    "Diff":-8,
-    "Player":"Spencer Rattler",
-    "Rookie":"",
+    "Industry Rank":44,
+    "FFA Rank":61,
+    "Diff":-17,
+    "Player":"Drew Allar",
+    "Rookie":"Rookie",
     "Pos":"QB",
-    "Team":"NO"
+    "Team":"Penn State"
   },
   {
     "Value":3.0,
@@ -631,6 +631,16 @@
   },
   {
     "Value":3.0,
+    "Industry Rank":50,
+    "FFA Rank":57,
+    "Diff":-7,
+    "Player":"Spencer Rattler",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"NO"
+  },
+  {
+    "Value":3.0,
     "Industry Rank":38,
     "FFA Rank":62,
     "Diff":-24,
@@ -641,23 +651,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":43,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Jacoby Brissett",
     "Rookie":"",
     "Pos":"QB",
     "Team":"ARI"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":45,
-    "FFA Rank":61,
-    "Diff":-16,
-    "Player":"Drew Allar",
-    "Rookie":"Rookie",
-    "Pos":"QB",
-    "Team":"Penn State"
   },
   {
     "Value":3.0,
