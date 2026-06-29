@@ -171,22 +171,22 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":5,
-    "FFA Rank":7,
-    "Diff":-2,
-    "Player":"Tucker Kraft",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"GB"
-  },
-  {
-    "Value":21.0,
     "Industry Rank":38,
     "FFA Rank":43,
     "Diff":-5,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
+    "Team":"GB"
+  },
+  {
+    "Value":21.0,
+    "Industry Rank":5,
+    "FFA Rank":7,
+    "Diff":-2,
+    "Player":"Tucker Kraft",
+    "Rookie":"",
+    "Pos":"TE",
     "Team":"GB"
   },
   {
@@ -198,6 +198,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"JAX"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":7,
+    "FFA Rank":9,
+    "Diff":-2,
+    "Player":"Kyle Pitts",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"ATL"
   },
   {
     "Value":19.0,
@@ -241,9 +251,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":42,
+    "Industry Rank":41,
     "FFA Rank":50,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
@@ -271,9 +281,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":57,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -281,13 +291,23 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":41,
+    "Industry Rank":42,
     "FFA Rank":59,
-    "Diff":-18,
+    "Diff":-17,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
     "Team":"WAS"
+  },
+  {
+    "Value":11.0,
+    "Industry Rank":28,
+    "FFA Rank":31,
+    "Diff":-3,
+    "Player":"David Montgomery",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"HOU"
   },
   {
     "Value":11.0,
@@ -298,16 +318,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"LAR"
-  },
-  {
-    "Value":11.0,
-    "Industry Rank":27,
-    "FFA Rank":31,
-    "Diff":-4,
-    "Player":"David Montgomery",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"HOU"
   },
   {
     "Value":11.0,
@@ -391,6 +401,16 @@
   },
   {
     "Value":7.0,
+    "Industry Rank":41,
+    "FFA Rank":46,
+    "Diff":-5,
+    "Player":"Tony Pollard",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TEN"
+  },
+  {
+    "Value":7.0,
     "Industry Rank":36,
     "FFA Rank":49,
     "Diff":-13,
@@ -401,9 +421,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":51,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -418,16 +438,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"NYG"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":41,
-    "FFA Rank":46,
-    "Diff":-5,
-    "Player":"Tony Pollard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TEN"
   },
   {
     "Value":7.0,
@@ -451,16 +461,6 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":45,
-    "FFA Rank":61,
-    "Diff":-16,
-    "Player":"Dylan Sampson",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CLE"
-  },
-  {
-    "Value":6.0,
     "Industry Rank":37,
     "FFA Rank":62,
     "Diff":-25,
@@ -471,29 +471,29 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":56,
-    "Diff":-16,
+    "Diff":-17,
     "Player":"Kenneth Gainwell",
     "Rookie":"",
     "Pos":"RB",
     "Team":"TB"
   },
   {
-    "Value":5.0,
-    "Industry Rank":25,
-    "FFA Rank":31,
-    "Diff":-6,
-    "Player":"Elijah Arroyo",
+    "Value":6.0,
+    "Industry Rank":43,
+    "FFA Rank":61,
+    "Diff":-18,
+    "Player":"Dylan Sampson",
     "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
+    "Pos":"RB",
+    "Team":"CLE"
   },
   {
     "Value":5.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":67,
-    "Diff":-21,
+    "Diff":-20,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -528,6 +528,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIN"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":26,
+    "FFA Rank":31,
+    "Diff":-5,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -701,9 +711,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":38,
+    "Industry Rank":39,
     "FFA Rank":61,
-    "Diff":-23,
+    "Diff":-22,
     "Player":"Cole Kmet",
     "Rookie":"",
     "Pos":"TE",
