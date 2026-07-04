@@ -51,9 +51,9 @@
   },
   {
     "Value":45.0,
-    "Industry Rank":12,
+    "Industry Rank":11,
     "FFA Rank":23,
-    "Diff":-11,
+    "Diff":-12,
     "Player":"Carnell Tate",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -180,20 +180,10 @@
     "Team":"Indiana"
   },
   {
-    "Value":23.0,
-    "Industry Rank":38,
-    "FFA Rank":40,
-    "Diff":-2,
-    "Player":"D.J. Moore",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"BUF"
-  },
-  {
     "Value":21.0,
-    "Industry Rank":39,
+    "Industry Rank":37,
     "FFA Rank":43,
-    "Diff":-4,
+    "Diff":-6,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -521,16 +511,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":25,
-    "FFA Rank":31,
-    "Diff":-6,
-    "Player":"Elijah Arroyo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":47,
     "FFA Rank":67,
     "Diff":-20,
@@ -568,6 +548,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIN"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":26,
+    "FFA Rank":31,
+    "Diff":-5,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -661,13 +651,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":35,
-    "FFA Rank":62,
-    "Diff":-27,
-    "Player":"Carson Beck",
-    "Rookie":"Rookie",
+    "Industry Rank":36,
+    "FFA Rank":41,
+    "Diff":-5,
+    "Player":"Geno Smith",
+    "Rookie":"",
     "Pos":"QB",
-    "Team":"Miami"
+    "Team":"NYJ"
   },
   {
     "Value":3.0,
@@ -681,13 +671,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":37,
-    "FFA Rank":41,
-    "Diff":-4,
-    "Player":"Geno Smith",
-    "Rookie":"",
+    "Industry Rank":35,
+    "FFA Rank":62,
+    "Diff":-27,
+    "Player":"Carson Beck",
+    "Rookie":"Rookie",
     "Pos":"QB",
-    "Team":"NYJ"
+    "Team":"Miami"
   },
   {
     "Value":3.0,
@@ -761,9 +751,9 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":82,
-    "Diff":-36,
+    "Diff":-35,
     "Player":"Oscar Delp",
     "Rookie":"Rookie",
     "Pos":"TE",
