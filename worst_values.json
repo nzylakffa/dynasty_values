@@ -100,16 +100,6 @@
     "Team":"ARI"
   },
   {
-    "Value":34.0,
-    "Industry Rank":28,
-    "FFA Rank":30,
-    "Diff":-2,
-    "Player":"Rashee Rice",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"KC"
-  },
-  {
     "Value":33.0,
     "Industry Rank":31,
     "FFA Rank":33,
@@ -181,9 +171,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":43,
-    "Diff":-6,
+    "Diff":-5,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -251,9 +241,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":17,
+    "Industry Rank":18,
     "FFA Rank":25,
-    "Diff":-8,
+    "Diff":-7,
     "Player":"Jadarian Price",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -441,9 +431,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":51,
-    "Diff":-3,
+    "Diff":-4,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -511,9 +501,19 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":47,
+    "Industry Rank":25,
+    "FFA Rank":31,
+    "Diff":-6,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":48,
     "FFA Rank":67,
-    "Diff":-20,
+    "Diff":-19,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -548,16 +548,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIN"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":26,
-    "FFA Rank":31,
-    "Diff":-5,
-    "Player":"Elijah Arroyo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -652,12 +642,12 @@
   {
     "Value":3.0,
     "Industry Rank":36,
-    "FFA Rank":41,
-    "Diff":-5,
-    "Player":"Geno Smith",
-    "Rookie":"",
+    "FFA Rank":62,
+    "Diff":-26,
+    "Player":"Carson Beck",
+    "Rookie":"Rookie",
     "Pos":"QB",
-    "Team":"NYJ"
+    "Team":"Miami"
   },
   {
     "Value":3.0,
@@ -672,18 +662,18 @@
   {
     "Value":3.0,
     "Industry Rank":35,
-    "FFA Rank":62,
-    "Diff":-27,
-    "Player":"Carson Beck",
-    "Rookie":"Rookie",
+    "FFA Rank":41,
+    "Diff":-6,
+    "Player":"Geno Smith",
+    "Rookie":"",
     "Pos":"QB",
-    "Team":"Miami"
+    "Team":"NYJ"
   },
   {
     "Value":3.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":43,
-    "Diff":-9,
+    "Diff":-10,
     "Player":"Jacoby Brissett",
     "Rookie":"",
     "Pos":"QB",
@@ -741,6 +731,16 @@
   },
   {
     "Value":2.0,
+    "Industry Rank":45,
+    "FFA Rank":82,
+    "Diff":-37,
+    "Player":"Oscar Delp",
+    "Rookie":"Rookie",
+    "Pos":"TE",
+    "Team":""
+  },
+  {
+    "Value":2.0,
     "Industry Rank":48,
     "FFA Rank":64,
     "Diff":-16,
@@ -748,15 +748,5 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"BUF"
-  },
-  {
-    "Value":2.0,
-    "Industry Rank":47,
-    "FFA Rank":82,
-    "Diff":-35,
-    "Player":"Oscar Delp",
-    "Rookie":"Rookie",
-    "Pos":"TE",
-    "Team":""
   }
 ]

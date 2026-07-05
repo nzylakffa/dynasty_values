@@ -51,9 +51,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":29,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":12,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -101,9 +101,9 @@
   },
   {
     "Value":32.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":34,
-    "Diff":4,
+    "Diff":3,
     "Player":"Michael Wilson",
     "Rookie":"",
     "Pos":"WR",
@@ -121,9 +121,9 @@
   },
   {
     "Value":31.0,
-    "Industry Rank":18,
+    "Industry Rank":17,
     "FFA Rank":15,
-    "Diff":3,
+    "Diff":2,
     "Player":"Cam Skattebo",
     "Rookie":"",
     "Pos":"RB",
@@ -292,12 +292,12 @@
   {
     "Value":6.0,
     "Industry Rank":27,
-    "FFA Rank":22,
-    "Diff":5,
-    "Player":"Max Klare",
-    "Rookie":"Rookie",
+    "FFA Rank":20,
+    "Diff":7,
+    "Player":"Mason Taylor",
+    "Rookie":"",
     "Pos":"TE",
-    "Team":"Ohio State"
+    "Team":"NYJ"
   },
   {
     "Value":6.0,
@@ -312,18 +312,18 @@
   {
     "Value":6.0,
     "Industry Rank":28,
-    "FFA Rank":20,
-    "Diff":8,
-    "Player":"Mason Taylor",
-    "Rookie":"",
+    "FFA Rank":22,
+    "Diff":6,
+    "Player":"Max Klare",
+    "Rookie":"Rookie",
     "Pos":"TE",
-    "Team":"NYJ"
+    "Team":"Ohio State"
   },
   {
     "Value":6.0,
-    "Industry Rank":29,
+    "Industry Rank":30,
     "FFA Rank":18,
-    "Diff":11,
+    "Diff":12,
     "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -351,6 +351,16 @@
   },
   {
     "Value":5.0,
+    "Industry Rank":26,
+    "FFA Rank":24,
+    "Diff":2,
+    "Player":"David Njoku",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"FA"
+  },
+  {
+    "Value":5.0,
     "Industry Rank":31,
     "FFA Rank":29,
     "Diff":2,
@@ -358,16 +368,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"NE"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":30,
-    "FFA Rank":28,
-    "Diff":2,
-    "Player":"Cade Otton",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"TB"
   },
   {
     "Value":5.0,
@@ -521,9 +521,9 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":45,
+    "Industry Rank":47,
     "FFA Rank":43,
-    "Diff":2,
+    "Diff":4,
     "Player":"Ben Sinnott",
     "Rookie":"",
     "Pos":"TE",
