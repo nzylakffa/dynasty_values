@@ -51,9 +51,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":17,
-    "Diff":11,
+    "Diff":12,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -91,9 +91,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":44,
+    "Industry Rank":43,
     "FFA Rank":31,
-    "Diff":13,
+    "Diff":12,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -101,9 +101,9 @@
   },
   {
     "Value":32.0,
-    "Industry Rank":37,
+    "Industry Rank":38,
     "FFA Rank":34,
-    "Diff":3,
+    "Diff":4,
     "Player":"Michael Wilson",
     "Rookie":"",
     "Pos":"WR",
@@ -161,9 +161,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":43,
+    "Industry Rank":44,
     "FFA Rank":36,
-    "Diff":7,
+    "Diff":8,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":28,
+    "Industry Rank":27,
     "FFA Rank":20,
-    "Diff":8,
+    "Diff":7,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -208,16 +208,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
-  },
-  {
-    "Value":19.0,
-    "Industry Rank":50,
-    "FFA Rank":46,
-    "Diff":4,
-    "Player":"Travis Hunter",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"JAX"
   },
   {
     "Value":16.0,
@@ -282,12 +272,12 @@
   {
     "Value":8.0,
     "Industry Rank":50,
-    "FFA Rank":41,
-    "Diff":9,
-    "Player":"Tyjae Spears",
-    "Rookie":"",
+    "FFA Rank":43,
+    "Diff":7,
+    "Player":"Emmett Johnson",
+    "Rookie":"Rookie",
     "Pos":"RB",
-    "Team":"TEN"
+    "Team":"Nebraska"
   },
   {
     "Value":7.0,
@@ -391,19 +381,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":27,
-    "FFA Rank":25,
-    "Diff":2,
-    "Player":"Malik Willis",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"FA"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":26,
-    "Diff":7,
+    "Diff":8,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",

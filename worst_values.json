@@ -100,6 +100,16 @@
     "Team":"ARI"
   },
   {
+    "Value":34.0,
+    "Industry Rank":28,
+    "FFA Rank":30,
+    "Diff":-2,
+    "Player":"Rashee Rice",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"KC"
+  },
+  {
     "Value":33.0,
     "Industry Rank":31,
     "FFA Rank":33,
@@ -141,9 +151,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":38,
-    "Diff":-6,
+    "Diff":-5,
     "Player":"Jordan Addison",
     "Rookie":"",
     "Pos":"WR",
@@ -161,9 +171,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":34,
+    "Industry Rank":35,
     "FFA Rank":39,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -181,9 +191,9 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":38,
+    "Industry Rank":37,
     "FFA Rank":43,
-    "Diff":-5,
+    "Diff":-6,
     "Player":"Matthew Golden",
     "Rookie":"",
     "Pos":"WR",
@@ -191,23 +201,13 @@
   },
   {
     "Value":20.0,
-    "Industry Rank":35,
+    "Industry Rank":34,
     "FFA Rank":44,
-    "Diff":-9,
+    "Diff":-10,
     "Player":"Parker Washington",
     "Rookie":"",
     "Pos":"WR",
     "Team":"JAX"
-  },
-  {
-    "Value":19.0,
-    "Industry Rank":7,
-    "FFA Rank":9,
-    "Diff":-2,
-    "Player":"Kyle Pitts",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"ATL"
   },
   {
     "Value":19.0,
@@ -220,6 +220,16 @@
     "Team":"LAC"
   },
   {
+    "Value":19.0,
+    "Industry Rank":7,
+    "FFA Rank":9,
+    "Diff":-2,
+    "Player":"Kyle Pitts",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"ATL"
+  },
+  {
     "Value":18.0,
     "Industry Rank":36,
     "FFA Rank":48,
@@ -228,6 +238,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"IND"
+  },
+  {
+    "Value":17.0,
+    "Industry Rank":42,
+    "FFA Rank":50,
+    "Diff":-8,
+    "Player":"Wan'Dale Robinson",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"TEN"
   },
   {
     "Value":17.0,
@@ -250,14 +270,14 @@
     "Team":"CIN"
   },
   {
-    "Value":17.0,
-    "Industry Rank":42,
-    "FFA Rank":50,
-    "Diff":-8,
-    "Player":"Wan'Dale Robinson",
+    "Value":16.0,
+    "Industry Rank":50,
+    "FFA Rank":52,
+    "Diff":-2,
+    "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
-    "Team":"TEN"
+    "Team":"KC"
   },
   {
     "Value":15.0,
@@ -301,6 +321,16 @@
   },
   {
     "Value":11.0,
+    "Industry Rank":28,
+    "FFA Rank":31,
+    "Diff":-3,
+    "Player":"David Montgomery",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"HOU"
+  },
+  {
+    "Value":11.0,
     "Industry Rank":29,
     "FFA Rank":32,
     "Diff":-3,
@@ -308,16 +338,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"LAR"
-  },
-  {
-    "Value":11.0,
-    "Industry Rank":27,
-    "FFA Rank":31,
-    "Diff":-4,
-    "Player":"David Montgomery",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"HOU"
   },
   {
     "Value":11.0,
@@ -411,9 +431,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":52,
-    "Diff":-5,
+    "Diff":-6,
     "Player":"Tyrone Tracy",
     "Rookie":"",
     "Pos":"RB",
@@ -501,9 +521,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":67,
-    "Diff":-21,
+    "Diff":-20,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -551,13 +571,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":25,
-    "FFA Rank":30,
-    "Diff":-5,
-    "Player":"Daniel Jones",
+    "Industry Rank":27,
+    "FFA Rank":31,
+    "Diff":-4,
+    "Player":"Matthew Stafford",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"IND"
+    "Team":"LAR"
   },
   {
     "Value":4.0,
@@ -591,13 +611,13 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":26,
-    "FFA Rank":31,
+    "Industry Rank":25,
+    "FFA Rank":30,
     "Diff":-5,
-    "Player":"Matthew Stafford",
+    "Player":"Daniel Jones",
     "Rookie":"",
     "Pos":"QB",
-    "Team":"LAR"
+    "Team":"IND"
   },
   {
     "Value":4.0,
