@@ -51,9 +51,9 @@
   },
   {
     "Value":45.0,
-    "Industry Rank":11,
+    "Industry Rank":12,
     "FFA Rank":23,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Carnell Tate",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -181,22 +181,22 @@
   },
   {
     "Value":21.0,
-    "Industry Rank":37,
-    "FFA Rank":43,
-    "Diff":-6,
-    "Player":"Matthew Golden",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"GB"
-  },
-  {
-    "Value":21.0,
     "Industry Rank":5,
     "FFA Rank":7,
     "Diff":-2,
     "Player":"Tucker Kraft",
     "Rookie":"",
     "Pos":"TE",
+    "Team":"GB"
+  },
+  {
+    "Value":21.0,
+    "Industry Rank":36,
+    "FFA Rank":43,
+    "Diff":-7,
+    "Player":"Matthew Golden",
+    "Rookie":"",
+    "Pos":"WR",
     "Team":"GB"
   },
   {
@@ -231,9 +231,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":48,
-    "Diff":-12,
+    "Diff":-11,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -251,16 +251,6 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":17,
-    "FFA Rank":25,
-    "Diff":-8,
-    "Player":"Jadarian Price",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Notre Dame"
-  },
-  {
-    "Value":17.0,
     "Industry Rank":6,
     "FFA Rank":9,
     "Diff":-3,
@@ -268,6 +258,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"CIN"
+  },
+  {
+    "Value":17.0,
+    "Industry Rank":18,
+    "FFA Rank":25,
+    "Diff":-7,
+    "Player":"Jadarian Price",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Notre Dame"
   },
   {
     "Value":16.0,
@@ -281,16 +281,6 @@
   },
   {
     "Value":15.0,
-    "Industry Rank":49,
-    "FFA Rank":55,
-    "Diff":-6,
-    "Player":"Chris Rodriguez",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"Louisville"
-  },
-  {
-    "Value":15.0,
     "Industry Rank":26,
     "FFA Rank":28,
     "Diff":-2,
@@ -300,10 +290,20 @@
     "Team":"CHI"
   },
   {
+    "Value":15.0,
+    "Industry Rank":49,
+    "FFA Rank":55,
+    "Diff":-6,
+    "Player":"Chris Rodriguez",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"Louisville"
+  },
+  {
     "Value":14.0,
-    "Industry Rank":48,
+    "Industry Rank":50,
     "FFA Rank":57,
-    "Diff":-9,
+    "Diff":-7,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -318,6 +318,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"WAS"
+  },
+  {
+    "Value":13.0,
+    "Industry Rank":48,
+    "FFA Rank":61,
+    "Diff":-13,
+    "Player":"Mike Evans",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"SF"
   },
   {
     "Value":11.0,
@@ -401,9 +411,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":31,
+    "Industry Rank":29,
     "FFA Rank":39,
-    "Diff":-8,
+    "Diff":-10,
     "Player":"Jonathon Brooks",
     "Rookie":"",
     "Pos":"RB",
@@ -431,9 +441,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":51,
-    "Diff":-4,
+    "Diff":-5,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -511,19 +521,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":25,
-    "FFA Rank":31,
-    "Diff":-6,
-    "Player":"Elijah Arroyo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":67,
-    "Diff":-21,
+    "Diff":-20,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -558,6 +558,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"MIN"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":25,
+    "FFA Rank":31,
+    "Diff":-6,
+    "Player":"Elijah Arroyo",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -721,16 +731,6 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":32,
-    "FFA Rank":80,
-    "Diff":-48,
-    "Player":"Jake Tonges",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"KC"
-  },
-  {
-    "Value":2.0,
     "Industry Rank":39,
     "FFA Rank":61,
     "Diff":-22,
@@ -741,9 +741,19 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":43,
+    "Industry Rank":34,
+    "FFA Rank":80,
+    "Diff":-46,
+    "Player":"Jake Tonges",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"KC"
+  },
+  {
+    "Value":2.0,
+    "Industry Rank":42,
     "FFA Rank":82,
-    "Diff":-39,
+    "Diff":-40,
     "Player":"Oscar Delp",
     "Rookie":"Rookie",
     "Pos":"TE",
