@@ -51,9 +51,9 @@
   },
   {
     "Value":45.0,
-    "Industry Rank":12,
+    "Industry Rank":11,
     "FFA Rank":23,
-    "Diff":-11,
+    "Diff":-12,
     "Player":"Carnell Tate",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -91,9 +91,9 @@
   },
   {
     "Value":35.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":29,
-    "Diff":-6,
+    "Diff":-5,
     "Player":"Marvin Harrison Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -151,9 +151,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":33,
+    "Industry Rank":32,
     "FFA Rank":38,
-    "Diff":-5,
+    "Diff":-6,
     "Player":"Jordan Addison",
     "Rookie":"",
     "Pos":"WR",
@@ -271,9 +271,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":52,
-    "Diff":-3,
+    "Diff":-4,
     "Player":"Xavier Worthy",
     "Rookie":"",
     "Pos":"WR",
@@ -301,9 +301,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":50,
+    "Industry Rank":47,
     "FFA Rank":57,
-    "Diff":-7,
+    "Diff":-10,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -321,9 +321,9 @@
   },
   {
     "Value":13.0,
-    "Industry Rank":48,
+    "Industry Rank":49,
     "FFA Rank":61,
-    "Diff":-13,
+    "Diff":-12,
     "Player":"Mike Evans",
     "Rookie":"",
     "Pos":"WR",
@@ -441,9 +441,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":51,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Jordan Mason",
     "Rookie":"",
     "Pos":"RB",
@@ -502,28 +502,28 @@
   {
     "Value":6.0,
     "Industry Rank":39,
-    "FFA Rank":56,
-    "Diff":-17,
-    "Player":"Kenneth Gainwell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"TB"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":38,
     "FFA Rank":62,
-    "Diff":-24,
+    "Diff":-23,
     "Player":"Jacory Croskey-Merritt",
     "Rookie":"",
     "Pos":"RB",
     "Team":"WAS"
   },
   {
+    "Value":6.0,
+    "Industry Rank":37,
+    "FFA Rank":56,
+    "Diff":-19,
+    "Player":"Kenneth Gainwell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"TB"
+  },
+  {
     "Value":5.0,
-    "Industry Rank":47,
+    "Industry Rank":46,
     "FFA Rank":67,
-    "Diff":-20,
+    "Diff":-21,
     "Player":"Braelon Allen",
     "Rookie":"",
     "Pos":"RB",
@@ -571,9 +571,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":21,
+    "Industry Rank":19,
     "FFA Rank":23,
-    "Diff":-2,
+    "Diff":-4,
     "Player":"Baker Mayfield",
     "Rookie":"",
     "Pos":"QB",
@@ -651,33 +651,13 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":43,
+    "Industry Rank":42,
     "FFA Rank":61,
-    "Diff":-18,
+    "Diff":-19,
     "Player":"Drew Allar",
     "Rookie":"Rookie",
     "Pos":"QB",
     "Team":"Penn State"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":36,
-    "FFA Rank":41,
-    "Diff":-5,
-    "Player":"Geno Smith",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"NYJ"
-  },
-  {
-    "Value":3.0,
-    "Industry Rank":50,
-    "FFA Rank":57,
-    "Diff":-7,
-    "Player":"Spencer Rattler",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"NO"
   },
   {
     "Value":3.0,
@@ -691,6 +671,16 @@
   },
   {
     "Value":3.0,
+    "Industry Rank":37,
+    "FFA Rank":41,
+    "Diff":-4,
+    "Player":"Geno Smith",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"NYJ"
+  },
+  {
+    "Value":3.0,
     "Industry Rank":33,
     "FFA Rank":43,
     "Diff":-10,
@@ -698,6 +688,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ARI"
+  },
+  {
+    "Value":3.0,
+    "Industry Rank":50,
+    "FFA Rank":57,
+    "Diff":-7,
+    "Player":"Spencer Rattler",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"NO"
   },
   {
     "Value":3.0,
@@ -711,16 +711,6 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":42,
-    "FFA Rank":75,
-    "Diff":-33,
-    "Player":"Will Howard",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"PIT"
-  },
-  {
-    "Value":2.0,
     "Industry Rank":39,
     "FFA Rank":63,
     "Diff":-24,
@@ -731,6 +721,26 @@
   },
   {
     "Value":2.0,
+    "Industry Rank":43,
+    "FFA Rank":75,
+    "Diff":-32,
+    "Player":"Will Howard",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"PIT"
+  },
+  {
+    "Value":2.0,
+    "Industry Rank":32,
+    "FFA Rank":80,
+    "Diff":-48,
+    "Player":"Jake Tonges",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"KC"
+  },
+  {
+    "Value":2.0,
     "Industry Rank":39,
     "FFA Rank":61,
     "Diff":-22,
@@ -738,16 +748,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"CHI"
-  },
-  {
-    "Value":2.0,
-    "Industry Rank":34,
-    "FFA Rank":80,
-    "Diff":-46,
-    "Player":"Jake Tonges",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"KC"
   },
   {
     "Value":2.0,
