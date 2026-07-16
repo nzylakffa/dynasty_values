@@ -1,15 +1,5 @@
 [
   {
-    "Value":65.0,
-    "Industry Rank":12,
-    "FFA Rank":10,
-    "Diff":2,
-    "Player":"George Pickens",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"DAL"
-  },
-  {
     "Value":63.0,
     "Industry Rank":14,
     "FFA Rank":11,
@@ -58,16 +48,6 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"DET"
-  },
-  {
-    "Value":46.0,
-    "Industry Rank":24,
-    "FFA Rank":21,
-    "Diff":3,
-    "Player":"Zay Flowers",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"BAL"
   },
   {
     "Value":43.0,
@@ -151,9 +131,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":42,
+    "Industry Rank":41,
     "FFA Rank":35,
-    "Diff":7,
+    "Diff":6,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -162,22 +142,22 @@
   {
     "Value":26.0,
     "Industry Rank":45,
-    "FFA Rank":37,
-    "Diff":8,
-    "Player":"Jayden Higgins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"HOU"
-  },
-  {
-    "Value":26.0,
-    "Industry Rank":46,
     "FFA Rank":36,
-    "Diff":10,
+    "Diff":9,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
     "Team":"PIT"
+  },
+  {
+    "Value":26.0,
+    "Industry Rank":46,
+    "FFA Rank":37,
+    "Diff":9,
+    "Player":"Jayden Higgins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"HOU"
   },
   {
     "Value":25.0,
@@ -220,20 +200,10 @@
     "Team":"PHI"
   },
   {
-    "Value":19.0,
-    "Industry Rank":49,
-    "FFA Rank":46,
-    "Diff":3,
-    "Player":"Travis Hunter",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"JAX"
-  },
-  {
     "Value":16.0,
-    "Industry Rank":35,
+    "Industry Rank":34,
     "FFA Rank":26,
-    "Diff":9,
+    "Diff":8,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -311,9 +281,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":21,
+    "Industry Rank":20,
     "FFA Rank":15,
-    "Diff":6,
+    "Diff":5,
     "Player":"Terrance Ferguson",
     "Rookie":"",
     "Pos":"TE",
@@ -331,9 +301,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":18,
+    "Industry Rank":19,
     "FFA Rank":16,
-    "Diff":2,
+    "Diff":3,
     "Player":"Mark Andrews",
     "Rookie":"",
     "Pos":"TE",
@@ -392,18 +362,8 @@
   {
     "Value":5.0,
     "Industry Rank":31,
-    "FFA Rank":29,
-    "Diff":2,
-    "Player":"Hunter Henry",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NE"
-  },
-  {
-    "Value":5.0,
-    "Industry Rank":30,
     "FFA Rank":28,
-    "Diff":2,
+    "Diff":3,
     "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
@@ -431,9 +391,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":30,
-    "Diff":6,
+    "Diff":7,
     "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -462,12 +422,12 @@
   {
     "Value":4.0,
     "Industry Rank":47,
-    "FFA Rank":35,
-    "Diff":12,
-    "Player":"Evan Engram",
+    "FFA Rank":34,
+    "Diff":13,
+    "Player":"Luke Musgrave",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"DEN"
+    "Team":"GB"
   },
   {
     "Value":4.0,
@@ -552,12 +512,12 @@
   {
     "Value":4.0,
     "Industry Rank":46,
-    "FFA Rank":34,
-    "Diff":12,
-    "Player":"Luke Musgrave",
+    "FFA Rank":35,
+    "Diff":11,
+    "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"GB"
+    "Team":"DEN"
   },
   {
     "Value":4.0,
