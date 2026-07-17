@@ -21,9 +21,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":27,
+    "Industry Rank":24,
     "FFA Rank":15,
-    "Diff":12,
+    "Diff":9,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -48,6 +48,16 @@
     "Rookie":"",
     "Pos":"WR",
     "Team":"DET"
+  },
+  {
+    "Value":44.0,
+    "Industry Rank":26,
+    "FFA Rank":24,
+    "Diff":2,
+    "Player":"Tee Higgins",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"CIN"
   },
   {
     "Value":43.0,
@@ -91,9 +101,9 @@
   },
   {
     "Value":32.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":34,
-    "Diff":6,
+    "Diff":5,
     "Player":"Michael Wilson",
     "Rookie":"",
     "Pos":"WR",
@@ -131,9 +141,9 @@
   },
   {
     "Value":29.0,
-    "Industry Rank":41,
+    "Industry Rank":42,
     "FFA Rank":35,
-    "Diff":6,
+    "Diff":7,
     "Player":"Ricky Pearsall",
     "Rookie":"",
     "Pos":"WR",
@@ -198,6 +208,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"PHI"
+  },
+  {
+    "Value":19.0,
+    "Industry Rank":50,
+    "FFA Rank":46,
+    "Diff":4,
+    "Player":"Travis Hunter",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"JAX"
   },
   {
     "Value":16.0,
@@ -270,14 +290,14 @@
     "Team":"ARI"
   },
   {
-    "Value":8.0,
+    "Value":7.0,
     "Industry Rank":50,
-    "FFA Rank":43,
-    "Diff":7,
-    "Player":"Emmett Johnson",
-    "Rookie":"Rookie",
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Keaton Mitchell",
+    "Rookie":"",
     "Pos":"RB",
-    "Team":"Nebraska"
+    "Team":"LAC"
   },
   {
     "Value":7.0,
@@ -341,16 +361,6 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":29,
-    "FFA Rank":24,
-    "Diff":5,
-    "Player":"David Njoku",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"FA"
-  },
-  {
-    "Value":5.0,
     "Industry Rank":44,
     "FFA Rank":32,
     "Diff":12,
@@ -362,8 +372,18 @@
   {
     "Value":5.0,
     "Industry Rank":31,
+    "FFA Rank":24,
+    "Diff":7,
+    "Player":"David Njoku",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"FA"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":30,
     "FFA Rank":28,
-    "Diff":3,
+    "Diff":2,
     "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
@@ -431,13 +451,23 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":45,
-    "FFA Rank":43,
+    "Industry Rank":35,
+    "FFA Rank":33,
     "Diff":2,
-    "Player":"Ben Sinnott",
+    "Player":"Michael Mayer",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"WAS"
+    "Team":"LVR"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":45,
+    "FFA Rank":35,
+    "Diff":10,
+    "Player":"Evan Engram",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"DEN"
   },
   {
     "Value":4.0,
@@ -461,16 +491,6 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":38,
-    "FFA Rank":26,
-    "Diff":12,
-    "Player":"Anthony Richardson",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"IND"
-  },
-  {
-    "Value":4.0,
     "Industry Rank":44,
     "FFA Rank":29,
     "Diff":15,
@@ -478,6 +498,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ATL"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":38,
+    "FFA Rank":26,
+    "Diff":12,
+    "Player":"Anthony Richardson",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"IND"
   },
   {
     "Value":4.0,
@@ -512,12 +542,12 @@
   {
     "Value":4.0,
     "Industry Rank":46,
-    "FFA Rank":35,
-    "Diff":11,
-    "Player":"Evan Engram",
+    "FFA Rank":43,
+    "Diff":3,
+    "Player":"Ben Sinnott",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"DEN"
+    "Team":"WAS"
   },
   {
     "Value":4.0,
