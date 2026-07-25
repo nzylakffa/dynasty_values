@@ -51,9 +51,9 @@
   },
   {
     "Value":41.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":25,
-    "Diff":-8,
+    "Diff":-9,
     "Player":"DeVonta Smith",
     "Rookie":"",
     "Pos":"WR",
@@ -150,6 +150,26 @@
     "Team":"LAR"
   },
   {
+    "Value":24.0,
+    "Industry Rank":36,
+    "FFA Rank":39,
+    "Diff":-3,
+    "Player":"Omar Cooper Jr.",
+    "Rookie":"Rookie",
+    "Pos":"WR",
+    "Team":"Indiana"
+  },
+  {
+    "Value":23.0,
+    "Industry Rank":38,
+    "FFA Rank":40,
+    "Diff":-2,
+    "Player":"D.J. Moore",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"BUF"
+  },
+  {
     "Value":21.0,
     "Industry Rank":5,
     "FFA Rank":7,
@@ -157,6 +177,16 @@
     "Player":"Tucker Kraft",
     "Rookie":"",
     "Pos":"TE",
+    "Team":"GB"
+  },
+  {
+    "Value":21.0,
+    "Industry Rank":41,
+    "FFA Rank":43,
+    "Diff":-2,
+    "Player":"Matthew Golden",
+    "Rookie":"",
+    "Pos":"WR",
     "Team":"GB"
   },
   {
@@ -171,9 +201,9 @@
   },
   {
     "Value":19.0,
-    "Industry Rank":35,
+    "Industry Rank":39,
     "FFA Rank":45,
-    "Diff":-10,
+    "Diff":-6,
     "Player":"Quentin Johnston",
     "Rookie":"",
     "Pos":"WR",
@@ -181,9 +211,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":48,
-    "Diff":-9,
+    "Diff":-8,
     "Player":"Josh Downs",
     "Rookie":"",
     "Pos":"WR",
@@ -211,9 +241,9 @@
   },
   {
     "Value":17.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":50,
-    "Diff":-4,
+    "Diff":-3,
     "Player":"Wan'Dale Robinson",
     "Rookie":"",
     "Pos":"WR",
@@ -241,9 +271,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":57,
-    "Diff":-10,
+    "Diff":-9,
     "Player":"Michael Pittman",
     "Rookie":"",
     "Pos":"WR",
@@ -251,9 +281,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":36,
+    "Industry Rank":35,
     "FFA Rank":59,
-    "Diff":-23,
+    "Diff":-24,
     "Player":"Terry McLaurin",
     "Rookie":"",
     "Pos":"WR",
@@ -371,9 +401,9 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":49,
-    "Diff":-13,
+    "Diff":-12,
     "Player":"J.K. Dobbins",
     "Rookie":"",
     "Pos":"RB",
@@ -381,23 +411,13 @@
   },
   {
     "Value":7.0,
-    "Industry Rank":41,
+    "Industry Rank":42,
     "FFA Rank":46,
-    "Diff":-5,
+    "Diff":-4,
     "Player":"Tony Pollard",
     "Rookie":"",
     "Pos":"RB",
     "Team":"TEN"
-  },
-  {
-    "Value":7.0,
-    "Industry Rank":49,
-    "FFA Rank":52,
-    "Diff":-3,
-    "Player":"Tyrone Tracy",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"NYG"
   },
   {
     "Value":7.0,
@@ -408,6 +428,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"MIN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":47,
+    "FFA Rank":52,
+    "Diff":-5,
+    "Player":"Tyrone Tracy",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"NYG"
   },
   {
     "Value":6.0,
@@ -488,6 +518,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"FA"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":21,
+    "FFA Rank":23,
+    "Diff":-2,
+    "Player":"T.J. Hockenson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"MIN"
   },
   {
     "Value":5.0,
@@ -641,9 +681,9 @@
   },
   {
     "Value":3.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":62,
-    "Diff":-29,
+    "Diff":-28,
     "Player":"Carson Beck",
     "Rookie":"Rookie",
     "Pos":"QB",
@@ -691,13 +731,13 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":37,
-    "FFA Rank":80,
-    "Diff":-43,
-    "Player":"Jake Tonges",
+    "Industry Rank":41,
+    "FFA Rank":61,
+    "Diff":-20,
+    "Player":"Cole Kmet",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"KC"
+    "Team":"CHI"
   },
   {
     "Value":2.0,
@@ -711,13 +751,13 @@
   },
   {
     "Value":2.0,
-    "Industry Rank":42,
-    "FFA Rank":61,
-    "Diff":-19,
-    "Player":"Cole Kmet",
+    "Industry Rank":37,
+    "FFA Rank":80,
+    "Diff":-43,
+    "Player":"Jake Tonges",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"CHI"
+    "Team":"KC"
   },
   {
     "Value":2.0,
