@@ -1,15 +1,5 @@
 [
   {
-    "Value":63.0,
-    "Industry Rank":13,
-    "FFA Rank":11,
-    "Diff":2,
-    "Player":"Nico Collins",
-    "Rookie":"",
-    "Pos":"WR",
-    "Team":"HOU"
-  },
-  {
     "Value":54.0,
     "Industry Rank":31,
     "FFA Rank":15,
@@ -21,9 +11,9 @@
   },
   {
     "Value":53.0,
-    "Industry Rank":22,
+    "Industry Rank":21,
     "FFA Rank":16,
-    "Diff":6,
+    "Diff":5,
     "Player":"Rome Odunze",
     "Rookie":"",
     "Pos":"WR",
@@ -61,9 +51,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":26,
+    "Industry Rank":27,
     "FFA Rank":22,
-    "Diff":4,
+    "Diff":5,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -121,9 +111,9 @@
   },
   {
     "Value":31.0,
-    "Industry Rank":16,
+    "Industry Rank":17,
     "FFA Rank":14,
-    "Diff":2,
+    "Diff":3,
     "Player":"Javonte Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -211,9 +201,9 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":12,
+    "Industry Rank":11,
     "FFA Rank":8,
-    "Diff":4,
+    "Diff":3,
     "Player":"Jaxson Dart",
     "Rookie":"",
     "Pos":"QB",
@@ -251,16 +241,6 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":36,
-    "FFA Rank":29,
-    "Diff":7,
-    "Player":"Zach Charbonnet",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"SEA"
-  },
-  {
-    "Value":14.0,
     "Industry Rank":17,
     "FFA Rank":10,
     "Diff":7,
@@ -268,6 +248,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"LAC"
+  },
+  {
+    "Value":14.0,
+    "Industry Rank":36,
+    "FFA Rank":29,
+    "Diff":7,
+    "Player":"Zach Charbonnet",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"SEA"
   },
   {
     "Value":11.0,
@@ -278,16 +268,6 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"HOU"
-  },
-  {
-    "Value":10.0,
-    "Industry Rank":38,
-    "FFA Rank":36,
-    "Diff":2,
-    "Player":"Chuba Hubbard",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CAR"
   },
   {
     "Value":9.0,
@@ -371,9 +351,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":30,
+    "Industry Rank":32,
     "FFA Rank":20,
-    "Diff":10,
+    "Diff":12,
     "Player":"Mason Taylor",
     "Rookie":"",
     "Pos":"TE",
@@ -381,9 +361,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":26,
+    "Industry Rank":27,
     "FFA Rank":21,
-    "Diff":5,
+    "Diff":6,
     "Player":"Gunnar Helm",
     "Rookie":"",
     "Pos":"TE",
@@ -421,9 +401,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":30,
-    "Diff":9,
+    "Diff":8,
     "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -452,12 +432,22 @@
   {
     "Value":5.0,
     "Industry Rank":35,
-    "FFA Rank":28,
-    "Diff":7,
-    "Player":"Cade Otton",
+    "FFA Rank":26,
+    "Diff":9,
+    "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"TB"
+    "Team":"PIT"
+  },
+  {
+    "Value":5.0,
+    "Industry Rank":27,
+    "FFA Rank":25,
+    "Diff":2,
+    "Player":"Malik Willis",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"FA"
   },
   {
     "Value":5.0,
@@ -472,12 +462,12 @@
   {
     "Value":5.0,
     "Industry Rank":34,
-    "FFA Rank":26,
-    "Diff":8,
-    "Player":"Pat Freiermuth",
+    "FFA Rank":28,
+    "Diff":6,
+    "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"PIT"
+    "Team":"TB"
   },
   {
     "Value":4.0,
@@ -561,9 +551,19 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":46,
+    "Industry Rank":38,
+    "FFA Rank":36,
+    "Diff":2,
+    "Player":"Jalen Milroe",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":"SEA"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":47,
     "FFA Rank":33,
-    "Diff":13,
+    "Diff":14,
     "Player":"Justin Fields",
     "Rookie":"",
     "Pos":"QB",
