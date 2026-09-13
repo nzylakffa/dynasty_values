@@ -171,9 +171,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":31,
+    "Industry Rank":30,
     "FFA Rank":20,
-    "Diff":11,
+    "Diff":10,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -211,9 +211,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
     "FFA Rank":26,
-    "Diff":4,
+    "Diff":5,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -221,9 +221,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":39,
+    "Industry Rank":38,
     "FFA Rank":27,
-    "Diff":12,
+    "Diff":11,
     "Player":"Mike Washington Jr.",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -251,9 +251,9 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":36,
+    "Industry Rank":37,
     "FFA Rank":29,
-    "Diff":7,
+    "Diff":8,
     "Player":"Zach Charbonnet",
     "Rookie":"",
     "Pos":"RB",
@@ -271,9 +271,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":48,
+    "Industry Rank":49,
     "FFA Rank":40,
-    "Diff":8,
+    "Diff":9,
     "Player":"Nicholas Singleton",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -291,23 +291,13 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":46,
+    "Industry Rank":47,
     "FFA Rank":43,
-    "Diff":3,
+    "Diff":4,
     "Player":"Emmett Johnson",
     "Rookie":"Rookie",
     "Pos":"RB",
     "Team":"Nebraska"
-  },
-  {
-    "Value":8.0,
-    "Industry Rank":16,
-    "FFA Rank":14,
-    "Diff":2,
-    "Player":"Eli Stowers",
-    "Rookie":"Rookie",
-    "Pos":"TE",
-    "Team":"Vanderbilt"
   },
   {
     "Value":8.0,
@@ -432,12 +422,12 @@
   {
     "Value":5.0,
     "Industry Rank":35,
-    "FFA Rank":26,
-    "Diff":9,
-    "Player":"Pat Freiermuth",
+    "FFA Rank":28,
+    "Diff":7,
+    "Player":"Cade Otton",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"PIT"
+    "Team":"TB"
   },
   {
     "Value":5.0,
@@ -462,12 +452,12 @@
   {
     "Value":5.0,
     "Industry Rank":34,
-    "FFA Rank":28,
-    "Diff":6,
-    "Player":"Cade Otton",
+    "FFA Rank":26,
+    "Diff":8,
+    "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"TB"
+    "Team":"PIT"
   },
   {
     "Value":4.0,
@@ -548,16 +538,6 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ATL"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":38,
-    "FFA Rank":36,
-    "Diff":2,
-    "Player":"Jalen Milroe",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"SEA"
   },
   {
     "Value":4.0,
