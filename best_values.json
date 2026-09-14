@@ -241,16 +241,6 @@
   },
   {
     "Value":14.0,
-    "Industry Rank":17,
-    "FFA Rank":10,
-    "Diff":7,
-    "Player":"Oronde Gadsden",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"LAC"
-  },
-  {
-    "Value":14.0,
     "Industry Rank":37,
     "FFA Rank":29,
     "Diff":8,
@@ -258,6 +248,16 @@
     "Rookie":"",
     "Pos":"RB",
     "Team":"SEA"
+  },
+  {
+    "Value":14.0,
+    "Industry Rank":17,
+    "FFA Rank":10,
+    "Diff":7,
+    "Player":"Oronde Gadsden",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"LAC"
   },
   {
     "Value":11.0,
@@ -271,9 +271,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":49,
+    "Industry Rank":48,
     "FFA Rank":40,
-    "Diff":9,
+    "Diff":8,
     "Player":"Nicholas Singleton",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -291,9 +291,19 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":47,
+    "Industry Rank":16,
+    "FFA Rank":14,
+    "Diff":2,
+    "Player":"Eli Stowers",
+    "Rookie":"Rookie",
+    "Pos":"TE",
+    "Team":"Vanderbilt"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":46,
     "FFA Rank":43,
-    "Diff":4,
+    "Diff":3,
     "Player":"Emmett Johnson",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -301,13 +311,33 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":20,
+    "Industry Rank":21,
     "FFA Rank":16,
-    "Diff":4,
+    "Diff":5,
     "Player":"Cam Ward",
     "Rookie":"",
     "Pos":"QB",
     "Team":"TEN"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":49,
+    "FFA Rank":47,
+    "Diff":2,
+    "Player":"Rachaad White",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"WAS"
+  },
+  {
+    "Value":7.0,
+    "Industry Rank":50,
+    "FFA Rank":48,
+    "Diff":2,
+    "Player":"Keaton Mitchell",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"LAC"
   },
   {
     "Value":6.0,
@@ -371,19 +401,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":21,
-    "FFA Rank":19,
-    "Diff":2,
-    "Player":"C.J. Stroud",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":"HOU"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":22,
-    "Diff":11,
+    "Diff":12,
     "Player":"Max Klare",
     "Rookie":"Rookie",
     "Pos":"TE",
@@ -391,9 +411,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":38,
+    "Industry Rank":39,
     "FFA Rank":30,
-    "Diff":8,
+    "Diff":9,
     "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -451,9 +471,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":26,
-    "Diff":8,
+    "Diff":7,
     "Player":"Pat Freiermuth",
     "Rookie":"",
     "Pos":"TE",
