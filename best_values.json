@@ -51,9 +51,9 @@
   },
   {
     "Value":46.0,
-    "Industry Rank":27,
+    "Industry Rank":26,
     "FFA Rank":22,
-    "Diff":5,
+    "Diff":4,
     "Player":"Jordyn Tyson",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -91,9 +91,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":40,
+    "Industry Rank":39,
     "FFA Rank":31,
-    "Diff":9,
+    "Diff":8,
     "Player":"Denzel Boston",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -111,9 +111,9 @@
   },
   {
     "Value":31.0,
-    "Industry Rank":17,
+    "Industry Rank":16,
     "FFA Rank":14,
-    "Diff":3,
+    "Diff":2,
     "Player":"Javonte Williams",
     "Rookie":"",
     "Pos":"RB",
@@ -171,9 +171,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
     "FFA Rank":20,
-    "Diff":10,
+    "Diff":11,
     "Player":"RJ Harvey",
     "Rookie":"",
     "Pos":"RB",
@@ -181,9 +181,9 @@
   },
   {
     "Value":24.0,
-    "Industry Rank":48,
+    "Industry Rank":47,
     "FFA Rank":39,
-    "Diff":9,
+    "Diff":8,
     "Player":"Omar Cooper Jr.",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -211,9 +211,9 @@
   },
   {
     "Value":16.0,
-    "Industry Rank":31,
+    "Industry Rank":32,
     "FFA Rank":26,
-    "Diff":5,
+    "Diff":6,
     "Player":"Jonah Coleman",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -230,26 +230,6 @@
     "Team":"Arkansas"
   },
   {
-    "Value":15.0,
-    "Industry Rank":32,
-    "FFA Rank":28,
-    "Diff":4,
-    "Player":"Kyle Monangai",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"CHI"
-  },
-  {
-    "Value":14.0,
-    "Industry Rank":37,
-    "FFA Rank":29,
-    "Diff":8,
-    "Player":"Zach Charbonnet",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"SEA"
-  },
-  {
     "Value":14.0,
     "Industry Rank":17,
     "FFA Rank":10,
@@ -258,6 +238,16 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"LAC"
+  },
+  {
+    "Value":14.0,
+    "Industry Rank":36,
+    "FFA Rank":29,
+    "Diff":7,
+    "Player":"Zach Charbonnet",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"SEA"
   },
   {
     "Value":11.0,
@@ -271,9 +261,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":48,
+    "Industry Rank":50,
     "FFA Rank":40,
-    "Diff":8,
+    "Diff":10,
     "Player":"Nicholas Singleton",
     "Rookie":"Rookie",
     "Pos":"RB",
@@ -291,16 +281,6 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":16,
-    "FFA Rank":14,
-    "Diff":2,
-    "Player":"Eli Stowers",
-    "Rookie":"Rookie",
-    "Pos":"TE",
-    "Team":"Vanderbilt"
-  },
-  {
-    "Value":8.0,
     "Industry Rank":46,
     "FFA Rank":43,
     "Diff":3,
@@ -308,6 +288,16 @@
     "Rookie":"Rookie",
     "Pos":"RB",
     "Team":"Nebraska"
+  },
+  {
+    "Value":8.0,
+    "Industry Rank":16,
+    "FFA Rank":14,
+    "Diff":2,
+    "Player":"Eli Stowers",
+    "Rookie":"Rookie",
+    "Pos":"TE",
+    "Team":"Vanderbilt"
   },
   {
     "Value":8.0,
@@ -330,34 +320,24 @@
     "Team":"WAS"
   },
   {
-    "Value":7.0,
-    "Industry Rank":50,
-    "FFA Rank":48,
-    "Diff":2,
-    "Player":"Keaton Mitchell",
-    "Rookie":"",
-    "Pos":"RB",
-    "Team":"LAC"
-  },
-  {
     "Value":6.0,
     "Industry Rank":22,
-    "FFA Rank":18,
-    "Diff":4,
-    "Player":"Juwan Johnson",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"NO"
-  },
-  {
-    "Value":6.0,
-    "Industry Rank":21,
     "FFA Rank":17,
-    "Diff":4,
+    "Diff":5,
     "Player":"Chigoziem Okonkwo",
     "Rookie":"",
     "Pos":"TE",
     "Team":"WAS"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":21,
+    "FFA Rank":18,
+    "Diff":3,
+    "Player":"Juwan Johnson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"NO"
   },
   {
     "Value":6.0,
@@ -391,9 +371,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":23,
+    "Industry Rank":24,
     "FFA Rank":20,
-    "Diff":3,
+    "Diff":4,
     "Player":"Kyler Murray",
     "Rookie":"",
     "Pos":"QB",
@@ -411,9 +391,9 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":39,
+    "Industry Rank":40,
     "FFA Rank":30,
-    "Diff":9,
+    "Diff":10,
     "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
@@ -471,6 +451,16 @@
   },
   {
     "Value":5.0,
+    "Industry Rank":25,
+    "FFA Rank":23,
+    "Diff":2,
+    "Player":"T.J. Hockenson",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"MIN"
+  },
+  {
+    "Value":5.0,
     "Industry Rank":33,
     "FFA Rank":26,
     "Diff":7,
@@ -478,16 +468,6 @@
     "Rookie":"",
     "Pos":"TE",
     "Team":"PIT"
-  },
-  {
-    "Value":4.0,
-    "Industry Rank":36,
-    "FFA Rank":27,
-    "Diff":9,
-    "Player":"Tua Tagovailoa",
-    "Rookie":"",
-    "Pos":"QB",
-    "Team":""
   },
   {
     "Value":4.0,
@@ -558,6 +538,16 @@
     "Rookie":"",
     "Pos":"QB",
     "Team":"ATL"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":37,
+    "FFA Rank":27,
+    "Diff":10,
+    "Player":"Tua Tagovailoa",
+    "Rookie":"",
+    "Pos":"QB",
+    "Team":""
   },
   {
     "Value":4.0,
