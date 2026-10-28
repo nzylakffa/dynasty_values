@@ -1,9 +1,9 @@
 [
   {
     "Value":89.0,
-    "Industry Rank":7,
+    "Industry Rank":8,
     "FFA Rank":4,
-    "Diff":3,
+    "Diff":4,
     "Player":"Justin Jefferson",
     "Rookie":"",
     "Pos":"WR",
@@ -51,9 +51,9 @@
   },
   {
     "Value":62.0,
-    "Industry Rank":20,
+    "Industry Rank":21,
     "FFA Rank":12,
-    "Diff":8,
+    "Diff":9,
     "Player":"Emeka Egbuka",
     "Rookie":"",
     "Pos":"WR",
@@ -61,9 +61,9 @@
   },
   {
     "Value":54.0,
-    "Industry Rank":47,
+    "Industry Rank":48,
     "FFA Rank":15,
-    "Diff":32,
+    "Diff":33,
     "Player":"Brian Thomas Jr.",
     "Rookie":"",
     "Pos":"WR",
@@ -81,9 +81,9 @@
   },
   {
     "Value":52.0,
-    "Industry Rank":27,
+    "Industry Rank":28,
     "FFA Rank":17,
-    "Diff":10,
+    "Diff":11,
     "Player":"Jameson Williams",
     "Rookie":"",
     "Pos":"WR",
@@ -91,9 +91,9 @@
   },
   {
     "Value":50.0,
-    "Industry Rank":28,
+    "Industry Rank":29,
     "FFA Rank":18,
-    "Diff":10,
+    "Diff":11,
     "Player":"Ladd McConkey",
     "Rookie":"",
     "Pos":"WR",
@@ -111,9 +111,9 @@
   },
   {
     "Value":47.0,
-    "Industry Rank":34,
+    "Industry Rank":30,
     "FFA Rank":20,
-    "Diff":14,
+    "Diff":10,
     "Player":"Makai Lemon",
     "Rookie":"Rookie",
     "Pos":"WR",
@@ -171,9 +171,9 @@
   },
   {
     "Value":34.0,
-    "Industry Rank":32,
+    "Industry Rank":33,
     "FFA Rank":30,
-    "Diff":2,
+    "Diff":3,
     "Player":"Rashee Rice",
     "Rookie":"",
     "Pos":"WR",
@@ -181,9 +181,9 @@
   },
   {
     "Value":33.0,
-    "Industry Rank":49,
+    "Industry Rank":47,
     "FFA Rank":33,
-    "Diff":16,
+    "Diff":14,
     "Player":"Alec Pierce",
     "Rookie":"",
     "Pos":"WR",
@@ -251,9 +251,9 @@
   },
   {
     "Value":26.0,
-    "Industry Rank":43,
+    "Industry Rank":45,
     "FFA Rank":36,
-    "Diff":7,
+    "Diff":9,
     "Player":"DK Metcalf",
     "Rookie":"",
     "Pos":"WR",
@@ -261,9 +261,9 @@
   },
   {
     "Value":25.0,
-    "Industry Rank":41,
+    "Industry Rank":43,
     "FFA Rank":38,
-    "Diff":3,
+    "Diff":5,
     "Player":"Jordan Addison",
     "Rookie":"",
     "Pos":"WR",
@@ -291,13 +291,23 @@
   },
   {
     "Value":22.0,
-    "Industry Rank":34,
+    "Industry Rank":33,
     "FFA Rank":22,
-    "Diff":12,
+    "Diff":11,
     "Player":"Travis Etienne",
     "Rookie":"",
     "Pos":"RB",
     "Team":"NO"
+  },
+  {
+    "Value":22.0,
+    "Industry Rank":49,
+    "FFA Rank":42,
+    "Diff":7,
+    "Player":"Davante Adams",
+    "Rookie":"",
+    "Pos":"WR",
+    "Team":"LAR"
   },
   {
     "Value":21.0,
@@ -321,23 +331,13 @@
   },
   {
     "Value":18.0,
-    "Industry Rank":14,
+    "Industry Rank":13,
     "FFA Rank":8,
-    "Diff":6,
+    "Diff":5,
     "Player":"Jaxson Dart",
     "Rookie":"",
     "Pos":"QB",
     "Team":"NYG"
-  },
-  {
-    "Value":16.0,
-    "Industry Rank":32,
-    "FFA Rank":26,
-    "Diff":6,
-    "Player":"Jonah Coleman",
-    "Rookie":"Rookie",
-    "Pos":"RB",
-    "Team":"Washington"
   },
   {
     "Value":16.0,
@@ -348,6 +348,16 @@
     "Rookie":"Rookie",
     "Pos":"RB",
     "Team":"Arkansas"
+  },
+  {
+    "Value":16.0,
+    "Industry Rank":31,
+    "FFA Rank":26,
+    "Diff":5,
+    "Player":"Jonah Coleman",
+    "Rookie":"Rookie",
+    "Pos":"RB",
+    "Team":"Washington"
   },
   {
     "Value":14.0,
@@ -361,6 +371,16 @@
   },
   {
     "Value":14.0,
+    "Industry Rank":32,
+    "FFA Rank":29,
+    "Diff":3,
+    "Player":"Zach Charbonnet",
+    "Rookie":"",
+    "Pos":"RB",
+    "Team":"SEA"
+  },
+  {
+    "Value":14.0,
     "Industry Rank":19,
     "FFA Rank":10,
     "Diff":9,
@@ -371,9 +391,9 @@
   },
   {
     "Value":12.0,
-    "Industry Rank":33,
+    "Industry Rank":34,
     "FFA Rank":30,
-    "Diff":3,
+    "Diff":4,
     "Player":"Rhamondre Stevenson",
     "Rookie":"",
     "Pos":"RB",
@@ -421,9 +441,9 @@
   },
   {
     "Value":9.0,
-    "Industry Rank":44,
+    "Industry Rank":43,
     "FFA Rank":39,
-    "Diff":5,
+    "Diff":4,
     "Player":"Jonathon Brooks",
     "Rookie":"",
     "Pos":"RB",
@@ -431,9 +451,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":20,
+    "Industry Rank":19,
     "FFA Rank":13,
-    "Diff":7,
+    "Diff":6,
     "Player":"Jake Ferguson",
     "Rookie":"",
     "Pos":"TE",
@@ -451,9 +471,9 @@
   },
   {
     "Value":8.0,
-    "Industry Rank":26,
+    "Industry Rank":27,
     "FFA Rank":16,
-    "Diff":10,
+    "Diff":11,
     "Player":"Cam Ward",
     "Rookie":"",
     "Pos":"QB",
@@ -471,9 +491,9 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":33,
+    "Industry Rank":32,
     "FFA Rank":21,
-    "Diff":12,
+    "Diff":11,
     "Player":"Gunnar Helm",
     "Rookie":"",
     "Pos":"TE",
@@ -491,9 +511,19 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":30,
+    "Industry Rank":31,
+    "FFA Rank":16,
+    "Diff":15,
+    "Player":"Mark Andrews",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"BAL"
+  },
+  {
+    "Value":6.0,
+    "Industry Rank":28,
     "FFA Rank":20,
-    "Diff":10,
+    "Diff":8,
     "Player":"Mason Taylor",
     "Rookie":"",
     "Pos":"TE",
@@ -501,13 +531,13 @@
   },
   {
     "Value":6.0,
-    "Industry Rank":29,
-    "FFA Rank":16,
-    "Diff":13,
-    "Player":"Mark Andrews",
+    "Industry Rank":20,
+    "FFA Rank":18,
+    "Diff":2,
+    "Player":"Juwan Johnson",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"BAL"
+    "Team":"NO"
   },
   {
     "Value":6.0,
@@ -531,13 +561,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":50,
-    "FFA Rank":24,
-    "Diff":26,
-    "Player":"David Njoku",
+    "Industry Rank":44,
+    "FFA Rank":30,
+    "Diff":14,
+    "Player":"Theo Johnson",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"FA"
+    "Team":"NYG"
   },
   {
     "Value":5.0,
@@ -561,13 +591,13 @@
   },
   {
     "Value":5.0,
-    "Industry Rank":45,
-    "FFA Rank":30,
-    "Diff":15,
-    "Player":"Theo Johnson",
+    "Industry Rank":38,
+    "FFA Rank":31,
+    "Diff":7,
+    "Player":"Elijah Arroyo",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"NYG"
+    "Team":"SEA"
   },
   {
     "Value":5.0,
@@ -580,24 +610,14 @@
     "Team":"TB"
   },
   {
-    "Value":5.0,
-    "Industry Rank":37,
-    "FFA Rank":31,
-    "Diff":6,
-    "Player":"Elijah Arroyo",
-    "Rookie":"",
-    "Pos":"TE",
-    "Team":"SEA"
-  },
-  {
     "Value":4.0,
-    "Industry Rank":49,
-    "FFA Rank":42,
-    "Diff":7,
-    "Player":"Ja'Tavion Sanders",
+    "Industry Rank":50,
+    "FFA Rank":39,
+    "Diff":11,
+    "Player":"Noah Gray",
     "Rookie":"",
     "Pos":"TE",
-    "Team":"CAR"
+    "Team":"KC"
   },
   {
     "Value":4.0,
@@ -611,9 +631,19 @@
   },
   {
     "Value":4.0,
-    "Industry Rank":44,
+    "Industry Rank":49,
+    "FFA Rank":42,
+    "Diff":7,
+    "Player":"Ja'Tavion Sanders",
+    "Rookie":"",
+    "Pos":"TE",
+    "Team":"CAR"
+  },
+  {
+    "Value":4.0,
+    "Industry Rank":45,
     "FFA Rank":35,
-    "Diff":9,
+    "Diff":10,
     "Player":"Evan Engram",
     "Rookie":"",
     "Pos":"TE",
